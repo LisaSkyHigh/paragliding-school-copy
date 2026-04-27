@@ -1,5 +1,5 @@
-# Static export to GitHub Pages (same hosting model as lisaskyhigh.github.io/oludeniz-fly).
-# After first push: Repo → Settings → Pages → ensure "GitHub Actions" is the source (usually auto).
+# Copy to `.github/workflows/deploy-github-pages.yml` when your Git token has the `workflow` scope.
+# GitHub OAuth apps cannot push workflow files without it; see docs/CHECKPOINT-rollback-and-site-map.md.
 
 name: Deploy to GitHub Pages
 

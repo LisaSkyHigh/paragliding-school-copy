@@ -37,21 +37,20 @@ git show checkpoint/bgd-shop-2026-04-27 --stat
 
 ## Как сохранить на GitHub
 
-1. Создайте **пустой** репозиторий на GitHub (без README, если уже есть локальный коммит).
-2. В корне проекта:
+**Репозиторий создан:** [https://github.com/LisaSkyHigh/paragliding-school-copy](https://github.com/LisaSkyHigh/paragliding-school-copy) (приватный). Локально уже настроен `origin`.
+
+Первая отправка кода и тега:
 
 ```bash
-git remote add origin https://github.com/<ваш-логин>/<имя-репо>.git
-git branch -M main
+cd paragliding-school-copy
 git push -u origin main
 git push origin checkpoint/bgd-shop-2026-04-27
+# или: git push origin --tags
 ```
 
-Или одной командой отправить все теги:
+### GitHub Actions и OAuth
 
-```bash
-git push origin --tags
-```
+Файл workflow для Pages лежит в **`docs/github-actions-deploy-github-pages.yml`** (копия). В корне **нет** `.github/workflows/…`, потому что push с токеном без scope `workflow` GitHub отклоняет. Чтобы включить деплой через Actions: выполните `gh auth refresh -s workflow`, затем скопируйте YAML в `.github/workflows/deploy-github-pages.yml` и закоммитьте.
 
 ## Работа «на дубле» после контрольной точки
 
