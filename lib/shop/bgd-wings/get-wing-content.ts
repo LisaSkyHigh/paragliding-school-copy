@@ -41,6 +41,31 @@ export function getManualWingsInFinderOrder(): { slug: string; name: string }[] 
   return uniqueGliderFinderModels().filter((m) => getBgdProductDetail(m.slug) !== undefined)
 }
 
+/**
+ * Paragliders hub gallery: lead order from user screenshots, then remaining manual wings in finder order.
+ */
+const GALLERY_LEAD_SLUGS = [
+  'magic-2',
+  'adam-2',
+  'base-3',
+  'epic-2',
+  'lynx-2',
+  'epic-freestyle',
+] as const
+
+export function getManualWingsGalleryOrdered(): { slug: string; name: string }[] {
+  const all = getManualWingsInFinderOrder()
+  const bySlug = new Map(all.map((m) => [m.slug, m]))
+  const head: { slug: string; name: string }[] = []
+  for (const slug of GALLERY_LEAD_SLUGS) {
+    const m = bySlug.get(slug)
+    if (m) head.push(m)
+  }
+  const pin = new Set<string>(GALLERY_LEAD_SLUGS)
+  const tail = all.filter((m) => !pin.has(m.slug))
+  return [...head, ...tail]
+}
+
 /** Prefer hand-maintained BGD product page (e.g. Adam Spot full specs) when present. */
 export function getWingForPage(slug: string):
   | { type: 'manual'; detail: BgdProductDetail }
