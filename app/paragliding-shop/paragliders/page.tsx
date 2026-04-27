@@ -4,7 +4,8 @@ import GliderFinderTileGrid from '@/components/shop/GliderFinderTileGrid'
 import ParaglidersGalleryCarousel from '@/components/shop/ParaglidersGalleryCarousel'
 import ShopBreadcrumbs from '@/components/shop/ShopBreadcrumbs'
 import { shopBgd } from '@/lib/copy/shop-bgd'
-import { shopBgdHeroPublicPath, uniqueGliderFinderModels } from '@/lib/shop/bgd-glider-finder'
+import { getManualWingsInFinderOrder } from '@/lib/shop/bgd-wings/get-wing-content'
+import { shopBgdHeroPublicPath } from '@/lib/shop/bgd-glider-finder'
 import { publicPath } from '@/lib/public-path'
 import { generateMetadata } from '@/lib/seo'
 
@@ -16,7 +17,7 @@ export const metadata: Metadata = generateMetadata({
 })
 
 export default function ParaglidersPage() {
-  const carouselItems = uniqueGliderFinderModels().map((m) => ({
+  const carouselItems = getManualWingsInFinderOrder().map((m) => ({
     src: publicPath(shopBgdHeroPublicPath(m.slug)),
     label: m.name,
   }))

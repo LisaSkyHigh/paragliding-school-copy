@@ -1,5 +1,6 @@
 import scrapedIndex from '@/lib/shop/bgd-wings/scraped-wings.json'
 import { getBgdProductDetail, type BgdProductDetail } from '@/lib/shop/bgd-product-detail'
+import { uniqueGliderFinderModels } from '@/lib/shop/bgd-glider-finder'
 import { catalogBySlug, type BgdWingCatalogEntry } from '@/lib/shop/bgd-wings/catalog'
 import { publicPath } from '@/lib/public-path'
 
@@ -30,6 +31,14 @@ const file = scrapedIndex as ScrapedFile
 
 export function isKnownWingSlug(slug: string): boolean {
   return catalogBySlug().has(slug)
+}
+
+/**
+ * Glider finder table order, but only models that have a hand-maintained product page (`getBgdProductDetail`).
+ * Used on the Paragliders hub for tiles and gallery — excludes catalog-only wings (e.g. WASP) until a manual page exists.
+ */
+export function getManualWingsInFinderOrder(): { slug: string; name: string }[] {
+  return uniqueGliderFinderModels().filter((m) => getBgdProductDetail(m.slug) !== undefined)
 }
 
 /** Prefer hand-maintained BGD product page (e.g. Adam Spot full specs) when present. */
