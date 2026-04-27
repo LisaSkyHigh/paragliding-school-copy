@@ -125,6 +125,28 @@ export function uniqueGliderSlugs(): { slug: string; name: string }[] {
   return allCatalogSlugs()
 }
 
+/**
+ * Models that appear in the Glider finder section tables only (deduped; order follows sections top-to-bottom).
+ */
+export function uniqueGliderFinderModels(): { slug: string; name: string }[] {
+  const seen = new Set<string>()
+  const out: { slug: string; name: string }[] = []
+  for (const sec of bgdGliderSections) {
+    for (const row of sec.rows) {
+      if (seen.has(row.slug)) continue
+      seen.add(row.slug)
+      out.push({ slug: row.slug, name: row.name })
+    }
+  }
+  return out
+}
+
+/** Local hero under `/public/shop/bgd/{slug}/` (fetch script uses `.jpg` except where noted). */
+export function shopBgdHeroPublicPath(slug: string): string {
+  const ext = slug === 'epic-freestyle' ? 'png' : 'jpg'
+  return `/shop/bgd/${slug}/hero.${ext}`
+}
+
 export function certBadgeClass(cert: string): string {
   if (cert.includes('LTF-A') || cert === 'EN/LTF-A') return 'bg-emerald-100 text-emerald-900'
   if (cert.includes('LTF-B') || cert === 'EN/LTF-B') return 'bg-teal-100 text-teal-900'

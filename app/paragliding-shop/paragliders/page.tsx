@@ -1,9 +1,10 @@
 import type { Metadata } from 'next'
-import Image from 'next/image'
 import BgdGliderFinder from '@/components/shop/BgdGliderFinder'
-import ParagliderModelGrid from '@/components/shop/ParagliderModelGrid'
+import GliderFinderTileGrid from '@/components/shop/GliderFinderTileGrid'
+import ParaglidersGalleryCarousel from '@/components/shop/ParaglidersGalleryCarousel'
 import ShopBreadcrumbs from '@/components/shop/ShopBreadcrumbs'
 import { shopBgd } from '@/lib/copy/shop-bgd'
+import { shopBgdHeroPublicPath, uniqueGliderFinderModels } from '@/lib/shop/bgd-glider-finder'
 import { publicPath } from '@/lib/public-path'
 import { generateMetadata } from '@/lib/seo'
 
@@ -15,9 +16,14 @@ export const metadata: Metadata = generateMetadata({
 })
 
 export default function ParaglidersPage() {
+  const carouselItems = uniqueGliderFinderModels().map((m) => ({
+    src: publicPath(shopBgdHeroPublicPath(m.slug)),
+    label: m.name,
+  }))
+
   return (
     <div className="bg-warm-white min-h-screen">
-      <div className="layout-container max-w-4xl pt-20 lg:pt-24 pb-10 lg:pb-16">
+      <div className="layout-container max-w-5xl pt-20 lg:pt-24 pb-10 lg:pb-16">
         <ShopBreadcrumbs
           items={[
             { label: 'Home', href: '/' },
@@ -26,49 +32,28 @@ export default function ParaglidersPage() {
           ]}
         />
         <h1
-          className="text-3xl sm:text-4xl font-bold text-sky-deep mb-4"
+          className="text-3xl sm:text-4xl font-bold text-sky-deep mb-3"
           style={{ fontFamily: 'var(--font-fraunces)' }}
         >
           Paragliders
         </h1>
-        <div className="relative w-full max-w-3xl aspect-[16/9] mb-8 rounded-lg overflow-hidden bg-cloud">
-          <Image
-            src={publicPath('/shop/categories/paragliders.jpg')}
-            alt="BGD paragliders (manufacturer photo, local copy)"
-            fill
-            className="object-cover object-center"
-            sizes="(max-width: 768px) 100vw, 42rem"
-            priority
-            unoptimized
-          />
-        </div>
         <p
-          className="text-slate text-base sm:text-lg leading-relaxed max-w-2xl mb-8"
+          className="text-slate text-xs sm:text-sm leading-relaxed max-w-2xl mb-6"
           style={{ fontFamily: 'var(--font-inter)' }}
         >
-          {shopBgd.brandBlurb.body}{' '}
-          <a
-            href={shopBgd.brandBlurb.official}
-            className="text-horizon underline hover:text-sky-deep"
-            target="_blank"
-            rel="noreferrer"
-          >
-            BGD (official)
-          </a>
-          .
+          {shopBgd.brandBlurb.body}
         </p>
 
+        <GliderFinderTileGrid />
+
         <BgdGliderFinder />
-        <ParagliderModelGrid />
+
+        <ParaglidersGalleryCarousel items={carouselItems} />
 
         <p className="text-xs text-slate/80 mt-10 pt-6 border-t border-cloud" style={{ fontFamily: 'var(--font-inter)' }}>
-          Bruce Goldsmith Design and BGD are trademarks of their owner. Descriptive text on
-          product pages is reproduced for students and customers in line with the public pages
-          on{' '}
-          <a href="https://www.flybgd.com" className="text-horizon underline" target="_blank" rel="noreferrer">
-            flybgd.com
-          </a>
-          . Always refer to the manufacturer for the latest certifications and manual.
+          Bruce Goldsmith Design and BGD are trademarks of their owner. Descriptive text on product pages is compiled
+          from the manufacturer&rsquo;s public materials. Always confirm the latest certifications and manuals with your
+          dealer before flight.
         </p>
       </div>
     </div>
