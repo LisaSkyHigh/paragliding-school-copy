@@ -26,9 +26,11 @@ export default function ParaglidersPage() {
     src: publicPath(shopBgdHeroPublicPath(m.slug)),
     label: m.name,
   }))
-  const blurbWords = shopBgd.brandBlurb.body.trim().split(/\s+/)
-  const blurbFirst = blurbWords[0] ?? ''
-  const blurbRest = blurbWords.slice(1).join(' ')
+  const blurbLead = 'Bruce Goldsmith Design (BGD)'
+  const blurbBody = shopBgd.brandBlurb.body.trim()
+  const blurbRest = blurbBody.startsWith(blurbLead)
+    ? blurbBody.slice(blurbLead.length).trimStart()
+    : blurbBody
 
   return (
     <div className="bg-warm-white min-h-screen">
@@ -51,7 +53,7 @@ export default function ParaglidersPage() {
             className="text-slate text-xs sm:text-sm leading-relaxed flex-1 min-w-0 lg:max-w-2xl"
             style={{ fontFamily: 'var(--font-inter)' }}
           >
-            <strong className="font-bold text-soft-black">{blurbFirst}</strong> {blurbRest}
+            <strong className="font-bold text-soft-black">{blurbLead}</strong> {blurbRest}
           </p>
           <div className="flex flex-col items-center lg:items-end shrink-0 mx-auto lg:mx-0 lg:min-w-[200px]">
             <Image
@@ -62,12 +64,6 @@ export default function ParaglidersPage() {
               unoptimized
               className="w-[200px] sm:w-[240px] lg:w-[280px] h-auto"
             />
-            <span
-              className="mt-2 text-[11px] sm:text-xs font-bold tracking-[0.35em] text-soft-black uppercase"
-              style={{ fontFamily: 'var(--font-inter)' }}
-            >
-              BGD
-            </span>
           </div>
         </div>
 
