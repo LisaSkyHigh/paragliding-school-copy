@@ -39,6 +39,8 @@ export type BgdProductDetail = {
   slug: string
   title: string
   subtitle: string
+  /** BGD product-page strip above H1 (flybgd.com tagline). */
+  heroTagline: string
   lede: string
   features: string[]
   officialUrl: string
@@ -87,6 +89,7 @@ const adamSpot: BgdProductDetail = {
   slug: 'adam-spot',
   title: 'Adam Spot',
   subtitle: 'EN/LTF-A',
+  heroTagline: 'Choice of champions',
   lede: 'Easy, safe and controllable, the Adam Spot is our dedicated accuracy wing.',
   features: [
     'Excellent Controllability',
@@ -207,6 +210,7 @@ const adam2: BgdProductDetail = {
   slug: 'adam-2',
   title: 'Adam 2',
   subtitle: 'EN/LTF-A',
+  heroTagline: 'In the Beginning',
   lede: 'From first flights to cross country, set your spirit free',
   features: [
     'BGD Parasim Simulation Software',
@@ -355,6 +359,7 @@ const anda: BgdProductDetail = {
   slug: 'anda',
   title: 'Anda',
   subtitle: 'EN/LTF-A',
+  heroTagline: 'Take the Leap',
   lede: 'A super-light breath of fresh air, the ANDA is packable and versatile, for travel adventures, hike-and-fly and projects in high mountains',
   features: [
     'Remarkably Lightweight',
@@ -524,6 +529,7 @@ const magic2: BgdProductDetail = {
   slug: 'magic-2',
   title: 'Magic 2',
   subtitle: 'EN/LTF-A',
+  heroTagline: 'One Dream, One Soul',
   lede: 'A safe and fun wing that will keep new pilots in love with this amazing sport as they explore what it has to offer.',
   features: [
     'BGD Performance Project',
@@ -674,6 +680,7 @@ const epic2: BgdProductDetail = {
   slug: 'epic-2',
   title: 'Epic 2',
   subtitle: 'EN/LTF-B',
+  heroTagline: 'La Dolce Vita',
   lede: 'The pleasure of flying, the beautiful life! The EPIC 2 has impeccable safety and fun handling. It’s the perfect partner for playing locally, exploring cross-country or starting out in freestyle.',
   features: [
     'B/C Speed Steering',
@@ -821,6 +828,7 @@ const epicFreestyle: BgdProductDetail = {
   slug: 'epic-freestyle',
   title: 'Epic Freestyle',
   subtitle: 'EN/LTF-B',
+  heroTagline: 'The Spin Doctor',
   lede:
     'A fun and forgiving companion that will look after you when you start out in freestyle, and match your groove as you master all the moves and transitions',
   features: [
@@ -959,6 +967,7 @@ const echo2: BgdProductDetail = {
   slug: 'echo-2',
   title: 'Echo 2',
   subtitle: 'EN/LTF-B',
+  heroTagline: 'There and Back',
   lede: 'A mischievous mountain nymph, the ECHO 2 is full of fun. It’s a lightweight EPIC 2 with the same lust for life, and a lighter spirit.',
   features: [
     'BGD Parasim Simulation Software',
@@ -1106,6 +1115,7 @@ const base3: BgdProductDetail = {
   slug: 'base-3',
   title: 'Base 3',
   subtitle: 'EN/LTF-B',
+  heroTagline: 'Top of the stack',
   lede:
     'A cross-country wing with top-of-B-class performance and low-B safety – hop on, clip in and sky out!',
   features: [
@@ -1244,6 +1254,7 @@ const breeze: BgdProductDetail = {
   slug: 'breeze',
   title: 'Breeze',
   subtitle: 'EN/LTF-B',
+  heroTagline: 'Ride the wind',
   lede:
     'Light and easy, like a gentle breeze. The BREEZE is a stress-free glider with top of B-class performance. Hike, fly, camp, repeat!',
   features: [
@@ -1375,6 +1386,7 @@ const lynx2: BgdProductDetail = {
   slug: 'lynx-2',
   title: 'Lynx 2',
   subtitle: 'EN C',
+  heroTagline: 'Leave No Trace',
   lede:
     'Inspiring confidence in the strongest conditions, the LYNX 2 is a trusty companion that will keep you safe while you move swiftly through the wilds',
   features: [
@@ -1512,6 +1524,7 @@ const cure3: BgdProductDetail = {
   slug: 'cure-3',
   title: 'Cure 3',
   subtitle: 'EN C',
+  heroTagline: 'The Miracle',
   lede:
     'Made for big XCs and serial-class racing, our high-performance EN-C two-liner is pure performance and a joy to fly!',
   features: ['2-liner', 'High Arc', 'Raked Wingtips', 'Reflex profile', 'Winglets'],
@@ -1647,6 +1660,7 @@ const diva2: BgdProductDetail = {
   slug: 'diva-2',
   title: 'Diva 2',
   subtitle: 'EN D',
+  heroTagline: 'Born to perform',
   lede:
     'Racy, bold and dressed to impress, the Diva 2 is a high-performance two-liner for XC and competitions.',
   features: [
@@ -1782,6 +1796,7 @@ const seed: BgdProductDetail = {
   slug: 'seed',
   title: 'Seed',
   subtitle: 'Ground-handling',
+  heroTagline: 'Grow your skills',
   lede: 'Great pilots were first great ground handlers. Learn to kite, grow your skills.',
   features: [
     'Chord Cut Billow (CCB)',
@@ -1886,6 +1901,7 @@ const dual3: BgdProductDetail = {
   slug: 'dual-3',
   title: 'Dual 3',
   subtitle: 'EN/LTF-B',
+  heroTagline: 'Thrill and chill',
   lede:
     'With effortless launching and a smooth, relaxed feel, the DUAL 3 performs in harmony with pilot and passenger',
   features: [
@@ -1999,6 +2015,7 @@ const dualLite: BgdProductDetail = {
   slug: 'dual-lite',
   title: 'Dual Lite',
   subtitle: 'EN/LTF-B',
+  heroTagline: 'Share the Adventure',
   lede:
     'Specifically designed for adventure teams we have optimised performance, weight, and safety making hike-and-fly, vol bivouac, and big XCs easier.',
   features: [

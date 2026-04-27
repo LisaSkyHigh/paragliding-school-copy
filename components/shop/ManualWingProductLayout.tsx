@@ -272,7 +272,7 @@ export default function ManualWingProductLayout({ detail }: { detail: BgdProduct
                   className="text-center lg:text-left text-sm font-semibold uppercase tracking-[0.2em] text-slate mb-4"
                   style={{ fontFamily: 'var(--font-inter)' }}
                 >
-                  — Choice of champions —
+                  — {detail.heroTagline} —
                 </p>
                 <h1
                   className="text-center lg:text-left text-4xl sm:text-5xl font-bold text-sky-deep mb-1"
