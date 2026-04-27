@@ -14,10 +14,6 @@ import { generateMetadata } from '@/lib/seo'
 const BGD_LOGO_SRC =
   'https://cdn.flybgd.com/assets/pict/page/logo-header.svg?v=1737451713'
 
-/** Same horizontal box as the carousel image — heading + blurb align with photo edges. */
-const GALLERY_OUTER_CLASS =
-  'w-full max-w-[min(98vw,1600px)] mx-auto px-2 sm:px-3 md:px-4'
-
 export const metadata: Metadata = generateMetadata({
   title: 'Paragliders — BGD',
   description:
@@ -77,7 +73,7 @@ export default function ParaglidersPage() {
       </div>
 
       <section className="mt-12 pt-10 border-t border-cloud w-full" aria-labelledby="paragliders-gallery-heading">
-        <div className={GALLERY_OUTER_CLASS}>
+        <div className="layout-container max-w-5xl">
           <h2
             id="paragliders-gallery-heading"
             className="text-lg sm:text-xl font-bold text-sky-deep mb-2"

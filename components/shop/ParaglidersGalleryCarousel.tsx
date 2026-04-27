@@ -13,7 +13,7 @@ type Props = {
   items: ParaglidersCarouselItem[]
 }
 
-/** Carousel only — wrap with the same max-width container as the Gallery heading in the parent. */
+/** Carousel only — parent should use `layout-container max-w-5xl` so this aligns with the finder rows. */
 export default function ParaglidersGalleryCarousel({ items }: Props) {
   const [index, setIndex] = useState(0)
   const n = items.length
