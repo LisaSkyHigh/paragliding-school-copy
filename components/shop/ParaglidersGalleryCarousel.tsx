@@ -40,20 +40,11 @@ export default function ParaglidersGalleryCarousel({ items }: Props) {
   const current = items[safeIndex]!
 
   return (
-    <section className="mt-12 pt-10 border-t border-cloud" aria-labelledby="paragliders-gallery-heading">
-      <h2
-        id="paragliders-gallery-heading"
-        className="text-lg sm:text-xl font-bold text-sky-deep mb-2"
-        style={{ fontFamily: 'var(--font-fraunces)' }}
-      >
-        Gallery
-      </h2>
-      <p className="text-slate text-xs sm:text-sm mb-6 max-w-prose" style={{ fontFamily: 'var(--font-inter)' }}>
-        Browse hero photos for each model in the finder lineup. Use the arrows to switch images.
-      </p>
-      <div className="relative w-full max-w-3xl mx-auto">
+    <div className="w-full">
+      {/* Nearly full viewport width; slight edge padding on small screens */}
+      <div className="w-full max-w-[min(98vw,1600px)] mx-auto px-2 sm:px-3 md:px-4">
         <div
-          className="relative aspect-[4/3] w-full rounded-xl overflow-hidden bg-cloud shadow-sm border border-cloud/80"
+          className="relative aspect-video w-full max-h-[min(85vh,900px)] rounded-xl overflow-hidden bg-cloud shadow-sm border border-cloud/80"
           role="region"
           aria-roledescription="carousel"
           aria-label="Paraglider photos"
@@ -65,25 +56,26 @@ export default function ParaglidersGalleryCarousel({ items }: Props) {
             fill
             unoptimized={current.src.includes('/shop/')}
             className="object-cover object-center"
-            sizes="(max-width: 1024px) 100vw, 48rem"
+            sizes="(max-width: 1600px) 98vw, 1600px"
+            priority={safeIndex === 0}
           />
           {n > 1 ? (
             <>
               <button
                 type="button"
                 onClick={() => go(-1)}
-                className="absolute left-2 top-1/2 z-10 -translate-y-1/2 flex h-10 w-10 items-center justify-center rounded-full border border-soft-black/10 bg-warm-white/95 text-soft-black shadow-md hover:bg-warm-white transition-colors"
+                className="absolute left-2 sm:left-4 top-1/2 z-10 -translate-y-1/2 flex h-11 w-11 sm:h-12 sm:w-12 items-center justify-center rounded-full border border-soft-black/10 bg-warm-white/95 text-soft-black shadow-md hover:bg-warm-white transition-colors"
                 aria-label="Previous photo"
               >
-                <ChevronLeft className="h-5 w-5" aria-hidden />
+                <ChevronLeft className="h-5 w-5 sm:h-6 sm:w-6" aria-hidden />
               </button>
               <button
                 type="button"
                 onClick={() => go(1)}
-                className="absolute right-2 top-1/2 z-10 -translate-y-1/2 flex h-10 w-10 items-center justify-center rounded-full border border-soft-black/10 bg-warm-white/95 text-soft-black shadow-md hover:bg-warm-white transition-colors"
+                className="absolute right-2 sm:right-4 top-1/2 z-10 -translate-y-1/2 flex h-11 w-11 sm:h-12 sm:w-12 items-center justify-center rounded-full border border-soft-black/10 bg-warm-white/95 text-soft-black shadow-md hover:bg-warm-white transition-colors"
                 aria-label="Next photo"
               >
-                <ChevronRight className="h-5 w-5" aria-hidden />
+                <ChevronRight className="h-5 w-5 sm:h-6 sm:w-6" aria-hidden />
               </button>
               <div className="absolute bottom-3 left-0 right-0 flex justify-center gap-1.5" aria-hidden>
                 {items.map((_, i) => (
@@ -108,6 +100,6 @@ export default function ParaglidersGalleryCarousel({ items }: Props) {
           {safeIndex + 1} / {n}
         </p>
       </div>
-    </section>
+    </div>
   )
 }

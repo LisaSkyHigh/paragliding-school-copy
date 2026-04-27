@@ -1,4 +1,5 @@
 import type { Metadata } from 'next'
+import Image from 'next/image'
 import BgdGliderFinder from '@/components/shop/BgdGliderFinder'
 import GliderFinderTileGrid from '@/components/shop/GliderFinderTileGrid'
 import ParaglidersGalleryCarousel from '@/components/shop/ParaglidersGalleryCarousel'
@@ -8,6 +9,10 @@ import { getManualWingsInFinderOrder } from '@/lib/shop/bgd-wings/get-wing-conte
 import { shopBgdHeroPublicPath } from '@/lib/shop/bgd-glider-finder'
 import { publicPath } from '@/lib/public-path'
 import { generateMetadata } from '@/lib/seo'
+
+/** Header mark from flybgd.com (same asset as manufacturer site). */
+const BGD_LOGO_SRC =
+  'https://cdn.flybgd.com/assets/pict/page/logo-header.svg?v=1737451713'
 
 export const metadata: Metadata = generateMetadata({
   title: 'Paragliders — BGD',
@@ -21,6 +26,9 @@ export default function ParaglidersPage() {
     src: publicPath(shopBgdHeroPublicPath(m.slug)),
     label: m.name,
   }))
+  const blurbWords = shopBgd.brandBlurb.body.trim().split(/\s+/)
+  const blurbFirst = blurbWords[0] ?? ''
+  const blurbRest = blurbWords.slice(1).join(' ')
 
   return (
     <div className="bg-warm-white min-h-screen">
@@ -38,18 +46,50 @@ export default function ParaglidersPage() {
         >
           Paragliders
         </h1>
-        <p
-          className="text-slate text-xs sm:text-sm leading-relaxed max-w-2xl mb-6"
-          style={{ fontFamily: 'var(--font-inter)' }}
-        >
-          {shopBgd.brandBlurb.body}
-        </p>
+        <div className="flex flex-col lg:flex-row lg:items-start gap-6 lg:gap-10 mb-8">
+          <p
+            className="text-slate text-xs sm:text-sm leading-relaxed flex-1 min-w-0 lg:max-w-2xl"
+            style={{ fontFamily: 'var(--font-inter)' }}
+          >
+            <strong className="font-bold text-soft-black">{blurbFirst}</strong> {blurbRest}
+          </p>
+          <div className="flex flex-col items-center lg:items-end shrink-0 mx-auto lg:mx-0 lg:min-w-[200px]">
+            <Image
+              src={BGD_LOGO_SRC}
+              alt="Bruce Goldsmith Design"
+              width={320}
+              height={140}
+              unoptimized
+              className="w-[200px] sm:w-[240px] lg:w-[280px] h-auto"
+            />
+            <span
+              className="mt-2 text-[11px] sm:text-xs font-bold tracking-[0.35em] text-soft-black uppercase"
+              style={{ fontFamily: 'var(--font-inter)' }}
+            >
+              BGD
+            </span>
+          </div>
+        </div>
 
         <GliderFinderTileGrid />
 
         <BgdGliderFinder />
 
-        <ParaglidersGalleryCarousel items={carouselItems} />
+        <section className="mt-12 pt-10 border-t border-cloud w-full" aria-labelledby="paragliders-gallery-heading">
+          <div className="mb-6">
+            <h2
+              id="paragliders-gallery-heading"
+              className="text-lg sm:text-xl font-bold text-sky-deep mb-2"
+              style={{ fontFamily: 'var(--font-fraunces)' }}
+            >
+              Gallery
+            </h2>
+            <p className="text-slate text-xs sm:text-sm max-w-prose" style={{ fontFamily: 'var(--font-inter)' }}>
+              Browse hero photos for each model in the finder lineup. Use the arrows to switch images.
+            </p>
+          </div>
+          <ParaglidersGalleryCarousel items={carouselItems} />
+        </section>
 
         <p className="text-xs text-slate/80 mt-10 pt-6 border-t border-cloud" style={{ fontFamily: 'var(--font-inter)' }}>
           Bruce Goldsmith Design and BGD are trademarks of their owner. Descriptive text on product pages is compiled
