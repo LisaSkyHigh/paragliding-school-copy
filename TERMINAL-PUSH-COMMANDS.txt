@@ -1,0 +1,37 @@
+Lines below: copy ONE line at a time into Terminal. Do not copy the words "bash" or any backticks from web pages.
+
+1) Go to project folder:
+
+cd "/Users/elizaveta/Desktop/ИИ АГЕНТЫ/Создатель сайтов/paragliding-school"
+
+2) Check git:
+
+git status
+
+3) Add GitHub (only once). If it says origin exists, run: git remote remove origin
+
+git remote add origin https://github.com/LisaSkyHigh/paragliding-school.git
+
+4) Check remote:
+
+git remote -v
+
+5) Commit everything and push:
+
+git branch -M main
+
+git add -A
+
+git commit -m "Initial push paragliding school"
+
+git push -u origin main
+
+When asked for Password on Mac, paste your GitHub Personal Access Token (not your GitHub password).
+
+If push fails because remote has a README, try:
+
+git pull origin main --allow-unrelated-histories
+
+then again:
+
+git push -u origin main

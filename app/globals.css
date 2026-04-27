@@ -1,0 +1,246 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+@import "shadcn/tailwind.css";
+
+@custom-variant dark (&:is(.dark *));
+
+@theme inline {
+  /* ─── Brand Colors: School Identity ─── */
+  --color-sky-deep:   #1B3A5C;
+  --color-amber:      #F59E0B;
+  --color-warm-white: #F9F7F4;
+  --color-soft-black: #1C1917;
+  --color-slate:      #6B7280;
+  --color-cloud:      #E8EEF4;
+  --color-horizon:    #3D6B96;
+  --color-earth:      #92400E;
+
+  /* ─── Brand Colors: Colombia pages ─── */
+  --color-colombia-forest:  #2D5016;
+  --color-colombia-brown:   #6B4226;
+  --color-colombia-mustard: #C9820A;
+  --color-jungle-cream:     #F5F0E8;
+  --color-mist:             #D4E6C3;
+
+  /* ─── Typography ─── */
+  --font-fraunces:     var(--font-fraunces);
+  --font-dm-serif:     var(--font-dm-serif);
+  --font-inter:        var(--font-inter);
+  --font-space-grotesk: var(--font-space-grotesk);
+
+  /* ─── Font Size Scale ─── */
+  --font-size-hero:     2.5rem;   /* 40px mobile → 64px desktop via responsive */
+  --font-size-h1:       2rem;     /* 32px mobile → 48px desktop */
+  --font-size-h2:       1.5rem;   /* 24px mobile → 32px desktop */
+  --font-size-h3:       1.25rem;  /* 20px mobile → 24px desktop */
+  --font-size-body-lg:  1.125rem; /* 18px */
+  --font-size-body:     1rem;     /* 16px */
+  --font-size-caption:  0.875rem; /* 14px */
+  --font-size-stat:     2.5rem;   /* 40px mobile → 56px desktop */
+
+  /* ─── Line Heights ─── */
+  --line-height-heading: 1.2;
+  --line-height-body:    1.7;
+
+  /* ─── Max Widths ─── */
+  --width-prose:  720px;
+  --width-layout: 1280px;
+  --font-heading:   var(--font-sans);
+  --font-sans:   var(--font-sans);
+  --color-sidebar-ring:   var(--sidebar-ring);
+  --color-sidebar-border:   var(--sidebar-border);
+  --color-sidebar-accent-foreground:   var(--sidebar-accent-foreground);
+  --color-sidebar-accent:   var(--sidebar-accent);
+  --color-sidebar-primary-foreground:   var(--sidebar-primary-foreground);
+  --color-sidebar-primary:   var(--sidebar-primary);
+  --color-sidebar-foreground:   var(--sidebar-foreground);
+  --color-sidebar:   var(--sidebar);
+  --color-chart-5:   var(--chart-5);
+  --color-chart-4:   var(--chart-4);
+  --color-chart-3:   var(--chart-3);
+  --color-chart-2:   var(--chart-2);
+  --color-chart-1:   var(--chart-1);
+  --color-ring:   var(--ring);
+  --color-input:   var(--input);
+  --color-border:   var(--border);
+  --color-destructive:   var(--destructive);
+  --color-accent-foreground:   var(--accent-foreground);
+  --color-accent:   var(--accent);
+  --color-muted-foreground:   var(--muted-foreground);
+  --color-muted:   var(--muted);
+  --color-secondary-foreground:   var(--secondary-foreground);
+  --color-secondary:   var(--secondary);
+  --color-primary-foreground:   var(--primary-foreground);
+  --color-primary:   var(--primary);
+  --color-popover-foreground:   var(--popover-foreground);
+  --color-popover:   var(--popover);
+  --color-card-foreground:   var(--card-foreground);
+  --color-card:   var(--card);
+  --color-foreground:   var(--foreground);
+  --color-background:   var(--background);
+  --radius-sm:   calc(var(--radius) * 0.6);
+  --radius-md:   calc(var(--radius) * 0.8);
+  --radius-lg:   var(--radius);
+  --radius-xl:   calc(var(--radius) * 1.4);
+  --radius-2xl:   calc(var(--radius) * 1.8);
+  --radius-3xl:   calc(var(--radius) * 2.2);
+  --radius-4xl:   calc(var(--radius) * 2.6);
+}
+
+/* ─── Desktop responsive overrides ─── */
+@media (min-width: 1024px) {
+  @theme inline {
+    --font-size-hero: 4rem;    /* 64px */
+    --font-size-h1:   3rem;    /* 48px */
+    --font-size-h2:   2rem;    /* 32px */
+    --font-size-h3:   1.5rem;  /* 24px */
+    --font-size-stat: 3.5rem;  /* 56px */
+  }
+}
+
+/* ─── Fraunces ligatures ─── */
+.font-fraunces {
+  font-feature-settings: 'liga' 1;
+}
+
+/* ─── Utility: constrain prose width ─── */
+.prose-container {
+  max-width: 720px;
+  margin-inline: auto;
+}
+
+/* ─── Utility: full-bleed layout wrapper ─── */
+.layout-container {
+  max-width: 1280px;
+  margin-inline: auto;
+  padding-inline: 1.5rem;
+}
+
+@media (min-width: 1024px) {
+  .layout-container {
+    padding-inline: 2rem;
+  }
+}
+
+:root {
+  /* ─── Map shadcn vars → brand tokens ─── */
+  --background:   #F9F7F4;  /* warm-white */
+  --foreground:   #1C1917;  /* soft-black */
+  --card:         #F9F7F4;
+  --card-foreground: #1C1917;
+  --popover:      #F9F7F4;
+  --popover-foreground: #1C1917;
+  --primary:      #F59E0B;  /* amber — CTA color */
+  --primary-foreground: #1C1917;
+  --secondary:    #E8EEF4;  /* cloud */
+  --secondary-foreground: #1C1917;
+  --muted:        #E8EEF4;
+  --muted-foreground: #6B7280; /* slate */
+  --accent:       #3D6B96;  /* horizon */
+  --accent-foreground: #F9F7F4;
+  --destructive:  oklch(0.577 0.245 27.325);
+  --border:       #E8EEF4;  /* cloud */
+  --input:        #E8EEF4;
+  --ring:         #1B3A5C;  /* sky-deep */
+  --radius:       0.5rem;
+  --chart-1:      #F59E0B;
+  --chart-2:      #1B3A5C;
+  --chart-3:      #3D6B96;
+  --chart-4:      #6B7280;
+  --chart-5:      #92400E;
+  --sidebar:      #F9F7F4;
+  --sidebar-foreground:   #1C1917;
+  --sidebar-primary:      #1B3A5C;
+  --sidebar-primary-foreground: #F9F7F4;
+  --sidebar-accent:       #E8EEF4;
+  --sidebar-accent-foreground:  #1C1917;
+  --sidebar-border:       #E8EEF4;
+  --sidebar-ring:         #1B3A5C;
+}
+
+.dark {
+  --background:   oklch(0.145 0 0);
+  --foreground:   oklch(0.985 0 0);
+  --card:   oklch(0.205 0 0);
+  --card-foreground:   oklch(0.985 0 0);
+  --popover:   oklch(0.205 0 0);
+  --popover-foreground:   oklch(0.985 0 0);
+  --primary:   oklch(0.922 0 0);
+  --primary-foreground:   oklch(0.205 0 0);
+  --secondary:   oklch(0.269 0 0);
+  --secondary-foreground:   oklch(0.985 0 0);
+  --muted:   oklch(0.269 0 0);
+  --muted-foreground:   oklch(0.708 0 0);
+  --accent:   oklch(0.269 0 0);
+  --accent-foreground:   oklch(0.985 0 0);
+  --destructive:   oklch(0.704 0.191 22.216);
+  --border:   oklch(1 0 0 / 10%);
+  --input:   oklch(1 0 0 / 15%);
+  --ring:   oklch(0.556 0 0);
+  --chart-1:   oklch(0.87 0 0);
+  --chart-2:   oklch(0.556 0 0);
+  --chart-3:   oklch(0.439 0 0);
+  --chart-4:   oklch(0.371 0 0);
+  --chart-5:   oklch(0.269 0 0);
+  --sidebar:   oklch(0.205 0 0);
+  --sidebar-foreground:   oklch(0.985 0 0);
+  --sidebar-primary:   oklch(0.488 0.243 264.376);
+  --sidebar-primary-foreground:   oklch(0.985 0 0);
+  --sidebar-accent:   oklch(0.269 0 0);
+  --sidebar-accent-foreground:   oklch(0.985 0 0);
+  --sidebar-border:   oklch(1 0 0 / 10%);
+  --sidebar-ring:   oklch(0.556 0 0);
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+  body {
+    @apply bg-warm-white text-soft-black;
+    font-family: var(--font-inter), system-ui, sans-serif;
+    line-height: 1.7;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+}
+
+/* BGD product HTML embed (shop): bootstrap-like markup from manufacturer pages */
+@layer components {
+  .bgd-product-html a[data-bgd-stay="1"] {
+    cursor: default;
+    text-decoration: none;
+    color: inherit;
+    pointer-events: none;
+  }
+  .bgd-product-html .container {
+    max-width: 100% !important;
+    width: 100%;
+    margin-left: 0;
+    margin-right: 0;
+    padding-left: 0;
+    padding-right: 0;
+  }
+  .bgd-product-html .table-responsive {
+    @apply my-2 overflow-x-auto;
+  }
+  .bgd-product-html table {
+    @apply w-full min-w-0;
+  }
+  .bgd-product-html img,
+  .bgd-product-html .feature_img img {
+    max-width: 100%;
+    height: auto;
+  }
+  .bgd-product-html .embed-container iframe,
+  .bgd-product-html .embed-content iframe {
+    max-width: 100%;
+    width: 100%;
+    min-height: 200px;
+  }
+  .bgd-product-html h1,
+  .bgd-product-html h2,
+  .bgd-product-html h3 {
+    @apply text-soft-black;
+  }
+}

@@ -1,0 +1,413 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Paragliding School — Site Structure</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: -apple-system, 'Inter', sans-serif;
+    background: #F9F7F4;
+    color: #1C1917;
+    padding: 40px 32px;
+    min-height: 100vh;
+  }
+  h1 {
+    font-family: Georgia, serif;
+    font-size: 28px;
+    font-weight: 700;
+    color: #1B3A5C;
+    margin-bottom: 6px;
+  }
+  .subtitle {
+    font-size: 14px;
+    color: #6B7280;
+    margin-bottom: 36px;
+  }
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 20px;
+  }
+  .tier {
+    background: white;
+    border-radius: 12px;
+    border: 1px solid #E8EEF4;
+    overflow: hidden;
+    transition: box-shadow 0.2s;
+  }
+  .tier:hover { box-shadow: 0 4px 20px rgba(27,58,92,0.08); }
+  .tier-header {
+    padding: 14px 18px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  .tier-num {
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    opacity: 0.5;
+  }
+  .tier-title {
+    font-size: 13px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+  .tier-body { padding: 0 18px 16px; }
+  .page {
+    padding: 10px 0;
+    border-bottom: 1px solid #F0F0F0;
+    cursor: pointer;
+  }
+  .page:last-child { border-bottom: none; }
+  .page-url {
+    font-size: 12px;
+    font-weight: 600;
+    color: #3D6B96;
+    font-family: monospace;
+    margin-bottom: 4px;
+  }
+  .page-label {
+    font-size: 13px;
+    color: #1C1917;
+    font-weight: 500;
+    margin-bottom: 4px;
+  }
+  .sections {
+    display: none;
+    margin-top: 8px;
+    padding: 10px 12px;
+    background: #F9F7F4;
+    border-radius: 8px;
+    border-left: 3px solid #E8EEF4;
+  }
+  .page.open .sections { display: block; }
+  .page.open .page-url { color: #1B3A5C; }
+  .section-item {
+    font-size: 12px;
+    color: #6B7280;
+    padding: 3px 0;
+    display: flex;
+    align-items: flex-start;
+    gap: 6px;
+  }
+  .section-item::before {
+    content: '↳';
+    color: #F59E0B;
+    font-size: 11px;
+    margin-top: 1px;
+    flex-shrink: 0;
+  }
+  .badge {
+    display: inline-block;
+    font-size: 10px;
+    padding: 2px 7px;
+    border-radius: 99px;
+    font-weight: 600;
+    margin-left: 6px;
+    vertical-align: middle;
+  }
+  .badge-money { background: #FEF3C7; color: #92400E; }
+  .badge-seo { background: #DBEAFE; color: #1D4ED8; }
+  .badge-cms { background: #D1FAE5; color: #065F46; }
+  .badge-legal { background: #F3F4F6; color: #374151; }
+
+  /* Tier colors */
+  .t1 .tier-header { background: #1B3A5C; }
+  .t1 .tier-title, .t1 .tier-num { color: white; }
+  .t2 .tier-header { background: #F59E0B; }
+  .t2 .tier-title, .t2 .tier-num { color: #1C1917; }
+  .t3 .tier-header { background: #2D5016; }
+  .t3 .tier-title, .t3 .tier-num { color: white; }
+  .t4 .tier-header { background: #3D6B96; }
+  .t4 .tier-title, .t4 .tier-num { color: white; }
+  .t5 .tier-header { background: #E8EEF4; }
+  .t5 .tier-title, .t5 .tier-num { color: #1B3A5C; }
+  .t6 .tier-header { background: #92400E; }
+  .t6 .tier-title, .t6 .tier-num { color: white; }
+  .t7 .tier-header { background: #6B7280; }
+  .t7 .tier-title, .t7 .tier-num { color: white; }
+  .t8 .tier-header { background: #1B3A5C; opacity-header: 0.7; background: #4B6F8A; }
+  .t8 .tier-title, .t8 .tier-num { color: white; }
+  .t9 .tier-header { background: #F59E0B; }
+  .t9 .tier-title, .t9 .tier-num { color: #1C1917; }
+  .t10 .tier-header { background: #F3F4F6; }
+  .t10 .tier-title, .t10 .tier-num { color: #374151; }
+
+  .legend {
+    margin-bottom: 24px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    align-items: center;
+  }
+  .legend-item { display: flex; align-items: center; gap: 5px; font-size: 12px; color: #6B7280; }
+  .hint {
+    font-size: 12px;
+    color: #9CA3AF;
+    text-align: center;
+    margin-top: 32px;
+  }
+  .priority-star {
+    color: #F59E0B;
+    font-size: 13px;
+    margin-left: 4px;
+  }
+</style>
+</head>
+<body>
+
+<h1>Paragliding School — Site Map</h1>
+<p class="subtitle">45 страниц · 10 уровней · Нажми на страницу чтобы увидеть её разделы</p>
+
+<div class="legend">
+  <span class="legend-item"><span class="badge badge-money">$$$</span> Конверсионная (продаёт)</span>
+  <span class="legend-item"><span class="badge badge-seo">SEO</span> SEO / AIO-статья</span>
+  <span class="legend-item"><span class="badge badge-cms">CMS</span> Контент из Sanity</span>
+  <span class="legend-item"><span class="badge badge-legal">legal</span> Юридическая</span>
+</div>
+
+<div class="grid" id="grid"></div>
+
+<p class="hint">↑ Нажми на любую страницу чтобы увидеть список разделов внутри неё</p>
+
+<script>
+const tiers = [
+  {
+    num: "Tier 1", title: "Homepage", cls: "t1",
+    pages: [
+      {
+        url: "/",
+        label: "Главная страница ★★★",
+        badges: ["money", "cms"],
+        sections: [
+          "Hero — fullscreen фото/видео + «Learn to Fly.» + 2 кнопки",
+          "Trust Bar — USHPA · 300+ Students · 5★ · Since 2019",
+          "Programs — 3 карточки: Try → Learn P2 → Colombia (с иконками и стрелками)",
+          "Colombia Feature — тёмно-зелёный фон + буллеты почему это работает для новичков",
+          "Testimonials — 3 отзыва студентов",
+          "CTA Banner — Amber фон «The next camp fills in weeks, not months.»"
+        ]
+      }
+    ]
+  },
+  {
+    num: "Tier 2", title: "Core Commercial (money pages)", cls: "t2",
+    pages: [
+      {
+        url: "/try-paragliding",
+        label: "Try Paragliding ★★",
+        badges: ["money"],
+        sections: ["Hero + What to Expect", "Instructor info + Safety note", "Dates & Booking", "FAQ 5 вопросов", "CTA"]
+      },
+      {
+        url: "/learn-to-fly",
+        label: "Learn to Fly (P2 Program) ★★★",
+        badges: ["money", "seo"],
+        sections: ["Hero + Program overview", "Curriculum (P1→P2 прогрессия)", "What you'll be able to do after", "Dates & Pricing", "Instructor", "FAQ", "CTA"]
+      },
+      {
+        url: "/colombia-paragliding-camp",
+        label: "Colombia Camp — ГЛАВНАЯ КОММЕРЧЕСКАЯ ★★★",
+        badges: ["money", "cms"],
+        sections: ["Hero — Cocora Valley + «Fly the Andes. As a Beginner.»", "Why Colombia Works for Beginners", "The Camp (10 days, 20+ flights)", "What's Included vs Not Included", "Instructor + ratio", "Upcoming Dates + Spots Remaining", "Testimonials (только Colombia)", "CTA — Reserve Your Spot"]
+      },
+      {
+        url: "/colombia-camp/who-its-for",
+        label: "Who It's For",
+        badges: ["seo"],
+        sections: ["Skill requirements", "Physical requirements", "Fear of heights?", "CTA"]
+      },
+      {
+        url: "/colombia-camp/safety-flying-conditions",
+        label: "Safety & Flying Conditions",
+        badges: ["seo"],
+        sections: ["Cocora Valley weather", "Training progression", "Safety record", "What happens on bad weather days"]
+      },
+      {
+        url: "/colombia-camp/itinerary-logistics",
+        label: "Itinerary & Logistics",
+        badges: ["seo"],
+        sections: ["Day-by-day breakdown", "Accommodation", "Getting there", "What to pack"]
+      },
+      {
+        url: "/colombia-camp/skill-outcomes",
+        label: "Skill Outcomes",
+        badges: ["seo"],
+        sections: ["What you can do after 10 days", "USHPA equivalency", "Next steps after camp"]
+      },
+      {
+        url: "/colombia-camp/faq",
+        label: "Colombia FAQ (30+ вопросов)",
+        badges: ["seo"],
+        sections: ["FAQ Accordion с JSON-LD schema", "7 категорий вопросов"]
+      },
+      {
+        url: "/colombia-camp/dates-pricing",
+        label: "Dates & Pricing",
+        badges: ["money", "cms"],
+        sections: ["Upcoming camp dates (из Sanity)", "Pricing table: Foundation $3,200 / P2 $4,200", "Private room +$500", "Early bird -$300", "Payment plan", "Reserve Your Spot form"]
+      }
+    ]
+  },
+  {
+    num: "Tier 3", title: "Destinations", cls: "t3",
+    pages: [
+      {
+        url: "/destinations",
+        label: "Destinations Hub",
+        badges: ["cms"],
+        sections: ["Карточки всех 5 дестинаций", "Фильтр по уровню"]
+      },
+      {
+        url: "/destinations/colombia",
+        label: "Colombia — Valle de Cocora",
+        badges: ["seo", "cms"],
+        sections: ["Hero видео/фото Андов", "Why Colombia", "Flying conditions", "Getting there", "Upcoming camps CTA"]
+      },
+      { url: "/destinations/la-denia", label: "La Denia — SIV Course", badges: ["cms"], sections: ["Hero", "About SIV", "Dates", "CTA"] },
+      { url: "/destinations/himalayas", label: "Himalayas — XC Flying", badges: ["cms"], sections: ["Hero", "Flying conditions", "Itinerary", "CTA"] },
+      { url: "/destinations/alps", label: "Alps", badges: ["cms"], sections: ["Hero", "Flying info", "Camps"] },
+      { url: "/destinations/morocco", label: "Morocco", badges: ["cms"], sections: ["Hero", "Flying info", "Camps"] }
+    ]
+  },
+  {
+    num: "Tier 4", title: "Trust Layer (E-E-A-T)", cls: "t4",
+    pages: [
+      {
+        url: "/about",
+        label: "About — Elizaveta",
+        badges: ["seo"],
+        sections: ["Founder story + photo", "Credentials (USHPA P4, 2000+ hours)", "Philosophy", "Team photos", "School story"]
+      },
+      {
+        url: "/about/instructors/[name]",
+        label: "Instructor individual page",
+        badges: ["seo", "cms"],
+        sections: ["Photo + bio", "Credentials", "Countries flown", "Student stories", "JSON-LD Person schema"]
+      },
+      {
+        url: "/about/safety",
+        label: "Safety Page",
+        badges: ["seo"],
+        sections: ["Opening 150-слов AIO-параграф", "Our protocols", "Real injury statistics", "Training day walkthrough", "FAQ safety"]
+      }
+    ]
+  },
+  {
+    num: "Tier 5", title: "Indirect Intent (психологическое SEO)", cls: "t5",
+    pages: [
+      { url: "/why-paraglide", label: "Why Paraglide", badges: ["seo"], sections: ["Benefits overview", "Student stories fragments", "CTA"] },
+      { url: "/paragliding-benefits", label: "Paragliding Benefits", badges: ["seo"], sections: ["Mental / physical / social", "Research citations", "CTA"] },
+      { url: "/overcoming-fear-of-heights-paragliding", label: "Overcoming Fear of Heights", badges: ["seo"], sections: ["The fear is real", "How we handle it", "Student stories with fear", "CTA"] },
+      { url: "/paragliding-vs-skydiving", label: "Paragliding vs Skydiving", badges: ["seo"], sections: ["Comparison table", "Which is right for you?", "CTA"] },
+      { url: "/winter-flying-colombia", label: "Winter Flying Colombia", badges: ["seo"], sections: ["Why winter → Colombia", "Season info", "Camp CTA"] },
+      { url: "/gift-a-flight", label: "Gift a Flight", badges: ["money", "seo"], sections: ["Gift certificate form", "Stripe payment", "How it works"] },
+      { url: "/who-can-paraglide", label: "Who Can Paraglide", badges: ["seo"], sections: ["Age / weight / health", "FAQ objections", "CTA"] },
+      { url: "/solo-adventure-travel", label: "Solo Adventure Travel", badges: ["seo"], sections: [] },
+      { url: "/paragliding-personal-growth", label: "Personal Growth", badges: ["seo"], sections: [] }
+    ]
+  },
+  {
+    num: "Tier 6", title: "Education Hub (AIO fuel)", cls: "t6",
+    pages: [
+      {
+        url: "/faq",
+        label: "Master FAQ (40+ вопросов)",
+        badges: ["seo"],
+        sections: ["7 категорий", "FAQPage JSON-LD schema", "Accordion", "CTA внизу"]
+      },
+      {
+        url: "/glossary",
+        label: "Paragliding Glossary A-Z",
+        badges: ["seo"],
+        sections: ["A-Z термины", "Поиск по странице", "Ссылки на связанные страницы"]
+      },
+      { url: "/gear-guide", label: "Beginner Gear Guide", badges: ["seo"], sections: ["What you need (not a shop)", "What we provide", "Renting vs buying"] },
+      { url: "/weather-guide", label: "How Paragliders Read Weather", badges: ["seo"], sections: ["Wind, thermals, forecast apps", "Colombia weather specifics"] },
+      { url: "/ushpa-certification", label: "USHPA P1→P4 Complete Guide", badges: ["seo"], sections: ["Rating system explained", "Our programs map to ratings", "CTA"] }
+    ]
+  },
+  {
+    num: "Tier 7", title: "Content Hub", cls: "t7",
+    pages: [
+      { url: "/blog", label: "Blog Hub", badges: ["cms"], sections: ["Category filters", "Post grid (из Sanity)", "Featured post"] },
+      { url: "/blog/[slug]", label: "Blog Post (шаблон)", badges: ["seo", "cms"], sections: ["Hero image", "Article body", "Author block", "Sources", "Article JSON-LD", "Related posts", "CTA"] },
+      { url: "/camps", label: "Camp Reports Hub", badges: ["cms"], sections: ["Past camps grid"] },
+      { url: "/camps/[slug]", label: "Camp Report (шаблон)", badges: ["seo", "cms"], sections: ["Gallery", "Story", "Testimonials"] },
+      { url: "/gallery", label: "Gallery", badges: ["cms"], sections: ["Masonry grid из Cloudinary"] }
+    ]
+  },
+  {
+    num: "Tier 8", title: "Social Proof", cls: "t8",
+    pages: [
+      {
+        url: "/student-stories",
+        label: "Student Stories Hub",
+        badges: ["cms"],
+        sections: ["Featured stories", "Before/During/After format", "Video testimonials", "Filter by camp"]
+      }
+    ]
+  },
+  {
+    num: "Tier 9", title: "Conversion", cls: "t9",
+    pages: [
+      {
+        url: "/pricing",
+        label: "Pricing — все продукты ★★★",
+        badges: ["money"],
+        sections: ["Foundation Camp $3,200 / P2 Camp $4,200", "Private room +$500", "Early bird -$300", "What's included table", "Competitor price comparison", "FAQ pricing", "CTA"]
+      },
+      {
+        url: "/apply",
+        label: "Apply — Multi-step Form",
+        badges: ["money"],
+        sections: ["Step 1: Which camp", "Step 2: Experience level", "Step 3: Contact info", "Step 4: Stripe $500 deposit", "Confirmation email"]
+      },
+      {
+        url: "/contact",
+        label: "Contact",
+        badges: [],
+        sections: ["Contact form (Resend)", "Schedule a Call (Calendly)", "Response time promise: 24h"]
+      }
+    ]
+  },
+  {
+    num: "Tier 10", title: "Legal (required for US)", cls: "t10",
+    pages: [
+      { url: "/terms", label: "Terms of Service", badges: ["legal"], sections: [] },
+      { url: "/privacy", label: "Privacy Policy", badges: ["legal"], sections: [] },
+      { url: "/refund-policy", label: "Refund Policy", badges: ["legal"], sections: ["Weather policy", "Cancellation tiers", "Deposit rules"] },
+      { url: "/participation-agreement", label: "Participation Agreement", badges: ["legal"], sections: ["Waiver", "Risk acknowledgment"] }
+    ]
+  }
+];
+
+const badgeMap = { money: ['$$$','badge-money'], seo: ['SEO','badge-seo'], cms: ['CMS','badge-cms'], legal: ['legal','badge-legal'] };
+
+const grid = document.getElementById('grid');
+
+tiers.forEach(tier => {
+  const div = document.createElement('div');
+  div.className = `tier ${tier.cls}`;
+  let html = `<div class="tier-header"><span class="tier-num">${tier.num}</span><span class="tier-title">${tier.title}</span></div><div class="tier-body">`;
+  tier.pages.forEach(page => {
+    const badges = (page.badges||[]).map(b => `<span class="badge badge-${b}">${badgeMap[b][0]}</span>`).join('');
+    const secs = (page.sections||[]).map(s => `<div class="section-item">${s}</div>`).join('');
+    html += `<div class="page" onclick="this.classList.toggle('open')">
+      <div class="page-url">${page.url}</div>
+      <div class="page-label">${page.label}${badges}</div>
+      ${secs ? `<div class="sections">${secs}</div>` : ''}
+    </div>`;
+  });
+  html += '</div>';
+  div.innerHTML = html;
+  grid.appendChild(div);
+});
+</script>
+</body>
+</html>
