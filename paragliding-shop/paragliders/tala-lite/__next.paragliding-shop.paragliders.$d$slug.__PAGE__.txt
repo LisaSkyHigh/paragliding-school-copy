@@ -1,0 +1,231 @@
+1:"$Sreact.fragment"
+2:I[22016,["/paragliding-school-copy/_next/static/chunks/0z~j7c7sl~_.k.js","/paragliding-school-copy/_next/static/chunks/08fct066p2nk~.js","/paragliding-school-copy/_next/static/chunks/0d3shmwh5_nmn.js","/paragliding-school-copy/_next/static/chunks/06e6k8wjhv093.js"],""]
+7:I[97367,["/paragliding-school-copy/_next/static/chunks/0z~j7c7sl~_.k.js","/paragliding-school-copy/_next/static/chunks/08fct066p2nk~.js","/paragliding-school-copy/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+3:T2cae,
+
+<div class="bgd-embed-section" data-bgd-section="informations"><div class="container">
+            	<div class="row">
+                	<div class="col-lg-6">
+						
+                        
+                        			<h2>Specs</h2>
+			<div class="table-responsive">
+				<table class="table table-sm table-option-border-bottom col_size_3" cols="3">
+					<thead>
+						<tr>
+							<th scope="col" class="libelle">&nbsp;</th>
+							<th scope="col">S</th>
+							<th scope="col">M</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<th scope="row">Linear scaling factor</th>
+							<td>1</td>
+							<td>1.03</td>
+						</tr>
+						<tr>
+							<th scope="row">Projected area (m²)</th>
+							<td>19.5</td>
+							<td>20.7</td>
+						</tr>
+						<tr>
+							<th scope="row">Flat area (m²)</th>
+							<td>23.3</td>
+							<td>24.8</td>
+						</tr>
+						<tr>
+							<th scope="row">Glider weight (kg)</th>
+							<td>3.8</td>
+							<td>4</td>
+						</tr>
+						<tr>
+							<th scope="row">Total line length (m)</th>
+							<td>224</td>
+							<td>238</td>
+						</tr>
+						<tr>
+							<th scope="row">Height (m)</th>
+							<td>7.1</td>
+							<td>7.44</td>
+						</tr>
+						<tr>
+							<th scope="row">Number of main lines (A/B/C)</th>
+							<td colspan="2">3/4/3</td>
+						</tr>
+						<tr>
+							<th scope="row">Cells</th>
+							<td colspan="2">50</td>
+						</tr>
+						<tr>
+							<th scope="row">Flat aspect ratio</th>
+							<td colspan="2">6.3</td>
+						</tr>
+						<tr>
+							<th scope="row">Projected aspect ratio</th>
+							<td colspan="2">4.7</td>
+						</tr>
+						<tr>
+							<th scope="row">Root chord (m)</th>
+							<td>2.4</td>
+							<td>2.5</td>
+						</tr>
+						<tr>
+							<th scope="row">Flat span (m)</th>
+							<td>12.2</td>
+							<td>12.5</td>
+						</tr>
+						<tr>
+							<th scope="row">Projected span (m)</th>
+							<td colspan="2">9.6</td>
+						</tr>
+						<tr>
+							<th scope="row">Trim speed (km/h)</th>
+							<td colspan="2">39</td>
+						</tr>
+						<tr>
+							<th scope="row">Top speed (km/h)</th>
+							<td colspan="2">57</td>
+						</tr>
+						<tr>
+							<th scope="row">Min sink (m/s)</th>
+							<td colspan="2">1</td>
+						</tr>
+						<tr>
+							<th scope="row">Best glide</th>
+							<td colspan="2">10</td>
+						</tr>
+						<tr>
+							<th scope="col">Certified weight range (kg)</th>
+							<td>65-90</td>
+							<td>80-100</td>
+						</tr>
+						<tr>
+							<th scope="row">Certification (EN/LTF)</th>
+							<td colspan="2">C</td>
+						</tr>
+					</tbody>
+				</table>
+				</div>
+
+                    </div>
+                    
+                    <div class="col-lg-5 offset-lg-1">
+                    	 <div id="informations_right">
+                         	<div class="informations_text">
+                            	<h2>Info</h2>
+                             	<p>Extra water, food or beer could make up for the almost 1.1 kg of weight we have skimmed off the TALA (without losing much durability). With a mix of carefully allocated 27, 34, and 40 gram cloth the EN-C certified TALA LITE feels like its parent – a reassuring three-liner with safe, fun and efficient characteristics.</p>
+                            </div>
+							 							<div class="informations_picture">
+								<img width="283" height="283" src="https://cdn.flybgd.com/files/photo/svg/1561065948-3733.svg?v=1561065948" loading="lazy" decoding="async" /><noscript><img src="https://cdn.flybgd.com/files/photo/svg/1561065948-3733.svg?v=1561065948" width="283" height="283" /></noscript>
+							</div>
+                         </div>
+                    </div>
+                </div>   
+          	</div>
+		</section>  
+        
+        
+                <div class="spt-trackThis"></div></div>
+<div class="bgd-embed-section" data-bgd-section="features"><div class="features_layer lazy" data-bg="url(https://cdn.flybgd.com/files/photo/svg/1561065940-7887.svg?v=1561065940)"></div>
+            <div class="container">
+            	<div class="row">
+                	
+                    <div class="col-lg-6 col-xl-6">
+                    	<div class="features-picture">
+                    					<div class="feature_img">
+					<img width="720" height="720" src="https://cdn.flybgd.com/files/photo/carre/1561067177-1942.png?v=1561067182" loading="lazy" decoding="async" /><noscript><img src="https://cdn.flybgd.com/files/photo/carre/1561067177-1942.png?v=1561067182" width="720" height="720" /></noscript>
+				</div>
+				<a href="#" id="btn-features-43" class="btn-features active " style="top: 3%; left:65%;" data-feature-id="43" data-title="Chord Cut Billow (CCB)">+</a>
+				<a href="#" id="btn-features-860" class="btn-features  full_right" style="top: 1%; left:100%;" data-feature-id="860" data-title="BGD Feedback">+</a>
+				<a href="#" id="btn-features-866" class="btn-features  " style="top: 50%; left:50%;" data-feature-id="866" data-title="Integrated Line Layout">+</a>
+				<a href="#" id="btn-features-774" class="btn-features  " style="top: 45%; left:10%;" data-feature-id="774" data-title="Progressive Stability">+</a>
+                    	</div>
+                    </div>
+                    
+                    <div class="col-lg-5 offset-lg-1"><!-- col-xl-6  offset-xl-0 -->
+                    	<h2>Tech</h2>
+                        
+                        				<div class="feature active" data-feature-id="43">
+				<div class="feature-image">
+					<div class="embed-file on"><div class="embed-content"><div class="embed-container " data-bg="url(https://cdn.flybgd.com/files/photo/thumbail/1551023903-1019.jpg?v=1553794187)">
+	<iframe id="478bc40f1184a4b49fe96e04f753269d" class="" src="https://player.vimeo.com/video/364287205?title=0&amp;byline=0&amp;portrait=0&amp;color=bb202f&autoplay=1&autopause=0&loop=1&muted=1&background=1" allowfullscreen allow="autoplay" muted="muted"></iframe></div></div></div>
+				</div>
+				<h3 class="feature-title">Chord Cut Billow (CCB)</h3>
+				<div class="">
+					Chord Cut Billow technology has been developed to improve the form friction, glider stability and overall performance of our paragliders. Two seams run chord-wise across the top panels of the leading edge. They accommodate the panel ballooning that happens when the wing is inflated. Without CCB, up to five centimetres of excess material is created on the sides of an inflated flat panel when it bends over a wing profile. This results in wrinkles. Chord Cut Billow technology removes this excess material and the 3D panel has fewer ripples and improved rib profile shape and stability.
+
+				</div>
+				</div>
+				<div class="feature " data-feature-id="860">
+				<div class="feature-image">
+					<img src="https://cdn.flybgd.com/files/photo/thumbail/1558108590-3448.jpg?v=1558108590" width="800" height="400" />
+				</div>
+				<h3 class="feature-title">BGD Feedback</h3>
+				<div class="">
+					Gliders that talk are safer. Safer gliders make pilots perform better. Better performing pilots fly further. Further flying pilots are happier pilots. BGD Feedback produces happier pilots!
+				</div>
+				</div>
+				<div class="feature " data-feature-id="866">
+				<div class="feature-image">
+					<img src="https://cdn.flybgd.com/files/photo/thumbail/1557845000-0936.jpg?v=1557845000" width="800" height="400" />
+				</div>
+				<h3 class="feature-title">Integrated Line Layout</h3>
+				<div class="">
+					The line layout of our gliders is fully integrated into the wing design. Sail and lines are designed together, holistically. The cell widths and the internal straps that transfer the load though the sail are all designed according to the line layout. Even the panel shaping is matched with the line layout through detailed CAD simulation. The result is simple: fewer lines and stronger, faster, safer gliders.
+				</div>
+				</div>
+				<div class="feature " data-feature-id="774">
+				<div class="feature-image">
+					<img src="https://cdn.flybgd.com/files/photo/thumbail/1649940470-4868.jpg?v=1649940470" width="800" height="400" />
+				</div>
+				<h3 class="feature-title">Progressive Stability</h3>
+				<div class="">
+					Using our Parasim simulation program, BGD gliders are designed to have a stable and solid centre with progressively softer tips. This teaches pilots to predict and avoid deflations and stay aware of the air.
+
+				</div>
+				</div>
+                         
+                        
+                    </div>
+                </div>   
+          	</div>
+		</section> 
+        
+        
+        <div class="spt-trackThis"></div></div>
+<div class="bgd-embed-section" data-bgd-section="target"><div class="container">
+            	<div class="row">
+                	<div class="col-lg-6">
+                    	 <h2>Target</h2>
+                         <p>If you have a lightweight tent, a -10 degree sleeping bag, a gas burner, a reversible harness, a GPS tracker and a flexible job, the TALA LITE is your paraglider. The TALA LITE is designed specifically for the adventurer in you. Its performance, safety and weight are ideal for those long isolated vol-bivouac flights. High up on an alpine summit, the TALA LITE will be your best companion.</p>
+                         
+                         <br />
+                         <h2>Designer's notes</h2>
+                         <p>In 1985, Brian Milton and I founded the 444 Club. We wanted members to attempt to follow migratory birds for 444 km across the Alps. Nobody accomplished the goal with the early hang gliders but I have always wanted to design a paraglider that could. The TALA LITE is the tool for the modern-day 444 Club member. <br/><br/>Like the TALA, the TALA LITE is a wing that has a low cell count (Simple Cells) and a very clean leading edge (Cord Cut Billow) making the low cell count (50 cells) feasible thus reducing the weight, line consumption and complexity of the paraglider. The TALA LITE is a true three-liner from top to bottom. It has three main lines in the span-wise direction and only two levels of lines on the first and second main lines. The third main lines split twice making big ears easy and effective. The TALA LITE only has 238m of total line, which is close to most two-liners.</p>
+
+                    </div>
+                    
+                	<div class="col-lg-5 offset-lg-1">
+                    	<div class="target-flyingstyle">
+                            <h3>Flying <strong>Level / Style</strong></h3>
+                            
+                            					<input id="flying_level" type="text" data-provide="slider"	data-slider-ticks="[0, 5, 10]" data-slider-ticks-labels='["Beginner", "Intermediate", "Advanced"]' data-slider-min="0" data-slider-max="10" data-slider-step="1" data-slider-value="[6, 9]" data-slider-tooltip="hide" data-slider-enabled="false" data-slider-id="flying_level_slider" />
+					<br><br><br><br>
+							
+							
+                            
+                            			<h3 class="mb" style="margin-top:40px">Package includes</h3>
+Paraglider / Compression strap / Riser bag / Inner bag / Rucksack / Repair cloth / BGD gift
+                    	</div>
+                    </div>
+                    
+                    
+                </div>   
+          	</div>
+		</section></div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"bg-warm-white min-h-screen","children":["$","div",null,{"className":"layout-container max-w-6xl pt-20 lg:pt-24 pb-10 lg:pb-16","children":[["$","nav",null,{"aria-label":"Breadcrumb","className":"text-sm text-slate mb-6","style":{"fontFamily":"var(--font-inter)"},"children":["$","ol",null,{"className":"flex flex-wrap gap-x-1.5 gap-y-1","children":[["$","li","Home",{"className":"flex items-center gap-1.5","children":[null,["$","$L2",null,{"href":"/","className":"text-horizon hover:text-sky-deep transition-colors","children":"Home"}]]}],["$","li","Paragliding shop",{"className":"flex items-center gap-1.5","children":[["$","span",null,{"className":"text-cloud","children":"/"}],["$","$L2",null,{"href":"/paragliding-shop","className":"text-horizon hover:text-sky-deep transition-colors","children":"Paragliding shop"}]]}],["$","li","Paragliders",{"className":"flex items-center gap-1.5","children":[["$","span",null,{"className":"text-cloud","children":"/"}],["$","$L2",null,{"href":"/paragliding-shop/paragliders","className":"text-horizon hover:text-sky-deep transition-colors","children":"Paragliders"}]]}],["$","li","TALA LITE",{"className":"flex items-center gap-1.5","children":[["$","span",null,{"className":"text-cloud","children":"/"}],["$","span",null,{"className":"text-soft-black font-medium","children":"TALA LITE"}]]}]]}]}],["$","header",null,{"className":"mb-10 max-w-prose","children":[["$","h1",null,{"className":"text-3xl sm:text-4xl font-bold text-teal-600 mb-2","style":{"fontFamily":"var(--font-inter)"},"children":"TALA LITE"}],["$","p",null,{"className":"text-slate text-lg leading-relaxed mb-4","style":{"fontFamily":"var(--font-inter)"},"children":"Extra water, food or beer could make up for the almost 1.1 kg of weight we have skimmed off the TALA (without losing much durability). With a mix of carefully allocated 27, 34, and 40 gram cloth the EN-C..."}],["$","$L2",null,{"href":"/contact","className":"inline-flex items-center justify-center px-5 py-3 text-teal-700 font-semibold underline","style":{"fontFamily":"var(--font-inter)"},"children":"Contact us"}]]}],["$","article",null,{"className":"bgd-product-html text-slate","style":{"fontFamily":"var(--font-inter)"},"dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}]}],["$L5"],"$L6"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"25hMhhWhkoJTha_Og-J0m"}
+4:["$","p",null,{"className":"text-xs text-slate/80 mt-10 pt-6 border-t border-cloud","style":{"fontFamily":"var(--font-inter)"},"children":"Product text and media mirror the public English materials from the manufacturer. In-page links to the manufacturer are disabled; use Contact us to reach our school. Always verify class ratings, weight ranges, and line plans for your size before you fly."}]
+5:["$","script","script-0",{"src":"/paragliding-school-copy/_next/static/chunks/06e6k8wjhv093.js","async":true}]
+6:["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]
+9:null

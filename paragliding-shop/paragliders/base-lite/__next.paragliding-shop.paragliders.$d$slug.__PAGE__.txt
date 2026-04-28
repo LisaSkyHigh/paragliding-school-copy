@@ -1,0 +1,376 @@
+1:"$Sreact.fragment"
+2:I[22016,["/paragliding-school-copy/_next/static/chunks/0z~j7c7sl~_.k.js","/paragliding-school-copy/_next/static/chunks/08fct066p2nk~.js","/paragliding-school-copy/_next/static/chunks/0d3shmwh5_nmn.js","/paragliding-school-copy/_next/static/chunks/06e6k8wjhv093.js"],""]
+7:I[97367,["/paragliding-school-copy/_next/static/chunks/0z~j7c7sl~_.k.js","/paragliding-school-copy/_next/static/chunks/08fct066p2nk~.js","/paragliding-school-copy/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+3:T4e06,<div class="bgd-embed-section" data-bgd-section="introduction"><div class="container">
+            	<div class="row">
+                	<div class="col-lg-12">
+                    	<div class="tagline">- First to Base -</div>
+                    </div>
+                </div>
+                
+                <div class="row reverse_position_lg">
+                	<div class="col-lg-6">
+                    	<div class="row">
+                        	<div class="col-md-12">
+                                <div class="anim3d">
+                                							<div class="main_picture_sel active" id="main_picture_sel_889">
+								<img src="https://cdn.flybgd.com/files/photo/carre/1560894822-4873.png?v=1560894827" width="720" height="720" alt="Polar" title="Polar" />
+							</div>
+							<div class="main_picture_sel" id="main_picture_sel_890">
+								<img src="https://cdn.flybgd.com/files/photo/carre/1560894766-5321.png?v=1560894771" width="720" height="720" alt="Thermal" title="Thermal" />
+							</div>
+  
+                                </div>
+							</div>
+                        </div>
+                        
+                        <div class="row">
+                        	<div class="col-md-12">
+                                <div class="couleurs">
+                                							<div class='panel_3d_options'>
+								<div class='panel_3d_options_selector' onmouseup='switch_product_color(889)' onmouseover='switch_product_color(889)'><img src="https://cdn.flybgd.com/files/photo/mini/1560894822-4873.png?v=1560894826" width="250" height="250" alt="Polar" title="Polar" /><span>Polar</span></div>
+								<div class='panel_3d_options_selector' onmouseup='switch_product_color(890)' onmouseover='switch_product_color(890)'><img src="https://cdn.flybgd.com/files/photo/mini/1560894766-5321.png?v=1560894771" width="250" height="250" alt="Thermal" title="Thermal" /><span>Thermal</span></div>
+							</div>
+  
+                                </div>
+							</div>
+                        </div>
+                    </div>
+                     
+                    <div class="col-lg-5 offset-lg-1">
+                    	<div class="row">
+                            <div class="col-12">
+                                <h1>Base Lite</h1>
+                                <h2>EN/LTF-B</h2>
+                            </div>
+                            <div class="col-12">
+                                <p>Made for vol-bivouac adventures and travelling the globe, the Base Lite is capable of big XCs and won’t weigh you down.</p>
+                            </div>
+                        </div>
+                        <div class="row">
+                        	<div class="col-12">
+													<ul class="features_summary">
+							<li><a href="#features" class="btn-features-top scroll_to" data-feature-id="860" data-title="BGD Feedback">BGD Feedback</a></li>
+							<li><a href="#features" class="btn-features-top scroll_to" data-feature-id="44" data-title="Leading edge mini-ribs">Leading edge mini-ribs</a></li>
+							<li><a href="#features" class="btn-features-top scroll_to" data-feature-id="45" data-title="Strong shark nose">Strong shark nose</a></li>
+					</ul>
+                                
+                                <a href="#informations" class="btn btn-secondary btn-lg scroll_to">Read more</a>
+                                <a href="#" data-bgd-stay="1" class="btn btn-primary btn-lg scroll_to">Free demo</a>
+                                
+                                
+                        	</div>
+                        </div>
+                        
+                        							
+                         <div class="echelle_size">
+                             <div class="row">
+                                <div class="col-sm-3 col-lg-4">   
+                                     <h2>Size</h2>
+                                     <p class="metres">m²</p>
+                                </div>
+                                <div class="col-sm-9 col-lg-8">   
+                                    
+                                    			<div class="table-responsive">
+				<table class="table table-sm table-option-no-border-top">
+					<tbody>
+						<tr>
+							<td style="width: 33.333333333333%"><strong>S</strong></td>
+							<td style="width: 33.333333333333%"><strong>M</strong></td>
+							<td style="width: 33.333333333333%"><strong>ML</strong></td>
+						</tr>
+						<tr>
+							<td>23</td>
+							<td>25</td>
+							<td>26</td>
+						</tr>
+					</tbody>
+				</table>
+				</div>
+                                </div>
+                    		</div>
+                        </div>
+                                                </div>
+                    
+                </div>
+            </div>
+		</section>
+        
+        
+          
+        
+        
+        
+                <div class="spt-trackThis"></div></div>
+<div class="bgd-embed-section" data-bgd-section="video"><div class="container">
+            	<div class="row">
+                	<div class="col-md-12">
+                    	<div class="embed-file on"><div class="embed-content"><div class="embed-container lazy " >
+	<iframe id="6f3df7e62580f876eea7f6cdeab88ce5" class="lazy "  src="https://player.vimeo.com/video/182827995?title=0&amp;byline=0&amp;portrait=0&amp;color=bb202f" allowfullscreen loading="lazy" title="Video"></iframe></div></div></div>                    </div>
+                </div>   
+          	</div>
+		</section>  
+        
+         
+        
+        
+        
+        
+        <div class="spt-trackThis"></div></div>
+<div class="bgd-embed-section" data-bgd-section="informations"><div class="container">
+            	<div class="row">
+                	<div class="col-lg-6">
+						
+                        
+                        			<h2>Specs</h2>
+			<div class="table-responsive">
+				<table class="table table-sm table-option-border-bottom col_size_4" cols="4">
+					<thead>
+						<tr>
+							<th scope="col" class="libelle">&nbsp;</th>
+							<th scope="col">S</th>
+							<th scope="col">M</th>
+							<th scope="col">ML</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<th scope="row">Linear scaling factor</th>
+							<td>0.95</td>
+							<td>1</td>
+							<td>1.03</td>
+						</tr>
+						<tr>
+							<th scope="row">Projected area (m²)</th>
+							<td>18.7</td>
+							<td>20.7</td>
+							<td>21.8</td>
+						</tr>
+						<tr>
+							<th scope="row">Flat area (m²)</th>
+							<td>22.6</td>
+							<td>25</td>
+							<td>26.3</td>
+						</tr>
+						<tr>
+							<th scope="row">Glider weight (kg)</th>
+							<td>4.1</td>
+							<td>4.4</td>
+							<td>4.6</td>
+						</tr>
+						<tr>
+							<th scope="row">Total line length (m)</th>
+							<td>221</td>
+							<td>245</td>
+							<td>257</td>
+						</tr>
+						<tr>
+							<th scope="row">Height (m)</th>
+							<td>7.1</td>
+							<td>7.2</td>
+							<td>7.4</td>
+						</tr>
+						<tr>
+							<th scope="row">Number of main lines (A/B/C)</th>
+							<td colspan="3">3/4/3</td>
+						</tr>
+						<tr>
+							<th scope="row">Cells</th>
+							<td colspan="3">46</td>
+						</tr>
+						<tr>
+							<th scope="row">Flat aspect ratio</th>
+							<td colspan="3">5.7</td>
+						</tr>
+						<tr>
+							<th scope="row">Projected aspect ratio</th>
+							<td colspan="3">4.1</td>
+						</tr>
+						<tr>
+							<th scope="row">Root chord (m)</th>
+							<td>2.5</td>
+							<td>2.61</td>
+							<td>2.68</td>
+						</tr>
+						<tr>
+							<th scope="row">Flat span (m)</th>
+							<td>11.2</td>
+							<td>11.8</td>
+							<td>12.1</td>
+						</tr>
+						<tr>
+							<th scope="row">Projected span (m)</th>
+							<td>8.7</td>
+							<td>9.2</td>
+							<td>9.4</td>
+						</tr>
+						<tr>
+							<th scope="row">Trim speed (km/h)</th>
+							<td colspan="3">39</td>
+						</tr>
+						<tr>
+							<th scope="row">Top speed (km/h)</th>
+							<td colspan="3">58</td>
+						</tr>
+						<tr>
+							<th scope="row">Min sink (m/s)</th>
+							<td colspan="3">1</td>
+						</tr>
+						<tr>
+							<th scope="row">Best glide</th>
+							<td colspan="3">10.5</td>
+						</tr>
+						<tr>
+							<th scope="col">Certified weight range (kg)</th>
+							<td>60-80</td>
+							<td>75-95</td>
+							<td>85-105</td>
+						</tr>
+						<tr>
+							<th scope="row">Certification (EN/LTF)</th>
+							<td colspan="3">B</td>
+						</tr>
+					</tbody>
+				</table>
+				</div>
+
+                    </div>
+                    
+                    <div class="col-lg-5 offset-lg-1">
+                    	 <div id="informations_right">
+                         	<div class="informations_text">
+                            	<h2>Info</h2>
+                             	<p>The Base Lite is the best Sport class paraglider we have ever made. Based on the EN-B Base, the Base Lite really pulled out all the stops in a paraglider. Lighter means less inertia, creating higher overall performance, reduced shooting, increased roll stability and easier, sharper handling. Bruce increased the usable speed range by adding up to 3km/h to the top speed through the optimised speed bar. The ultra-streamline line set, mixing PPSL with both Kevlar and Dyneema micro lines, reduces drag and really improves performance by up to one point in the glide. Plastic wire reinforced leading edge mini-ribs create a solid leading edge on speed by essentially adding 80 cells without the weight/seams of full ribs. In addition, the Base Lite has a strong sharknose, Cord Cut Billow and Bruce Goldsmith handling. And all that fits into a little bag, amazing! <br/><br/>All in all, the Base Lite launches in the most ambitious patches, sniffs and bites thermals like a great white, climbs like a eagle, speeds like Road Runner, and glides like a foiling catamaran, with an improvement in passive safety.</p>
+                            </div>
+							 							<div class="informations_picture">
+								<img width="745" height="600" src="https://cdn.flybgd.com/files/photo/thumbail/1561488888-6101.png?v=1561488895" loading="lazy" decoding="async" /><noscript><img src="https://cdn.flybgd.com/files/photo/thumbail/1561488888-6101.png?v=1561488895" width="745" height="600" /></noscript>
+							</div>
+                         </div>
+                    </div>
+                </div>   
+          	</div>
+		</section>  
+        
+        
+                <div class="spt-trackThis"></div></div>
+<div class="bgd-embed-section" data-bgd-section="features"><div class="features_layer lazy" data-bg="url(https://cdn.flybgd.com/files/photo/svg/1560893622-8060.svg?v=1560893622)"></div>
+            <div class="container">
+            	<div class="row">
+                	
+                    <div class="col-lg-6 col-xl-6">
+                    	<div class="features-picture">
+                    					<div class="feature_img">
+					<img width="720" height="720" src="https://cdn.flybgd.com/files/photo/carre/1560893758-0330.png?v=1560893764" loading="lazy" decoding="async" /><noscript><img src="https://cdn.flybgd.com/files/photo/carre/1560893758-0330.png?v=1560893764" width="720" height="720" /></noscript>
+				</div>
+				<a href="#" id="btn-features-860" class="btn-features active full_right" style="top: 1%; left:100%;" data-feature-id="860" data-title="BGD Feedback">+</a>
+				<a href="#" id="btn-features-44" class="btn-features  " style="top: 15%; left:43%;" data-feature-id="44" data-title="Leading edge mini-ribs">+</a>
+				<a href="#" id="btn-features-866" class="btn-features  " style="top: 50%; left:50%;" data-feature-id="866" data-title="Integrated Line Layout">+</a>
+				<a href="#" id="btn-features-774" class="btn-features  " style="top: 40%; left:25%;" data-feature-id="774" data-title="Progressive Stability">+</a>
+				<a href="#" id="btn-features-865" class="btn-features  " style="top: 85%; left:43%;" data-feature-id="865" data-title="Snap Locks">+</a>
+				<a href="#" id="btn-features-45" class="btn-features  " style="top: 2%; left:55%;" data-feature-id="45" data-title="Strong shark nose">+</a>
+                    	</div>
+                    </div>
+                    
+                    <div class="col-lg-5 offset-lg-1"><!-- col-xl-6  offset-xl-0 -->
+                    	<h2>Tech</h2>
+                        
+                        				<div class="feature active" data-feature-id="860">
+				<div class="feature-image">
+					<img src="https://cdn.flybgd.com/files/photo/thumbail/1558108590-3448.jpg?v=1558108590" width="800" height="400" />
+				</div>
+				<h3 class="feature-title">BGD Feedback</h3>
+				<div class="">
+					Gliders that talk are safer. Safer gliders make pilots perform better. Better performing pilots fly further. Further flying pilots are happier pilots. BGD Feedback produces happier pilots!
+				</div>
+				</div>
+				<div class="feature " data-feature-id="44">
+				<div class="feature-image">
+					<img src="https://cdn.flybgd.com/files/photo/thumbail/1560893390-7794.jpg?v=1560893390" width="800" height="400" />
+				</div>
+				<h3 class="feature-title">Leading edge mini-ribs</h3>
+				<div class="">
+					Situated along the leading edge are reinforced mini-ribs, designed to help produce a rock-solid profile while on speed bar.
+				</div>
+				</div>
+				<div class="feature " data-feature-id="866">
+				<div class="feature-image">
+					<img src="https://cdn.flybgd.com/files/photo/thumbail/1557845000-0936.jpg?v=1557845000" width="800" height="400" />
+				</div>
+				<h3 class="feature-title">Integrated Line Layout</h3>
+				<div class="">
+					The line layout of our gliders is fully integrated into the wing design. Sail and lines are designed together, holistically. The cell widths and the internal straps that transfer the load though the sail are all designed according to the line layout. Even the panel shaping is matched with the line layout through detailed CAD simulation. The result is simple: fewer lines and stronger, faster, safer gliders.
+				</div>
+				</div>
+				<div class="feature " data-feature-id="774">
+				<div class="feature-image">
+					<img src="https://cdn.flybgd.com/files/photo/thumbail/1649940470-4868.jpg?v=1649940470" width="800" height="400" />
+				</div>
+				<h3 class="feature-title">Progressive Stability</h3>
+				<div class="">
+					Using our Parasim simulation program, BGD gliders are designed to have a stable and solid centre with progressively softer tips. This teaches pilots to predict and avoid deflations and stay aware of the air.
+
+				</div>
+				</div>
+				<div class="feature " data-feature-id="865">
+				<div class="feature-image">
+					<div class="embed-file on"><div class="embed-content"><div class="embed-container " data-bg="url(https://cdn.flybgd.com/files/photo/thumbail/1649948549-4642.jpg?v=1649948549)">
+	<iframe id="7df84b94bb2829da84dbd190f2d7e4a5" class="" src="https://player.vimeo.com/video/364298489?title=0&amp;byline=0&amp;portrait=0&amp;color=bb202f&autoplay=1&autopause=0&loop=1&muted=1&background=1" allowfullscreen allow="autoplay" muted="muted"></iframe></div></div></div>
+				</div>
+				<h3 class="feature-title">Snap Locks</h3>
+				<div class="">
+					BGD developed the first snaplocks for paragliding with Fidlock a decade ago. They have been refined and improved over the years and have now been widely adopted in the industry. A small focused magnet inside the catch with an internal locking system holds the handles in place. They release only when the handles are pulled down towards the pilot, so they don’t fall off while kiting, packing, or performing manoeuvres.  
+				</div>
+				</div>
+				<div class="feature " data-feature-id="45">
+				<div class="feature-image">
+					<img src="https://cdn.flybgd.com/files/photo/thumbail/1557845361-2552.jpg?v=1557845361" width="800" height="400" />
+				</div>
+				<h3 class="feature-title">Strong shark nose</h3>
+				<div class="">
+					An ultra aggressive shark nose optimises stability at all speeds. Not all sharks are created equal and BGD’s shark noses are very aggressive, maximising the effects of the technology.
+				</div>
+				</div>
+                         
+                        
+                    </div>
+                </div>   
+          	</div>
+		</section> 
+        
+        
+        <div class="spt-trackThis"></div></div>
+<div class="bgd-embed-section" data-bgd-section="target"><div class="container">
+            	<div class="row">
+                	<div class="col-lg-6">
+                    	 <h2>Target</h2>
+                         <p>It’s 9am and the first cycle is impatiently pushing against the inversion layer. You’re huffing and puffing, determined to get to the small clearing you saw at first light. You look behind and see the fast-approaching floating seeds and butterflies. You say to yourself, “Come on! This is what all the training was for, put the gas on, you can rest at base.” Luckily, by taking the best kit possible you got your small pack down to 7.6kg and you can almost jog the last 200 metres, outrunning those pesky insects and floating debris. You pull the As. The glider almost self-launches and lifts you away from your scabby launch. The sharknose bites hard into the first cycle and doesn’t let go. Now with a sigh of relief you’re banked up, spiralling to base, excited to see how fast and long this downwind dash is going to be. <br/><br/>Every athlete knows the importance of lightweight, fast, high-performing gear especially if time is of the essence. The Base Lite was designed for the pilot who craves epic vol-bivouac (sky-camping ) adventures, travelling the world and the occasional top-to-bottom comfort flight. Climb freely, broaden your horizon and be the first to base with the Base Lite.</p>
+                         
+                         <br />
+                         <h2>Designer's notes</h2>
+                         <p>Working towards a PWC title, I am exhausted after every task and couldn't possibly contemplate having to hike any further than to the closest bar. The Red Bull X-Alps has changed the sport and I look at the athletes in total awe. I designed the Base Lite with this class of pilot in mind; reduced weight and increased performance without compromise. The Base Lite is a stellar Sport class paraglider that delivers unparalleled advantages to vol-bivouac pilots, mountaineers, and world travellers.<br/>Call it comfort or laziness but I have to admit in my free time I often choose to fly the Base Lite – the saved weight makes a noticeable difference on my back. I can pack it into my carry-on bag when I travel, and obviously the added performance is always appreciated.</p>
+
+                    </div>
+                    
+                	<div class="col-lg-5 offset-lg-1">
+                    	<div class="target-flyingstyle">
+                            <h3>Flying <strong>Level / Style</strong></h3>
+                            
+                            					<input id="flying_level" type="text" data-provide="slider"	data-slider-ticks="[0, 5, 10]" data-slider-ticks-labels='["Beginner", "Intermediate", "Advanced"]' data-slider-min="0" data-slider-max="10" data-slider-step="1" data-slider-value="[6, 9]" data-slider-tooltip="hide" data-slider-enabled="false" data-slider-id="flying_level_slider" />
+					<br><br><br><br>
+							
+							
+                            
+                            			<h3 class="mb" style="margin-top:40px">Package includes</h3>
+Paraglider / Compression strap / Riser bag / Inner bag / Rucksack / Repair cloth / BGD gift
+                    	</div>
+                    </div>
+                    
+                    
+                </div>   
+          	</div>
+		</section></div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"bg-warm-white min-h-screen","children":["$","div",null,{"className":"layout-container max-w-6xl pt-20 lg:pt-24 pb-10 lg:pb-16","children":[["$","nav",null,{"aria-label":"Breadcrumb","className":"text-sm text-slate mb-6","style":{"fontFamily":"var(--font-inter)"},"children":["$","ol",null,{"className":"flex flex-wrap gap-x-1.5 gap-y-1","children":[["$","li","Home",{"className":"flex items-center gap-1.5","children":[null,["$","$L2",null,{"href":"/","className":"text-horizon hover:text-sky-deep transition-colors","children":"Home"}]]}],["$","li","Paragliding shop",{"className":"flex items-center gap-1.5","children":[["$","span",null,{"className":"text-cloud","children":"/"}],["$","$L2",null,{"href":"/paragliding-shop","className":"text-horizon hover:text-sky-deep transition-colors","children":"Paragliding shop"}]]}],["$","li","Paragliders",{"className":"flex items-center gap-1.5","children":[["$","span",null,{"className":"text-cloud","children":"/"}],["$","$L2",null,{"href":"/paragliding-shop/paragliders","className":"text-horizon hover:text-sky-deep transition-colors","children":"Paragliders"}]]}],["$","li","BASE LITE",{"className":"flex items-center gap-1.5","children":[["$","span",null,{"className":"text-cloud","children":"/"}],["$","span",null,{"className":"text-soft-black font-medium","children":"BASE LITE"}]]}]]}]}],["$","header",null,{"className":"mb-10 max-w-prose","children":[["$","h1",null,{"className":"text-3xl sm:text-4xl font-bold text-teal-600 mb-2","style":{"fontFamily":"var(--font-inter)"},"children":"BASE LITE"}],["$","p",null,{"className":"text-slate text-lg leading-relaxed mb-4","style":{"fontFamily":"var(--font-inter)"},"children":"The Base Lite is the best Sport class paraglider we have ever made. Based on the EN-B Base, the Base Lite really pulled out all the stops in a paraglider. Lighter means less inertia, creating higher overall..."}],["$","$L2",null,{"href":"/contact","className":"inline-flex items-center justify-center px-5 py-3 text-teal-700 font-semibold underline","style":{"fontFamily":"var(--font-inter)"},"children":"Contact us"}]]}],["$","article",null,{"className":"bgd-product-html text-slate","style":{"fontFamily":"var(--font-inter)"},"dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}]}],["$L5"],"$L6"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"25hMhhWhkoJTha_Og-J0m"}
+4:["$","p",null,{"className":"text-xs text-slate/80 mt-10 pt-6 border-t border-cloud","style":{"fontFamily":"var(--font-inter)"},"children":"Product text and media mirror the public English materials from the manufacturer. In-page links to the manufacturer are disabled; use Contact us to reach our school. Always verify class ratings, weight ranges, and line plans for your size before you fly."}]
+5:["$","script","script-0",{"src":"/paragliding-school-copy/_next/static/chunks/06e6k8wjhv093.js","async":true}]
+6:["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]
+9:null

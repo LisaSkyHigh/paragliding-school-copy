@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Fabout\u002Fteam\u002F[name]","\u002Fparagliding-shop\u002Fparagliders\u002F[slug]","\u002Fstories\u002Fexpedition-reports\u002F[slug]","\u002Fstories\u002Ffield-notes\u002F[slug]","\u002Fstories\u002Fstudent-stories\u002F[slug]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()

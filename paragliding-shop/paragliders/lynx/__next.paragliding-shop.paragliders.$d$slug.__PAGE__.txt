@@ -1,0 +1,434 @@
+1:"$Sreact.fragment"
+2:I[22016,["/paragliding-school-copy/_next/static/chunks/0z~j7c7sl~_.k.js","/paragliding-school-copy/_next/static/chunks/08fct066p2nk~.js","/paragliding-school-copy/_next/static/chunks/0d3shmwh5_nmn.js","/paragliding-school-copy/_next/static/chunks/06e6k8wjhv093.js"],""]
+7:I[97367,["/paragliding-school-copy/_next/static/chunks/0z~j7c7sl~_.k.js","/paragliding-school-copy/_next/static/chunks/08fct066p2nk~.js","/paragliding-school-copy/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+3:T5c53,<div class="bgd-embed-section" data-bgd-section="introduction"><div class="container">
+            	<div class="row">
+                	<div class="col-lg-12">
+                    	<div class="tagline">- Be the Predator -</div>
+                    </div>
+                </div>
+                
+                <div class="row reverse_position_lg">
+                	<div class="col-lg-6">
+                    	<div class="row">
+                        	<div class="col-md-12">
+                                <div class="anim3d">
+                                							<div class="main_picture_sel active" id="main_picture_sel_337">
+								<img src="https://cdn.flybgd.com/files/photo/carre/1555669845-4733.png?v=1555669850" width="720" height="720" alt="Mojave" title="Mojave" />
+							</div>
+							<div class="main_picture_sel" id="main_picture_sel_338">
+								<img src="https://cdn.flybgd.com/files/photo/carre/1555671653-4390.png?v=1555671658" width="720" height="720" alt="Sahara" title="Sahara" />
+							</div>
+  
+                                </div>
+							</div>
+                        </div>
+                        
+                        <div class="row">
+                        	<div class="col-md-12">
+                                <div class="couleurs">
+                                							<div class='panel_3d_options'>
+								<div class='panel_3d_options_selector' onmouseup='switch_product_color(337)' onmouseover='switch_product_color(337)'><img src="https://cdn.flybgd.com/files/photo/mini/1555669845-4733.png?v=1555669850" width="250" height="250" alt="Mojave" title="Mojave" /><span>Mojave</span></div>
+								<div class='panel_3d_options_selector' onmouseup='switch_product_color(338)' onmouseover='switch_product_color(338)'><img src="https://cdn.flybgd.com/files/photo/mini/1555671653-4390.png?v=1555671658" width="250" height="250" alt="Sahara" title="Sahara" /><span>Sahara</span></div>
+							</div>
+  
+                                </div>
+							</div>
+                        </div>
+                    </div>
+                     
+                    <div class="col-lg-5 offset-lg-1">
+                    	<div class="row">
+                            <div class="col-12">
+                                <h1>Lynx</h1>
+                                <h2>EN/LTF-C</h2>
+                            </div>
+                            <div class="col-12">
+                                <p>For lone-wolf adventurers or XC gurus, the LYNX offers top performance in a bite-sized package.</p>
+                            </div>
+                        </div>
+                        <div class="row">
+                        	<div class="col-12">
+													<ul class="features_summary">
+							<li><a href="#features" class="btn-features-top scroll_to" data-feature-id="43" data-title="Chord Cut Billow (CCB)">Chord Cut Billow (CCB)</a></li>
+							<li><a href="#features" class="btn-features-top scroll_to" data-feature-id="864" data-title="Maximised unsupported cells">Maximised unsupported cells</a></li>
+							<li><a href="#features" class="btn-features-top scroll_to" data-feature-id="861" data-title="Post C-band">Post C-band</a></li>
+							<li><a href="#features" class="btn-features-top scroll_to" data-feature-id="774" data-title="Progressive Stability">Progressive Stability</a></li>
+							<li><a href="#features" class="btn-features-top scroll_to" data-feature-id="45" data-title="Strong shark nose">Strong shark nose</a></li>
+							<li><a href="#features" class="btn-features-top scroll_to" data-feature-id="859" data-title="Weight-optimised ribs">Weight-optimised ribs</a></li>
+					</ul>
+                                
+                                <a href="#informations" class="btn btn-secondary btn-lg scroll_to">Read more</a>
+                                <a href="#" data-bgd-stay="1" class="btn btn-primary btn-lg scroll_to">Free demo</a>
+                                
+                                
+                        	</div>
+                        </div>
+                        
+                        							
+                         <div class="echelle_size">
+                             <div class="row">
+                                <div class="col-sm-3 col-lg-4">   
+                                     <h2>Size</h2>
+                                     <p class="metres">m²</p>
+                                </div>
+                                <div class="col-sm-9 col-lg-8">   
+                                    
+                                    			<div class="table-responsive">
+				<table class="table table-sm table-option-no-border-top">
+					<tbody>
+						<tr>
+							<td style="width: 25%"><strong>S</strong></td>
+							<td style="width: 25%"><strong>M</strong></td>
+							<td style="width: 25%"><strong>ML</strong></td>
+							<td style="width: 25%"><strong>L</strong></td>
+						</tr>
+						<tr>
+							<td>21</td>
+							<td>23</td>
+							<td>25</td>
+							<td>27</td>
+						</tr>
+					</tbody>
+				</table>
+				</div>
+                                </div>
+                    		</div>
+                        </div>
+                                                </div>
+                    
+                </div>
+            </div>
+		</section>
+        
+        
+          
+        
+        
+        
+                <div class="spt-trackThis"></div></div>
+<div class="bgd-embed-section" data-bgd-section="video"><div class="container">
+            	<div class="row">
+                	<div class="col-md-12">
+                    	<div class="embed-file on"><div class="embed-content"><div class="embed-container lazy " >
+	<iframe id="26c309811fd87668afffcbfa7438f5b4" class="lazy "  src="https://player.vimeo.com/video/236214365?title=0&amp;byline=0&amp;portrait=0&amp;color=bb202f" allowfullscreen loading="lazy" title="Video"></iframe></div></div></div>                    </div>
+                </div>   
+          	</div>
+		</section>  
+        
+         
+        
+        
+        
+        
+        <div class="spt-trackThis"></div></div>
+<div class="bgd-embed-section" data-bgd-section="informations"><div class="container">
+            	<div class="row">
+                	<div class="col-lg-6">
+						
+                        
+                        			<h2>Specs</h2>
+			<div class="table-responsive">
+				<table class="table table-sm table-option-border-bottom col_size_5" cols="5">
+					<thead>
+						<tr>
+							<th scope="col" class="libelle">&nbsp;</th>
+							<th scope="col">S</th>
+							<th scope="col">M</th>
+							<th scope="col">ML</th>
+							<th scope="col">L</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<th scope="row">Linear scaling factor</th>
+							<td>0.96</td>
+							<td>1</td>
+							<td>1.04</td>
+							<td>1.08</td>
+						</tr>
+						<tr>
+							<th scope="row">Projected area (m²)</th>
+							<td>17.7</td>
+							<td>19.2</td>
+							<td>20.8</td>
+							<td>22.4</td>
+						</tr>
+						<tr>
+							<th scope="row">Flat area (m²)</th>
+							<td>21.2</td>
+							<td>23</td>
+							<td>24.9</td>
+							<td>26.8</td>
+						</tr>
+						<tr>
+							<th scope="row">Glider weight (kg)</th>
+							<td>3.6</td>
+							<td>3.9</td>
+							<td>4.2</td>
+							<td>4.5</td>
+						</tr>
+						<tr>
+							<th scope="row">Total line length (m)</th>
+							<td>225</td>
+							<td>244</td>
+							<td>264</td>
+							<td>285</td>
+						</tr>
+						<tr>
+							<th scope="row">Height (m)</th>
+							<td>7.1</td>
+							<td>7.6</td>
+							<td>7.9</td>
+							<td>8.2</td>
+						</tr>
+						<tr>
+							<th scope="row">Number of main lines (A/B/C)</th>
+							<td colspan="4">3/3/4</td>
+						</tr>
+						<tr>
+							<th scope="row">Cells</th>
+							<td colspan="4">60</td>
+						</tr>
+						<tr>
+							<th scope="row">Flat aspect ratio</th>
+							<td colspan="4">6.8</td>
+						</tr>
+						<tr>
+							<th scope="row">Projected aspect ratio</th>
+							<td colspan="4">4.9</td>
+						</tr>
+						<tr>
+							<th scope="row">Root chord (m)</th>
+							<td>2.2</td>
+							<td>2.3</td>
+							<td>2.4</td>
+							<td>2.5</td>
+						</tr>
+						<tr>
+							<th scope="row">Flat span (m)</th>
+							<td>12</td>
+							<td>12.5</td>
+							<td>13</td>
+							<td>13.5</td>
+						</tr>
+						<tr>
+							<th scope="row">Projected span (m)</th>
+							<td>9.3</td>
+							<td>9.7</td>
+							<td>10</td>
+							<td>10.4</td>
+						</tr>
+						<tr>
+							<th scope="row">Trim speed (km/h)</th>
+							<td colspan="4">40</td>
+						</tr>
+						<tr>
+							<th scope="row">Top speed (km/h)</th>
+							<td colspan="4">57</td>
+						</tr>
+						<tr>
+							<th scope="row">Min sink (m/s)</th>
+							<td colspan="4">1</td>
+						</tr>
+						<tr>
+							<th scope="row">Best glide</th>
+							<td colspan="4">11</td>
+						</tr>
+						<tr>
+							<th scope="col">Certified weight range (kg)</th>
+							<td>60-80</td>
+							<td>75-95</td>
+							<td>90-110</td>
+							<td>105-123</td>
+						</tr>
+						<tr>
+							<th scope="row">Certification (EN/LTF)</th>
+							<td colspan="4">C</td>
+						</tr>
+					</tbody>
+				</table>
+				</div>
+
+                    </div>
+                    
+                    <div class="col-lg-5 offset-lg-1">
+                    	 <div id="informations_right">
+                         	<div class="informations_text">
+                            	<h2>Info</h2>
+                             	<p>Based on the CURE, The LYNX is a streamlined, fully-fledged XC predator. Her refined simplicity makes her faster, lighter, more elegant and competitive while the EN-C certification offers reassurance for experienced pilots. <br/><br/>The LYNX has new BGD LITE risers using three strands of 13mm webbing and a performance-optimised speed system. With a new Edelrid Magix pro 8000U comp line set and Porcher Sport’s new laterally reinforced Skytex 32g/m² lightweight cloth, the LYNX is at the leading edge of the game. She is cunning, agile, and will take you to the top of the food chain.</p>
+                            </div>
+							 							<div class="informations_picture">
+								<img width="745" height="600" src="https://cdn.flybgd.com/files/photo/thumbail/1558954296-0161.png?v=1558954302" loading="lazy" decoding="async" /><noscript><img src="https://cdn.flybgd.com/files/photo/thumbail/1558954296-0161.png?v=1558954302" width="745" height="600" /></noscript>
+							</div>
+                         </div>
+                    </div>
+                </div>   
+          	</div>
+		</section>  
+        
+        
+                <div class="spt-trackThis"></div></div>
+<div class="bgd-embed-section" data-bgd-section="features"><div class="features_layer lazy" data-bg="url(https://cdn.flybgd.com/files/photo/svg/1555668605-3935.svg?v=1556016168)"></div>
+            <div class="container">
+            	<div class="row">
+                	
+                    <div class="col-lg-6 col-xl-6">
+                    	<div class="features-picture">
+                    					<div class="feature_img">
+					<img width="720" height="720" src="https://cdn.flybgd.com/files/photo/carre/1555669043-3459.png?v=1556016185" loading="lazy" decoding="async" /><noscript><img src="https://cdn.flybgd.com/files/photo/carre/1555669043-3459.png?v=1556016185" width="720" height="720" /></noscript>
+				</div>
+				<a href="#" id="btn-features-43" class="btn-features active " style="top: 1%; left:37%;" data-feature-id="43" data-title="Chord Cut Billow (CCB)">+</a>
+				<a href="#" id="btn-features-860" class="btn-features  full_right" style="top: 1%; left:100%;" data-feature-id="860" data-title="BGD Feedback">+</a>
+				<a href="#" id="btn-features-44" class="btn-features  " style="top: 5%; left:18%;" data-feature-id="44" data-title="Leading edge mini-ribs">+</a>
+				<a href="#" id="btn-features-864" class="btn-features  " style="top: 16%; left:50%;" data-feature-id="864" data-title="Maximised unsupported cells">+</a>
+				<a href="#" id="btn-features-866" class="btn-features  " style="top: 40%; left:37%;" data-feature-id="866" data-title="Integrated Line Layout">+</a>
+				<a href="#" id="btn-features-861" class="btn-features  " style="top: 27%; left:75%;" data-feature-id="861" data-title="Post C-band">+</a>
+				<a href="#" id="btn-features-774" class="btn-features  " style="top: 42%; left:85%;" data-feature-id="774" data-title="Progressive Stability">+</a>
+				<a href="#" id="btn-features-865" class="btn-features  " style="top: 78%; left:47%;" data-feature-id="865" data-title="Snap Locks">+</a>
+				<a href="#" id="btn-features-45" class="btn-features  " style="top: 12%; left:70%;" data-feature-id="45" data-title="Strong shark nose">+</a>
+				<a href="#" id="btn-features-859" class="btn-features  " style="top: 12%; left:40%;" data-feature-id="859" data-title="Weight-optimised ribs">+</a>
+                    	</div>
+                    </div>
+                    
+                    <div class="col-lg-5 offset-lg-1"><!-- col-xl-6  offset-xl-0 -->
+                    	<h2>Tech</h2>
+                        
+                        				<div class="feature active" data-feature-id="43">
+				<div class="feature-image">
+					<div class="embed-file on"><div class="embed-content"><div class="embed-container " data-bg="url(https://cdn.flybgd.com/files/photo/thumbail/1551023903-1019.jpg?v=1553794187)">
+	<iframe id="478bc40f1184a4b49fe96e04f753269d" class="" src="https://player.vimeo.com/video/364287205?title=0&amp;byline=0&amp;portrait=0&amp;color=bb202f&autoplay=1&autopause=0&loop=1&muted=1&background=1" allowfullscreen allow="autoplay" muted="muted"></iframe></div></div></div>
+				</div>
+				<h3 class="feature-title">Chord Cut Billow (CCB)</h3>
+				<div class="">
+					Chord Cut Billow technology has been developed to improve the form friction, glider stability and overall performance of our paragliders. Two seams run chord-wise across the top panels of the leading edge. They accommodate the panel ballooning that happens when the wing is inflated. Without CCB, up to five centimetres of excess material is created on the sides of an inflated flat panel when it bends over a wing profile. This results in wrinkles. Chord Cut Billow technology removes this excess material and the 3D panel has fewer ripples and improved rib profile shape and stability.
+
+				</div>
+				</div>
+				<div class="feature " data-feature-id="860">
+				<div class="feature-image">
+					<img src="https://cdn.flybgd.com/files/photo/thumbail/1558108590-3448.jpg?v=1558108590" width="800" height="400" />
+				</div>
+				<h3 class="feature-title">BGD Feedback</h3>
+				<div class="">
+					Gliders that talk are safer. Safer gliders make pilots perform better. Better performing pilots fly further. Further flying pilots are happier pilots. BGD Feedback produces happier pilots!
+				</div>
+				</div>
+				<div class="feature " data-feature-id="44">
+				<div class="feature-image">
+					<img src="https://cdn.flybgd.com/files/photo/thumbail/1560893390-7794.jpg?v=1560893390" width="800" height="400" />
+				</div>
+				<h3 class="feature-title">Leading edge mini-ribs</h3>
+				<div class="">
+					Situated along the leading edge are reinforced mini-ribs, designed to help produce a rock-solid profile while on speed bar.
+				</div>
+				</div>
+				<div class="feature " data-feature-id="864">
+				<div class="feature-image">
+					<img src="https://cdn.flybgd.com/files/photo/thumbail/1560500087-3681.jpg?v=1560500087" width="800" height="400" />
+				</div>
+				<h3 class="feature-title">Maximised unsupported cells</h3>
+				<div class="">
+					Optimised unsupported cell groups are designed to match the span-wise load distribution influenced by the line layout. Coupled with a strong internal structure, the line layouts that create more span-wise tension can support more unsupported cells. While maintaining a homogenous wing, this helps to minimise line consumption reducing drag thus improving performance.
+				</div>
+				</div>
+				<div class="feature " data-feature-id="866">
+				<div class="feature-image">
+					<img src="https://cdn.flybgd.com/files/photo/thumbail/1557845000-0936.jpg?v=1557845000" width="800" height="400" />
+				</div>
+				<h3 class="feature-title">Integrated Line Layout</h3>
+				<div class="">
+					The line layout of our gliders is fully integrated into the wing design. Sail and lines are designed together, holistically. The cell widths and the internal straps that transfer the load though the sail are all designed according to the line layout. Even the panel shaping is matched with the line layout through detailed CAD simulation. The result is simple: fewer lines and stronger, faster, safer gliders.
+				</div>
+				</div>
+				<div class="feature " data-feature-id="861">
+				<div class="feature-image">
+					<img src="https://cdn.flybgd.com/files/photo/thumbail/1560500053-0686.jpg?v=1560500054" width="800" height="400" />
+				</div>
+				<h3 class="feature-title">Post C-band</h3>
+				<div class="">
+					We have added a Post-C band running along the top surface which seamlessly moves down to the bottom surface at the tip, connecting directly to the last line cascade. Instead of putting heavy plastic rods above the C lines we use this band to counter the common flip-up ripple caused when applying a little brake. The problem with paragliders is when a little brake is applied the cupping of the trailing edge creates lift which often buckles the profile near the Cs. We have solved this problem with the Post-C Band, an eloquent, lightweight, clean and volume reducing solution.
+				</div>
+				</div>
+				<div class="feature " data-feature-id="774">
+				<div class="feature-image">
+					<img src="https://cdn.flybgd.com/files/photo/thumbail/1649940470-4868.jpg?v=1649940470" width="800" height="400" />
+				</div>
+				<h3 class="feature-title">Progressive Stability</h3>
+				<div class="">
+					Using our Parasim simulation program, BGD gliders are designed to have a stable and solid centre with progressively softer tips. This teaches pilots to predict and avoid deflations and stay aware of the air.
+
+				</div>
+				</div>
+				<div class="feature " data-feature-id="865">
+				<div class="feature-image">
+					<div class="embed-file on"><div class="embed-content"><div class="embed-container " data-bg="url(https://cdn.flybgd.com/files/photo/thumbail/1649948549-4642.jpg?v=1649948549)">
+	<iframe id="7df84b94bb2829da84dbd190f2d7e4a5" class="" src="https://player.vimeo.com/video/364298489?title=0&amp;byline=0&amp;portrait=0&amp;color=bb202f&autoplay=1&autopause=0&loop=1&muted=1&background=1" allowfullscreen allow="autoplay" muted="muted"></iframe></div></div></div>
+				</div>
+				<h3 class="feature-title">Snap Locks</h3>
+				<div class="">
+					BGD developed the first snaplocks for paragliding with Fidlock a decade ago. They have been refined and improved over the years and have now been widely adopted in the industry. A small focused magnet inside the catch with an internal locking system holds the handles in place. They release only when the handles are pulled down towards the pilot, so they don’t fall off while kiting, packing, or performing manoeuvres.  
+				</div>
+				</div>
+				<div class="feature " data-feature-id="45">
+				<div class="feature-image">
+					<img src="https://cdn.flybgd.com/files/photo/thumbail/1557845361-2552.jpg?v=1557845361" width="800" height="400" />
+				</div>
+				<h3 class="feature-title">Strong shark nose</h3>
+				<div class="">
+					An ultra aggressive shark nose optimises stability at all speeds. Not all sharks are created equal and BGD’s shark noses are very aggressive, maximising the effects of the technology.
+				</div>
+				</div>
+				<div class="feature " data-feature-id="859">
+				<div class="feature-image">
+					<img src="https://cdn.flybgd.com/files/photo/thumbail/1560500015-1721.jpg?v=1560500015" width="800" height="400" />
+				</div>
+				<h3 class="feature-title">Weight-optimised ribs</h3>
+				<div class="">
+					We have maintained the strength and rigidity of the ribs while removing unnecessary material. This means less weight for no increase in cost or reduction in strength of the wing. The hole positioning and size depends on the loads taken locally by the sail, and it is thanks to recent developments in our software that it is now possible to accurately calculate this.
+				</div>
+				</div>
+                         
+                        
+                    </div>
+                </div>   
+          	</div>
+		</section> 
+        
+        
+        <div class="spt-trackThis"></div></div>
+<div class="bgd-embed-section" data-bgd-section="target"><div class="container">
+            	<div class="row">
+                	<div class="col-lg-6">
+                    	 <h2>Target</h2>
+                         <p>It’s a wild quest, flying for days away from humanity; pushing your limits, making your own decisions, immersed in nature and working with the elements to slink through the landscape using the power of the air. Whether yours is a lone journey of self-discovery, or one that is silently observed by thousands, the LYNX is for serious athletes and experienced pilots who want to get out there in nature and experience the thrills of adventure flying first-hand.</p>
+                         
+                         <br />
+                         <h2>Designer's notes</h2>
+                         <p>Are you the diehard pilot that is on the hill rain or shine, or do you pick and choose your days? Does your launch look like a putting green or the surface of Mars? One glider can’t be perfect for everything so I designed the BGD LITE collection for pilots who want less weight and improved portability with added performance.<br/><br/>Designing the highest performing sports class glider in the BGD LITE collection was interesting, challenging, and rewarding since the improvements are clear. It was originally for the Red Bull X-Alps but quickly evolved into a more versatile glider. I started with the CURE template and reworked it almost from the ground up, simplifying, re-calculating, and using all the latest materials. All of the BGD range follows this design philosophy and the BGD LITE collection just pushes it a little harder.</p>
+
+                    </div>
+                    
+                	<div class="col-lg-5 offset-lg-1">
+                    	<div class="target-flyingstyle">
+                            <h3>Flying <strong>Level / Style</strong></h3>
+                            
+                            					<input id="flying_level" type="text" data-provide="slider"	data-slider-ticks="[0, 5, 10]" data-slider-ticks-labels='["Beginner", "Intermediate", "Advanced"]' data-slider-min="0" data-slider-max="10" data-slider-step="1" data-slider-value="[7, 9]" data-slider-tooltip="hide" data-slider-enabled="false" data-slider-id="flying_level_slider" />
+					<br><br><br><br>
+							
+							
+                            
+                            			<h3 class="mb" style="margin-top:40px">Package includes</h3>
+Paraglider / Compression strap / Riser bag / Inner bag / Rucksack / BGD gift
+                    	</div>
+                    </div>
+                    
+                    
+                </div>   
+          	</div>
+		</section></div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"bg-warm-white min-h-screen","children":["$","div",null,{"className":"layout-container max-w-6xl pt-20 lg:pt-24 pb-10 lg:pb-16","children":[["$","nav",null,{"aria-label":"Breadcrumb","className":"text-sm text-slate mb-6","style":{"fontFamily":"var(--font-inter)"},"children":["$","ol",null,{"className":"flex flex-wrap gap-x-1.5 gap-y-1","children":[["$","li","Home",{"className":"flex items-center gap-1.5","children":[null,["$","$L2",null,{"href":"/","className":"text-horizon hover:text-sky-deep transition-colors","children":"Home"}]]}],["$","li","Paragliding shop",{"className":"flex items-center gap-1.5","children":[["$","span",null,{"className":"text-cloud","children":"/"}],["$","$L2",null,{"href":"/paragliding-shop","className":"text-horizon hover:text-sky-deep transition-colors","children":"Paragliding shop"}]]}],["$","li","Paragliders",{"className":"flex items-center gap-1.5","children":[["$","span",null,{"className":"text-cloud","children":"/"}],["$","$L2",null,{"href":"/paragliding-shop/paragliders","className":"text-horizon hover:text-sky-deep transition-colors","children":"Paragliders"}]]}],["$","li","LYNX",{"className":"flex items-center gap-1.5","children":[["$","span",null,{"className":"text-cloud","children":"/"}],["$","span",null,{"className":"text-soft-black font-medium","children":"LYNX"}]]}]]}]}],["$","header",null,{"className":"mb-10 max-w-prose","children":[["$","h1",null,{"className":"text-3xl sm:text-4xl font-bold text-teal-600 mb-2","style":{"fontFamily":"var(--font-inter)"},"children":"LYNX"}],["$","p",null,{"className":"text-slate text-lg leading-relaxed mb-4","style":{"fontFamily":"var(--font-inter)"},"children":"Based on the CURE, The LYNX is a streamlined, fully-fledged XC predator. Her refined simplicity makes her faster, lighter, more elegant and competitive while the EN-C certification offers reassurance for..."}],["$","$L2",null,{"href":"/contact","className":"inline-flex items-center justify-center px-5 py-3 text-teal-700 font-semibold underline","style":{"fontFamily":"var(--font-inter)"},"children":"Contact us"}]]}],["$","article",null,{"className":"bgd-product-html text-slate","style":{"fontFamily":"var(--font-inter)"},"dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}]}],["$L5"],"$L6"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"25hMhhWhkoJTha_Og-J0m"}
+4:["$","p",null,{"className":"text-xs text-slate/80 mt-10 pt-6 border-t border-cloud","style":{"fontFamily":"var(--font-inter)"},"children":"Product text and media mirror the public English materials from the manufacturer. In-page links to the manufacturer are disabled; use Contact us to reach our school. Always verify class ratings, weight ranges, and line plans for your size before you fly."}]
+5:["$","script","script-0",{"src":"/paragliding-school-copy/_next/static/chunks/06e6k8wjhv093.js","async":true}]
+6:["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]
+9:null

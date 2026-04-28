@@ -1,0 +1,415 @@
+1:"$Sreact.fragment"
+2:I[22016,["/paragliding-school-copy/_next/static/chunks/0z~j7c7sl~_.k.js","/paragliding-school-copy/_next/static/chunks/08fct066p2nk~.js","/paragliding-school-copy/_next/static/chunks/0d3shmwh5_nmn.js","/paragliding-school-copy/_next/static/chunks/06e6k8wjhv093.js"],""]
+7:I[97367,["/paragliding-school-copy/_next/static/chunks/0z~j7c7sl~_.k.js","/paragliding-school-copy/_next/static/chunks/08fct066p2nk~.js","/paragliding-school-copy/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+3:T5688,<div class="bgd-embed-section" data-bgd-section="introduction"><div class="container">
+            	<div class="row">
+                	<div class="col-lg-12">
+                    	<div class="tagline">- Beat the Bug -</div>
+                    </div>
+                </div>
+                
+                <div class="row reverse_position_lg">
+                	<div class="col-lg-6">
+                    	<div class="row">
+                        	<div class="col-md-12">
+                                <div class="anim3d">
+                                							<div class="main_picture_sel active" id="main_picture_sel_402">
+								<img src="https://cdn.flybgd.com/files/photo/carre/1557823501-5606.png?v=1557823507" width="720" height="720" alt="Alkaline" title="Alkaline" />
+							</div>
+							<div class="main_picture_sel" id="main_picture_sel_404">
+								<img src="https://cdn.flybgd.com/files/photo/carre/1557823656-2135.png?v=1557823661" width="720" height="720" alt="Enzyme" title="Enzyme" />
+							</div>
+							<div class="main_picture_sel" id="main_picture_sel_403">
+								<img src="https://cdn.flybgd.com/files/photo/carre/1557823578-3975.png?v=1557823583" width="720" height="720" alt="Halogen" title="Halogen" />
+							</div>
+  
+                                </div>
+							</div>
+                        </div>
+                        
+                        <div class="row">
+                        	<div class="col-md-12">
+                                <div class="couleurs">
+                                							<div class='panel_3d_options'>
+								<div class='panel_3d_options_selector' onmouseup='switch_product_color(402)' onmouseover='switch_product_color(402)'><img src="https://cdn.flybgd.com/files/photo/mini/1557823501-5606.png?v=1557823506" width="250" height="250" alt="Alkaline" title="Alkaline" /><span>Alkaline</span></div>
+								<div class='panel_3d_options_selector' onmouseup='switch_product_color(404)' onmouseover='switch_product_color(404)'><img src="https://cdn.flybgd.com/files/photo/mini/1557823656-2135.png?v=1557823661" width="250" height="250" alt="Enzyme" title="Enzyme" /><span>Enzyme</span></div>
+								<div class='panel_3d_options_selector' onmouseup='switch_product_color(403)' onmouseover='switch_product_color(403)'><img src="https://cdn.flybgd.com/files/photo/mini/1557823578-3975.png?v=1557823582" width="250" height="250" alt="Halogen" title="Halogen" /><span>Halogen</span></div>
+							</div>
+  
+                                </div>
+							</div>
+                        </div>
+                    </div>
+                     
+                    <div class="col-lg-5 offset-lg-1">
+                    	<div class="row">
+                            <div class="col-12">
+                                <h1>Cure</h1>
+                                <h2>EN/LTF-C</h2>
+                            </div>
+                            <div class="col-12">
+                                <p>The remedy for patients who have progressed beyond the EN-B stage of treatment, and require a higher-performing cure for the flying bug.</p>
+                            </div>
+                        </div>
+                        <div class="row">
+                        	<div class="col-12">
+													<ul class="features_summary">
+							<li><a href="#features" class="btn-features-top scroll_to" data-feature-id="44" data-title="Leading edge mini-ribs">Leading edge mini-ribs</a></li>
+							<li><a href="#features" class="btn-features-top scroll_to" data-feature-id="774" data-title="Progressive Stability">Progressive Stability</a></li>
+							<li><a href="#features" class="btn-features-top scroll_to" data-feature-id="45" data-title="Strong shark nose">Strong shark nose</a></li>
+					</ul>
+                                
+                                <a href="#informations" class="btn btn-secondary btn-lg scroll_to">Read more</a>
+                                <a href="#" data-bgd-stay="1" class="btn btn-primary btn-lg scroll_to">Free demo</a>
+                                
+                                
+                        	</div>
+                        </div>
+                        
+                        							
+                         <div class="echelle_size">
+                             <div class="row">
+                                <div class="col-sm-3 col-lg-4">   
+                                     <h2>Size</h2>
+                                     <p class="metres">m²</p>
+                                </div>
+                                <div class="col-sm-9 col-lg-8">   
+                                    
+                                    			<div class="table-responsive">
+				<table class="table table-sm table-option-no-border-top">
+					<tbody>
+						<tr>
+							<td style="width: 25%"><strong>S</strong></td>
+							<td style="width: 25%"><strong>M</strong></td>
+							<td style="width: 25%"><strong>ML</strong></td>
+							<td style="width: 25%"><strong>L</strong></td>
+						</tr>
+						<tr>
+							<td>21</td>
+							<td>23</td>
+							<td>25</td>
+							<td>27</td>
+						</tr>
+					</tbody>
+				</table>
+				</div>
+                                </div>
+                    		</div>
+                        </div>
+                                                </div>
+                    
+                </div>
+            </div>
+		</section>
+        
+        
+          
+        
+        
+        
+                <div class="spt-trackThis"></div></div>
+<div class="bgd-embed-section" data-bgd-section="video"><div class="container">
+            	<div class="row">
+                	<div class="col-md-12">
+                    	<div class="embed-file on"><div class="embed-content"><div class="embed-container lazy " >
+	<iframe id="ff2d1e81220c1f8649248a12af1b2217" class="lazy "  src="https://player.vimeo.com/video/164693571?title=0&amp;byline=0&amp;portrait=0&amp;color=bb202f" allowfullscreen loading="lazy" title="Video"></iframe></div></div></div>                    </div>
+                </div>   
+          	</div>
+		</section>  
+        
+         
+        
+        
+        
+        
+        <div class="spt-trackThis"></div></div>
+<div class="bgd-embed-section" data-bgd-section="informations"><div class="container">
+            	<div class="row">
+                	<div class="col-lg-6">
+						
+                        
+                        			<h2>Specs</h2>
+			<div class="table-responsive">
+				<table class="table table-sm table-option-border-bottom col_size_5" cols="5">
+					<thead>
+						<tr>
+							<th scope="col" class="libelle">&nbsp;</th>
+							<th scope="col">S</th>
+							<th scope="col">M</th>
+							<th scope="col">ML</th>
+							<th scope="col">L</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<th scope="row">Linear scaling factor</th>
+							<td>0.96</td>
+							<td>1</td>
+							<td>1.04</td>
+							<td>1.08</td>
+						</tr>
+						<tr>
+							<th scope="row">Projected area (m²)</th>
+							<td>17.7</td>
+							<td>19.2</td>
+							<td>20.8</td>
+							<td>22.4</td>
+						</tr>
+						<tr>
+							<th scope="row">Flat area (m²)</th>
+							<td>21.2</td>
+							<td>23</td>
+							<td>24.9</td>
+							<td>26.9</td>
+						</tr>
+						<tr>
+							<th scope="row">Glider weight (kg)</th>
+							<td>4.2</td>
+							<td>4.6</td>
+							<td>5</td>
+							<td>5.4</td>
+						</tr>
+						<tr>
+							<th scope="row">Total line length (m)</th>
+							<td>225</td>
+							<td>244</td>
+							<td>264</td>
+							<td>285</td>
+						</tr>
+						<tr>
+							<th scope="row">Height (m)</th>
+							<td>7.1</td>
+							<td>7.6</td>
+							<td>7.9</td>
+							<td>8.2</td>
+						</tr>
+						<tr>
+							<th scope="row">Number of main lines (A/B/C)</th>
+							<td colspan="4">3/3/4</td>
+						</tr>
+						<tr>
+							<th scope="row">Cells</th>
+							<td colspan="4">60</td>
+						</tr>
+						<tr>
+							<th scope="row">Flat aspect ratio</th>
+							<td colspan="4">6.8</td>
+						</tr>
+						<tr>
+							<th scope="row">Projected aspect ratio</th>
+							<td colspan="4">4.9</td>
+						</tr>
+						<tr>
+							<th scope="row">Root chord (m)</th>
+							<td>2.2</td>
+							<td>2.3</td>
+							<td>2.4</td>
+							<td>2.5</td>
+						</tr>
+						<tr>
+							<th scope="row">Flat span (m)</th>
+							<td>12</td>
+							<td>12.5</td>
+							<td>13</td>
+							<td>13.5</td>
+						</tr>
+						<tr>
+							<th scope="row">Projected span (m)</th>
+							<td>9.3</td>
+							<td>9.7</td>
+							<td>10</td>
+							<td>10.4</td>
+						</tr>
+						<tr>
+							<th scope="row">Trim speed (km/h)</th>
+							<td colspan="4">40</td>
+						</tr>
+						<tr>
+							<th scope="row">Top speed (km/h)</th>
+							<td colspan="4">57</td>
+						</tr>
+						<tr>
+							<th scope="row">Min sink (m/s)</th>
+							<td colspan="4">1</td>
+						</tr>
+						<tr>
+							<th scope="row">Best glide</th>
+							<td colspan="4">11</td>
+						</tr>
+						<tr>
+							<th scope="col">Certified weight range (kg)</th>
+							<td>60-80</td>
+							<td>75-95</td>
+							<td>90-110</td>
+							<td>105-125</td>
+						</tr>
+						<tr>
+							<th scope="row">Certification (EN/LTF)</th>
+							<td colspan="4">C</td>
+						</tr>
+					</tbody>
+				</table>
+				</div>
+
+                    </div>
+                    
+                    <div class="col-lg-5 offset-lg-1">
+                    	 <div id="informations_right">
+                         	<div class="informations_text">
+                            	<h2>Info</h2>
+                             	<p>From the ground up (literally) the EN-C CURE is a supercharged paraglider combining the perfect ratio between climbing efficiency and usable performance, guaranteed to cure even the worst cases of the “flying bug”. <br/><br/>Studies suggest that the EN-C CURE mutates into an extension of the patient’s mind and body as they speedily work towards their goals. Bruce Goldsmith handling has been added to maximize the quality of the experience.<br/><br/>INGREDIENTS: Trademark Cord Cut Billow, 54 leading edge mini-ribs, Strong shark, 60 enhanced cells, 6.75 flat aspect ratio, optimised micro-lines, 4.3-5.4kg weight, Bruce Goldsm¬ith handling, zesty artificial colouring.</p>
+                            </div>
+							 							<div class="informations_picture">
+								<img width="745" height="600" src="https://cdn.flybgd.com/files/photo/thumbail/1557839313-5662.png?v=1557839320" loading="lazy" decoding="async" /><noscript><img src="https://cdn.flybgd.com/files/photo/thumbail/1557839313-5662.png?v=1557839320" width="745" height="600" /></noscript>
+							</div>
+                         </div>
+                    </div>
+                </div>   
+          	</div>
+		</section>  
+        
+        
+                <div class="spt-trackThis"></div></div>
+<div class="bgd-embed-section" data-bgd-section="features"><div class="features_layer lazy" data-bg="url(https://cdn.flybgd.com/files/photo/svg/1557839271-7198.svg?v=1557839271)"></div>
+            <div class="container">
+            	<div class="row">
+                	
+                    <div class="col-lg-6 col-xl-6">
+                    	<div class="features-picture">
+                    					<div class="feature_img">
+					<img width="720" height="720" src="https://cdn.flybgd.com/files/photo/carre/1557839476-1716.png?v=1557839481" loading="lazy" decoding="async" /><noscript><img src="https://cdn.flybgd.com/files/photo/carre/1557839476-1716.png?v=1557839481" width="720" height="720" /></noscript>
+				</div>
+				<a href="#" id="btn-features-862" class="btn-features active " style="top: 88%; left:57%;" data-feature-id="862" data-title="Baby A-riser">+</a>
+				<a href="#" id="btn-features-43" class="btn-features  " style="top: 18%; left:39%;" data-feature-id="43" data-title="Chord Cut Billow (CCB)">+</a>
+				<a href="#" id="btn-features-860" class="btn-features  " style="top: 1%; left:70%;" data-feature-id="860" data-title="BGD Feedback">+</a>
+				<a href="#" id="btn-features-44" class="btn-features  " style="top: 25%; left:25%;" data-feature-id="44" data-title="Leading edge mini-ribs">+</a>
+				<a href="#" id="btn-features-866" class="btn-features  " style="top: 42%; left:55%;" data-feature-id="866" data-title="Integrated Line Layout">+</a>
+				<a href="#" id="btn-features-774" class="btn-features  " style="top: 50%; left:17%;" data-feature-id="774" data-title="Progressive Stability">+</a>
+				<a href="#" id="btn-features-865" class="btn-features  " style="top: 83%; left:64%;" data-feature-id="865" data-title="Snap Locks">+</a>
+				<a href="#" id="btn-features-45" class="btn-features  " style="top: 10%; left:50%;" data-feature-id="45" data-title="Strong shark nose">+</a>
+                    	</div>
+                    </div>
+                    
+                    <div class="col-lg-5 offset-lg-1"><!-- col-xl-6  offset-xl-0 -->
+                    	<h2>Tech</h2>
+                        
+                        				<div class="feature active" data-feature-id="862">
+				<div class="feature-image">
+					<img src="https://cdn.flybgd.com/files/photo/thumbail/1557844895-1389.jpg?v=1557844895" width="800" height="400" />
+				</div>
+				<h3 class="feature-title">Baby A-riser</h3>
+				<div class="">
+					We have added a 'big ears' A riser which is also on a ½ ratio with the rest of the A lines. This facilitates easy use of big ears while helping speed and stability while on bar. The speed system is light and simple without reflex really helping glide at speed.
+				</div>
+				</div>
+				<div class="feature " data-feature-id="43">
+				<div class="feature-image">
+					<div class="embed-file on"><div class="embed-content"><div class="embed-container " data-bg="url(https://cdn.flybgd.com/files/photo/thumbail/1551023903-1019.jpg?v=1553794187)">
+	<iframe id="478bc40f1184a4b49fe96e04f753269d" class="" src="https://player.vimeo.com/video/364287205?title=0&amp;byline=0&amp;portrait=0&amp;color=bb202f&autoplay=1&autopause=0&loop=1&muted=1&background=1" allowfullscreen allow="autoplay" muted="muted"></iframe></div></div></div>
+				</div>
+				<h3 class="feature-title">Chord Cut Billow (CCB)</h3>
+				<div class="">
+					Chord Cut Billow technology has been developed to improve the form friction, glider stability and overall performance of our paragliders. Two seams run chord-wise across the top panels of the leading edge. They accommodate the panel ballooning that happens when the wing is inflated. Without CCB, up to five centimetres of excess material is created on the sides of an inflated flat panel when it bends over a wing profile. This results in wrinkles. Chord Cut Billow technology removes this excess material and the 3D panel has fewer ripples and improved rib profile shape and stability.
+
+				</div>
+				</div>
+				<div class="feature " data-feature-id="860">
+				<div class="feature-image">
+					<img src="https://cdn.flybgd.com/files/photo/thumbail/1558108590-3448.jpg?v=1558108590" width="800" height="400" />
+				</div>
+				<h3 class="feature-title">BGD Feedback</h3>
+				<div class="">
+					Gliders that talk are safer. Safer gliders make pilots perform better. Better performing pilots fly further. Further flying pilots are happier pilots. BGD Feedback produces happier pilots!
+				</div>
+				</div>
+				<div class="feature " data-feature-id="44">
+				<div class="feature-image">
+					<img src="https://cdn.flybgd.com/files/photo/thumbail/1560893390-7794.jpg?v=1560893390" width="800" height="400" />
+				</div>
+				<h3 class="feature-title">Leading edge mini-ribs</h3>
+				<div class="">
+					Situated along the leading edge are reinforced mini-ribs, designed to help produce a rock-solid profile while on speed bar.
+				</div>
+				</div>
+				<div class="feature " data-feature-id="866">
+				<div class="feature-image">
+					<img src="https://cdn.flybgd.com/files/photo/thumbail/1557845000-0936.jpg?v=1557845000" width="800" height="400" />
+				</div>
+				<h3 class="feature-title">Integrated Line Layout</h3>
+				<div class="">
+					The line layout of our gliders is fully integrated into the wing design. Sail and lines are designed together, holistically. The cell widths and the internal straps that transfer the load though the sail are all designed according to the line layout. Even the panel shaping is matched with the line layout through detailed CAD simulation. The result is simple: fewer lines and stronger, faster, safer gliders.
+				</div>
+				</div>
+				<div class="feature " data-feature-id="774">
+				<div class="feature-image">
+					<img src="https://cdn.flybgd.com/files/photo/thumbail/1649940470-4868.jpg?v=1649940470" width="800" height="400" />
+				</div>
+				<h3 class="feature-title">Progressive Stability</h3>
+				<div class="">
+					Using our Parasim simulation program, BGD gliders are designed to have a stable and solid centre with progressively softer tips. This teaches pilots to predict and avoid deflations and stay aware of the air.
+
+				</div>
+				</div>
+				<div class="feature " data-feature-id="865">
+				<div class="feature-image">
+					<div class="embed-file on"><div class="embed-content"><div class="embed-container " data-bg="url(https://cdn.flybgd.com/files/photo/thumbail/1649948549-4642.jpg?v=1649948549)">
+	<iframe id="7df84b94bb2829da84dbd190f2d7e4a5" class="" src="https://player.vimeo.com/video/364298489?title=0&amp;byline=0&amp;portrait=0&amp;color=bb202f&autoplay=1&autopause=0&loop=1&muted=1&background=1" allowfullscreen allow="autoplay" muted="muted"></iframe></div></div></div>
+				</div>
+				<h3 class="feature-title">Snap Locks</h3>
+				<div class="">
+					BGD developed the first snaplocks for paragliding with Fidlock a decade ago. They have been refined and improved over the years and have now been widely adopted in the industry. A small focused magnet inside the catch with an internal locking system holds the handles in place. They release only when the handles are pulled down towards the pilot, so they don’t fall off while kiting, packing, or performing manoeuvres.  
+				</div>
+				</div>
+				<div class="feature " data-feature-id="45">
+				<div class="feature-image">
+					<img src="https://cdn.flybgd.com/files/photo/thumbail/1557845361-2552.jpg?v=1557845361" width="800" height="400" />
+				</div>
+				<h3 class="feature-title">Strong shark nose</h3>
+				<div class="">
+					An ultra aggressive shark nose optimises stability at all speeds. Not all sharks are created equal and BGD’s shark noses are very aggressive, maximising the effects of the technology.
+				</div>
+				</div>
+                         
+                        
+                    </div>
+                </div>   
+          	</div>
+		</section> 
+        
+        
+        <div class="spt-trackThis"></div></div>
+<div class="bgd-embed-section" data-bgd-section="target"><div class="container">
+            	<div class="row">
+                	<div class="col-lg-6">
+                    	 <h2>Target</h2>
+                         <p>Are you finding it hard to stay up? Suffering from flight sweats, bomb-outs, or launch anxiety? Feel like you’re not making goal? There ARE treatment options. If you or someone you know has been experiencing some or all of these symptoms, maybe it is time to ask your dealer about the EN-C CURE. The “flying bug” has afflicted thousands of pilots around the world and is quickly becoming the leading cause of giant FAI triangles. Luckily, doctor Bruce Goldsmith has had a number of breakthroughs in developing the EN-C CURE. Clinical trials* have proven the CURE highly effective in climb, glide, speed, safety and handling. This remedy has been developed for patients who have progressed beyond the EN-A and EN-B stages and require a higher performance treatment.</p>
+                         
+                         <br />
+                         <h2>Designer's notes</h2>
+                         <p>Its 3am and I can’t sleep. My mind is racing, non-stop. My wife, Arna, always says my best ideas come at night but I have to test high-G spirals tomorrow. Like a jolt, it happens. Reinforced leading edge mini-ribs combined with Cord Cut Billow would allow for an aggressive shark nose, minimal cells, and brilliant stable speed. I fall asleep in total bliss. The next morning a mix of rip-stop, plastic, and cloth create a rippled sticky mess across the leading edge of a prototype. Despite the homemade quality issues, the idea worked! A few prototypes later the CURE was born.<br/>Out of the factory, the mini-ribs work better than I expected. It is the paraglider of my dreams (when I finally get to sleep). High performance, light design, exceptional handling, and impeccable safety all wrapped up into a neat colourful package. The EN-C CURE truly cures my craving.</p>
+
+                    </div>
+                    
+                	<div class="col-lg-5 offset-lg-1">
+                    	<div class="target-flyingstyle">
+                            <h3>Flying <strong>Level / Style</strong></h3>
+                            
+                            					<input id="flying_level" type="text" data-provide="slider"	data-slider-ticks="[0, 5, 10]" data-slider-ticks-labels='["Beginner", "Intermediate", "Advanced"]' data-slider-min="0" data-slider-max="10" data-slider-step="1" data-slider-value="[5, 8]" data-slider-tooltip="hide" data-slider-enabled="false" data-slider-id="flying_level_slider" />
+					<br><br><br><br>
+							
+							
+                            
+                            			<h3 class="mb" style="margin-top:40px">Package includes</h3>
+Paraglider / Compression strap / Riser bag / Inner bag / Rucksack / BGD gift
+                    	</div>
+                    </div>
+                    
+                    
+                </div>   
+          	</div>
+		</section></div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"bg-warm-white min-h-screen","children":["$","div",null,{"className":"layout-container max-w-6xl pt-20 lg:pt-24 pb-10 lg:pb-16","children":[["$","nav",null,{"aria-label":"Breadcrumb","className":"text-sm text-slate mb-6","style":{"fontFamily":"var(--font-inter)"},"children":["$","ol",null,{"className":"flex flex-wrap gap-x-1.5 gap-y-1","children":[["$","li","Home",{"className":"flex items-center gap-1.5","children":[null,["$","$L2",null,{"href":"/","className":"text-horizon hover:text-sky-deep transition-colors","children":"Home"}]]}],["$","li","Paragliding shop",{"className":"flex items-center gap-1.5","children":[["$","span",null,{"className":"text-cloud","children":"/"}],["$","$L2",null,{"href":"/paragliding-shop","className":"text-horizon hover:text-sky-deep transition-colors","children":"Paragliding shop"}]]}],["$","li","Paragliders",{"className":"flex items-center gap-1.5","children":[["$","span",null,{"className":"text-cloud","children":"/"}],["$","$L2",null,{"href":"/paragliding-shop/paragliders","className":"text-horizon hover:text-sky-deep transition-colors","children":"Paragliders"}]]}],["$","li","CURE",{"className":"flex items-center gap-1.5","children":[["$","span",null,{"className":"text-cloud","children":"/"}],["$","span",null,{"className":"text-soft-black font-medium","children":"CURE"}]]}]]}]}],["$","header",null,{"className":"mb-10 max-w-prose","children":[["$","h1",null,{"className":"text-3xl sm:text-4xl font-bold text-teal-600 mb-2","style":{"fontFamily":"var(--font-inter)"},"children":"CURE"}],["$","p",null,{"className":"text-slate text-lg leading-relaxed mb-4","style":{"fontFamily":"var(--font-inter)"},"children":"From the ground up (literally) the EN-C CURE is a supercharged paraglider combining the perfect ratio between climbing efficiency and usable performance, guaranteed to cure even the worst cases of the..."}],["$","$L2",null,{"href":"/contact","className":"inline-flex items-center justify-center px-5 py-3 text-teal-700 font-semibold underline","style":{"fontFamily":"var(--font-inter)"},"children":"Contact us"}]]}],["$","article",null,{"className":"bgd-product-html text-slate","style":{"fontFamily":"var(--font-inter)"},"dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}]}],["$L5"],"$L6"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"25hMhhWhkoJTha_Og-J0m"}
+4:["$","p",null,{"className":"text-xs text-slate/80 mt-10 pt-6 border-t border-cloud","style":{"fontFamily":"var(--font-inter)"},"children":"Product text and media mirror the public English materials from the manufacturer. In-page links to the manufacturer are disabled; use Contact us to reach our school. Always verify class ratings, weight ranges, and line plans for your size before you fly."}]
+5:["$","script","script-0",{"src":"/paragliding-school-copy/_next/static/chunks/06e6k8wjhv093.js","async":true}]
+6:["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]
+9:null

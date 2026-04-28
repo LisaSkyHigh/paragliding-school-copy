@@ -1,0 +1,401 @@
+1:"$Sreact.fragment"
+2:I[93983,["/paragliding-school-copy/_next/static/chunks/0z~j7c7sl~_.k.js","/paragliding-school-copy/_next/static/chunks/08fct066p2nk~.js","/paragliding-school-copy/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+3:I[39756,["/paragliding-school-copy/_next/static/chunks/0z~j7c7sl~_.k.js","/paragliding-school-copy/_next/static/chunks/08fct066p2nk~.js","/paragliding-school-copy/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+4:I[37457,["/paragliding-school-copy/_next/static/chunks/0z~j7c7sl~_.k.js","/paragliding-school-copy/_next/static/chunks/08fct066p2nk~.js","/paragliding-school-copy/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+5:I[22016,["/paragliding-school-copy/_next/static/chunks/0z~j7c7sl~_.k.js","/paragliding-school-copy/_next/static/chunks/08fct066p2nk~.js","/paragliding-school-copy/_next/static/chunks/0d3shmwh5_nmn.js","/paragliding-school-copy/_next/static/chunks/06e6k8wjhv093.js"],""]
+14:I[68027,["/paragliding-school-copy/_next/static/chunks/0z~j7c7sl~_.k.js","/paragliding-school-copy/_next/static/chunks/08fct066p2nk~.js","/paragliding-school-copy/_next/static/chunks/0d3shmwh5_nmn.js"],"default",1]
+:HL["/paragliding-school-copy/_next/static/chunks/0_e76tynrgfo4.css","style"]
+:HL["/paragliding-school-copy/_next/static/media/03bda585a99c6450-s.p.0zzh68k1~whtc.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/paragliding-school-copy/_next/static/media/0c89a48fa5027cee-s.p.0rd3rjvnnhw7n.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/paragliding-school-copy/_next/static/media/0c8f209abc35ee02-s.p.03rqv30url-~q.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/paragliding-school-copy/_next/static/media/83afe278b6a6bb3c-s.p.0q-301v4kxxnr.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/paragliding-school-copy/_next/static/media/caa3a2e1cccd8315-s.p.16t1db8_9y2o~.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"c":["","paragliding-shop","paragliders","adam",""],"q":"","i":false,"f":[[["",{"children":["paragliding-shop",{"children":["paragliders",{"children":[["slug","adam","d",null],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/paragliding-school-copy/_next/static/chunks/0_e76tynrgfo4.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/paragliding-school-copy/_next/static/chunks/0z~j7c7sl~_.k.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/paragliding-school-copy/_next/static/chunks/08fct066p2nk~.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/paragliding-school-copy/_next/static/chunks/0d3shmwh5_nmn.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"fraunces_6f47438b-module__eNxoNq__variable dm_serif_display_4153a466-module__vOKyKq__variable inter_3b580775-module__zj7OgG__variable space_grotesk_e4bc979e-module__PHIvCW__variable font-sans geist_da832ead-module__aN_Ytq__variable","children":["$","body",null,{"className":"bg-warm-white text-soft-black antialiased","children":[["$","$L2",null,{}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"bg-sky-deep text-warm-white","children":[["$","div",null,{"className":"layout-container py-16 lg:py-20","children":["$","div",null,{"className":"grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-10 lg:gap-12","children":[["$","div",null,{"className":"flex flex-col gap-4","children":[["$","$L5",null,{"href":"/","className":"font-bold text-xl text-warm-white tracking-tight hover:opacity-80 transition-opacity","style":{"fontFamily":"var(--font-fraunces)"},"children":"Paragliding School"}],["$","p",null,{"className":"text-sm text-cloud/70 leading-relaxed","style":{"fontFamily":"var(--font-inter)"},"children":"The paragliding school for people who mean it. International expeditions from P1 to Acrobatics."}],["$","div",null,{"className":"mt-2 inline-flex items-center gap-2 px-3 py-1.5 bg-white/10 border border-white/20 text-xs text-cloud/80 w-fit","style":{"fontFamily":"var(--font-inter)"},"children":[["$","svg",null,{"className":"w-4 h-4 text-amber","fill":"currentColor","viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"d":"M12 2L2 7v10c0 5.55 3.84 10.74 9 12 5.16-1.26 9-6.45 9-12V7L12 2z"}]}],"APPI Certified School"]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-xs font-medium uppercase tracking-widest text-cloud/50 mb-4","style":{"fontFamily":"var(--font-inter)"},"children":"Train"}],["$","ul",null,{"className":"flex flex-col gap-2.5","children":[["$","li","Your Path",{"children":["$","$L5",null,{"href":"/become-a-pilot/your-path","className":"text-sm text-cloud/75 hover:text-warm-white transition-colors","style":{"fontFamily":"var(--font-inter)"},"children":"Your Path"}]}],["$","li","Foundation P1/P2",{"children":["$","$L5",null,{"href":"/become-a-pilot/foundation","className":"text-sm text-cloud/75 hover:text-warm-white transition-colors","style":{"fontFamily":"var(--font-inter)"},"children":"Foundation P1/P2"}]}],"$L6","$L7","$L8","$L9","$La"]}]]}],"$Lb","$Lc"]}]}],"$Ld"]}]]}]}]]}],{"children":["$Le",{"children":["$Lf",{"children":["$L10",{"children":["$L11",{},null,false,null]},null,false,"$@12"]},null,false,"$@12"]},null,false,"$@12"]},null,false,null],"$L13",false]],"m":"$undefined","G":["$14",["$L15"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"25hMhhWhkoJTha_Og-J0m"}
+17:I[97367,["/paragliding-school-copy/_next/static/chunks/0z~j7c7sl~_.k.js","/paragliding-school-copy/_next/static/chunks/08fct066p2nk~.js","/paragliding-school-copy/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+18:"$Sreact.suspense"
+1b:I[97367,["/paragliding-school-copy/_next/static/chunks/0z~j7c7sl~_.k.js","/paragliding-school-copy/_next/static/chunks/08fct066p2nk~.js","/paragliding-school-copy/_next/static/chunks/0d3shmwh5_nmn.js"],"ViewportBoundary"]
+1d:I[97367,["/paragliding-school-copy/_next/static/chunks/0z~j7c7sl~_.k.js","/paragliding-school-copy/_next/static/chunks/08fct066p2nk~.js","/paragliding-school-copy/_next/static/chunks/0d3shmwh5_nmn.js"],"MetadataBoundary"]
+6:["$","li","Build Your Hours",{"children":["$","$L5",null,{"href":"/become-a-pilot/build-hours","className":"text-sm text-cloud/75 hover:text-warm-white transition-colors","style":{"fontFamily":"var(--font-inter)"},"children":"Build Your Hours"}]}]
+7:["$","li","SIV Course",{"children":["$","$L5",null,{"href":"/become-a-pilot/siv-safety","className":"text-sm text-cloud/75 hover:text-warm-white transition-colors","style":{"fontFamily":"var(--font-inter)"},"children":"SIV Course"}]}]
+8:["$","li","XC Flying",{"children":["$","$L5",null,{"href":"/become-a-pilot/xc-flying","className":"text-sm text-cloud/75 hover:text-warm-white transition-colors","style":{"fontFamily":"var(--font-inter)"},"children":"XC Flying"}]}]
+9:["$","li","Acrobatics",{"children":["$","$L5",null,{"href":"/become-a-pilot/acrobatics","className":"text-sm text-cloud/75 hover:text-warm-white transition-colors","style":{"fontFamily":"var(--font-inter)"},"children":"Acrobatics"}]}]
+a:["$","li","Certification",{"children":["$","$L5",null,{"href":"/become-a-pilot/certification","className":"text-sm text-cloud/75 hover:text-warm-white transition-colors","style":{"fontFamily":"var(--font-inter)"},"children":"Certification"}]}]
+b:["$","div",null,{"children":[["$","h3",null,{"className":"text-xs font-medium uppercase tracking-widest text-cloud/50 mb-4","style":{"fontFamily":"var(--font-inter)"},"children":"Fly"}],["$","ul",null,{"className":"flex flex-col gap-2.5","children":[["$","li","All Expeditions",{"children":["$","$L5",null,{"href":"/expeditions/calendar","className":"text-sm text-cloud/75 hover:text-warm-white transition-colors","style":{"fontFamily":"var(--font-inter)"},"children":"All Expeditions"}]}],["$","li","🇨🇴 Colombia",{"children":["$","$L5",null,{"href":"/expeditions/colombia","className":"text-sm text-cloud/75 hover:text-warm-white transition-colors","style":{"fontFamily":"var(--font-inter)"},"children":"🇨🇴 Colombia"}]}],["$","li","🇲🇦 Morocco",{"children":["$","$L5",null,{"href":"/expeditions/morocco","className":"text-sm text-cloud/75 hover:text-warm-white transition-colors","style":{"fontFamily":"var(--font-inter)"},"children":"🇲🇦 Morocco"}]}],["$","li","🇹🇷 Turkey SIV",{"children":["$","$L5",null,{"href":"/expeditions/turkey-siv","className":"text-sm text-cloud/75 hover:text-warm-white transition-colors","style":{"fontFamily":"var(--font-inter)"},"children":"🇹🇷 Turkey SIV"}]}],["$","li","🇲🇰 Macedonia",{"children":["$","$L5",null,{"href":"/expeditions/macedonia","className":"text-sm text-cloud/75 hover:text-warm-white transition-colors","style":{"fontFamily":"var(--font-inter)"},"children":"🇲🇰 Macedonia"}]}],["$","li","🇮🇳 Himalayas",{"children":["$","$L5",null,{"href":"/expeditions/himalayas","className":"text-sm text-cloud/75 hover:text-warm-white transition-colors","style":{"fontFamily":"var(--font-inter)"},"children":"🇮🇳 Himalayas"}]}],["$","li","🇹🇷 Turkey Acro",{"children":["$","$L5",null,{"href":"/expeditions/turkey-acrobatics","className":"text-sm text-cloud/75 hover:text-warm-white transition-colors","style":{"fontFamily":"var(--font-inter)"},"children":"🇹🇷 Turkey Acro"}]}]]}]]}]
+c:["$","div",null,{"children":[["$","h3",null,{"className":"text-xs font-medium uppercase tracking-widest text-cloud/50 mb-4","style":{"fontFamily":"var(--font-inter)"},"children":"Company"}],["$","ul",null,{"className":"flex flex-col gap-2.5","children":[["$","li","Our Mission",{"children":["$","$L5",null,{"href":"/about/our-mission","className":"text-sm text-cloud/75 hover:text-warm-white transition-colors","style":{"fontFamily":"var(--font-inter)"},"children":"Our Mission"}]}],["$","li","Stories",{"children":["$","$L5",null,{"href":"/stories","className":"text-sm text-cloud/75 hover:text-warm-white transition-colors","style":{"fontFamily":"var(--font-inter)"},"children":"Stories"}]}],["$","li","Field Notes",{"children":["$","$L5",null,{"href":"/stories/field-notes","className":"text-sm text-cloud/75 hover:text-warm-white transition-colors","style":{"fontFamily":"var(--font-inter)"},"children":"Field Notes"}]}],["$","li","Gear",{"children":["$","$L5",null,{"href":"/gear","className":"text-sm text-cloud/75 hover:text-warm-white transition-colors","style":{"fontFamily":"var(--font-inter)"},"children":"Gear"}]}],["$","li","Contact",{"children":["$","$L5",null,{"href":"/contact","className":"text-sm text-cloud/75 hover:text-warm-white transition-colors","style":{"fontFamily":"var(--font-inter)"},"children":"Contact"}]}],["$","li","Apply",{"children":["$","$L5",null,{"href":"/apply","className":"text-sm text-cloud/75 hover:text-warm-white transition-colors","style":{"fontFamily":"var(--font-inter)"},"children":"Apply"}]}]]}]]}]
+d:["$","div",null,{"className":"border-t border-white/10","children":["$","div",null,{"className":"layout-container py-6 flex flex-col sm:flex-row items-center justify-between gap-4 flex-wrap","children":[["$","p",null,{"className":"text-xs text-cloud/50 order-2 sm:order-1","style":{"fontFamily":"var(--font-inter)"},"children":["© ",2026," Paragliding School. All rights reserved."]}],["$","div",null,{"className":"flex items-center gap-4 text-xs text-cloud/50 order-3 sm:order-2 flex-wrap","style":{"fontFamily":"var(--font-inter)"},"children":[["$","$L5",null,{"href":"/terms","className":"hover:text-warm-white transition-colors","children":"Terms"}],["$","$L5",null,{"href":"/privacy","className":"hover:text-warm-white transition-colors","children":"Privacy"}],["$","$L5",null,{"href":"/refund-policy","className":"hover:text-warm-white transition-colors","children":"Refund Policy"}],["$","$L5",null,{"href":"/waiver","className":"hover:text-warm-white transition-colors","children":"Waiver"}]]}],["$","div",null,{"className":"flex items-center gap-3 order-1 sm:order-3","children":[["$","$L5","Instagram",{"href":"#","className":"text-cloud/50 hover:text-warm-white transition-colors","aria-label":"Instagram","children":["$","svg",null,{"className":"w-5 h-5","fill":"currentColor","viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"d":"M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zM12 0C8.741 0 8.333.014 7.053.072 2.695.272.273 2.69.073 7.052.014 8.333 0 8.741 0 12c0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98C8.333 23.986 8.741 24 12 24c3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98C15.668.014 15.259 0 12 0zm0 5.838a6.162 6.162 0 100 12.324 6.162 6.162 0 000-12.324zM12 16a4 4 0 110-8 4 4 0 010 8zm6.406-11.845a1.44 1.44 0 100 2.881 1.44 1.44 0 000-2.881z"}]}]}],["$","$L5","YouTube",{"href":"#","className":"text-cloud/50 hover:text-warm-white transition-colors","aria-label":"YouTube","children":["$","svg",null,{"className":"w-5 h-5","fill":"currentColor","viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"d":"M23.498 6.186a3.016 3.016 0 00-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 00.502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 002.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 002.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"}]}]}]]}]]}]}]
+e:["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+f:["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+10:["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+11:["$","$1","c",{"children":["$L16",[["$","script","script-0",{"src":"/paragliding-school-copy/_next/static/chunks/06e6k8wjhv093.js","async":true,"nonce":"$undefined"}]],["$","$L17",null,{"children":["$","$18",null,{"name":"Next.MetadataOutlet","children":"$@19"}]}]]}]
+1a:[]
+12:"$W1a"
+13:["$","$1","h",{"children":[null,["$","$L1b",null,{"children":"$L1c"}],["$","div",null,{"hidden":true,"children":["$","$L1d",null,{"children":["$","$18",null,{"name":"Next.Metadata","children":"$L1e"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+15:["$","link","0",{"rel":"stylesheet","href":"/paragliding-school-copy/_next/static/chunks/0_e76tynrgfo4.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+1f:T4910,<div class="bgd-embed-section" data-bgd-section="introduction"><div class="container">
+            	<div class="row">
+                	<div class="col-lg-12">
+                    	<div class="tagline">- Safety in Colours -</div>
+                    </div>
+                </div>
+                
+                <div class="row reverse_position_lg">
+                	<div class="col-lg-6">
+                    	<div class="row">
+                        	<div class="col-md-12">
+                                <div class="anim3d">
+                                							<div class="main_picture_sel active" id="main_picture_sel_300">
+								<img src="https://cdn.flybgd.com/files/photo/carre/1554992362-9492.png?v=1554992367" width="720" height="720" alt="Ruby" title="Ruby" />
+							</div>
+							<div class="main_picture_sel" id="main_picture_sel_302">
+								<img src="https://cdn.flybgd.com/files/photo/carre/1554992464-0167.png?v=1554992470" width="720" height="720" alt="Agate" title="Agate" />
+							</div>
+							<div class="main_picture_sel" id="main_picture_sel_301">
+								<img src="https://cdn.flybgd.com/files/photo/carre/1554992411-1986.png?v=1554992417" width="720" height="720" alt="Topaz" title="Topaz" />
+							</div>
+  
+                                </div>
+							</div>
+                        </div>
+                        
+                        <div class="row">
+                        	<div class="col-md-12">
+                                <div class="couleurs">
+                                							<div class='panel_3d_options'>
+								<div class='panel_3d_options_selector' onmouseup='switch_product_color(300)' onmouseover='switch_product_color(300)'><img src="https://cdn.flybgd.com/files/photo/mini/1554992362-9492.png?v=1554992367" width="250" height="250" alt="Ruby" title="Ruby" /><span>Ruby</span></div>
+								<div class='panel_3d_options_selector' onmouseup='switch_product_color(302)' onmouseover='switch_product_color(302)'><img src="https://cdn.flybgd.com/files/photo/mini/1554992464-0167.png?v=1554992469" width="250" height="250" alt="Agate" title="Agate" /><span>Agate</span></div>
+								<div class='panel_3d_options_selector' onmouseup='switch_product_color(301)' onmouseover='switch_product_color(301)'><img src="https://cdn.flybgd.com/files/photo/mini/1554992411-1986.png?v=1554992416" width="250" height="250" alt="Topaz" title="Topaz" /><span>Topaz</span></div>
+							</div>
+  
+                                </div>
+							</div>
+                        </div>
+                    </div>
+                     
+                    <div class="col-lg-5 offset-lg-1">
+                    	<div class="row">
+                            <div class="col-12">
+                                <h1>Adam</h1>
+                                <h2>EN/LTF-A</h2>
+                            </div>
+                            <div class="col-12">
+                                <p>A safe and fun glider that you can trust to get you airborne for the very first time, and then learn to fly on in comfort.</p>
+                            </div>
+                        </div>
+                        <div class="row">
+                        	<div class="col-12">
+													<ul class="features_summary">
+							<li><a href="#features" class="btn-features-top scroll_to" data-feature-id="860" data-title="BGD Feedback">BGD Feedback</a></li>
+							<li><a href="#features" class="btn-features-top scroll_to" data-feature-id="888" data-title="Impeccable Spiral Behaviour">Impeccable Spiral Behaviour</a></li>
+					</ul>
+                                
+                                <a href="#informations" class="btn btn-secondary btn-lg scroll_to">Read more</a>
+                                <a href="#" data-bgd-stay="1" class="btn btn-primary btn-lg scroll_to">Free demo</a>
+                                
+                                
+                        	</div>
+                        </div>
+                        
+                        							
+                         <div class="echelle_size">
+                             <div class="row">
+                                <div class="col-sm-3 col-lg-4">   
+                                     <h2>Size</h2>
+                                     <p class="metres">m²</p>
+                                </div>
+                                <div class="col-sm-9 col-lg-8">   
+                                    
+                                    			<div class="table-responsive">
+				<table class="table table-sm table-option-no-border-top">
+					<tbody>
+						<tr>
+							<td style="width: 25%"><strong>S</strong></td>
+							<td style="width: 25%"><strong>M</strong></td>
+							<td style="width: 25%"><strong>ML</strong></td>
+							<td style="width: 25%"><strong>L</strong></td>
+						</tr>
+						<tr>
+							<td>22</td>
+							<td>25</td>
+							<td>28</td>
+							<td>30</td>
+						</tr>
+					</tbody>
+				</table>
+				</div>
+                                </div>
+                    		</div>
+                        </div>
+                                                </div>
+                    
+                </div>
+            </div>
+		</section>
+        
+        
+          
+        
+        
+        
+                <div class="spt-trackThis"></div></div>
+<div class="bgd-embed-section" data-bgd-section="video"><div class="container">
+            	<div class="row">
+                	<div class="col-md-12">
+                    	<div class="embed-file on"><div class="embed-content"><div class="embed-container lazy " >
+	<iframe id="57bae890ebcfaf2f21b41d01776093fc" class="lazy "  src="https://player.vimeo.com/video/262390069?title=0&amp;byline=0&amp;portrait=0&amp;color=bb202f" allowfullscreen loading="lazy" title="Video"></iframe></div></div></div>                    </div>
+                </div>   
+          	</div>
+		</section>  
+        
+         
+        
+        
+        
+        
+        <div class="spt-trackThis"></div></div>
+<div class="bgd-embed-section" data-bgd-section="informations"><div class="container">
+            	<div class="row">
+                	<div class="col-lg-6">
+						
+                        
+                        			<h2>Specs</h2>
+			<div class="table-responsive">
+				<table class="table table-sm table-option-border-bottom col_size_5" cols="5">
+					<thead>
+						<tr>
+							<th scope="col" class="libelle">&nbsp;</th>
+							<th scope="col">S</th>
+							<th scope="col">M</th>
+							<th scope="col">ML</th>
+							<th scope="col">L</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<th scope="row">Linear scaling factor</th>
+							<td>0.94</td>
+							<td>1</td>
+							<td>1.05</td>
+							<td>1.1</td>
+						</tr>
+						<tr>
+							<th scope="row">Projected area (m²)</th>
+							<td>18.5</td>
+							<td>21</td>
+							<td>23.2</td>
+							<td>25.4</td>
+						</tr>
+						<tr>
+							<th scope="row">Flat area (m²)</th>
+							<td>22.1</td>
+							<td>25</td>
+							<td>27.6</td>
+							<td>30.2</td>
+						</tr>
+						<tr>
+							<th scope="row">Glider weight (kg)</th>
+							<td>4.3</td>
+							<td>4.9</td>
+							<td>5.4</td>
+							<td>5.9</td>
+						</tr>
+						<tr>
+							<th scope="row">Total line length (m)</th>
+							<td>243</td>
+							<td>275</td>
+							<td>303</td>
+							<td>333</td>
+						</tr>
+						<tr>
+							<th scope="row">Height (m)</th>
+							<td>6.3</td>
+							<td>6.7</td>
+							<td>7</td>
+							<td>7.8</td>
+						</tr>
+						<tr>
+							<th scope="row">Number of main lines (A/B/C)</th>
+							<td colspan="4">3/4/3</td>
+						</tr>
+						<tr>
+							<th scope="row">Cells</th>
+							<td colspan="4">34</td>
+						</tr>
+						<tr>
+							<th scope="row">Flat aspect ratio</th>
+							<td colspan="4">4.5</td>
+						</tr>
+						<tr>
+							<th scope="row">Projected aspect ratio</th>
+							<td colspan="4">3.2</td>
+						</tr>
+						<tr>
+							<th scope="row">Root chord (m)</th>
+							<td>2.8</td>
+							<td>3</td>
+							<td>3.1</td>
+							<td>3.3</td>
+						</tr>
+						<tr>
+							<th scope="row">Flat span (m)</th>
+							<td>10</td>
+							<td>10.6</td>
+							<td>11.1</td>
+							<td>11.7</td>
+						</tr>
+						<tr>
+							<th scope="row">Projected span (m)</th>
+							<td>7.7</td>
+							<td>8.2</td>
+							<td>8.6</td>
+							<td>9.1</td>
+						</tr>
+						<tr>
+							<th scope="row">Trim speed (km/h)</th>
+							<td colspan="4">38</td>
+						</tr>
+						<tr>
+							<th scope="row">Top speed (km/h)</th>
+							<td colspan="4">50</td>
+						</tr>
+						<tr>
+							<th scope="row">Min sink (m/s)</th>
+							<td colspan="4">1</td>
+						</tr>
+						<tr>
+							<th scope="row">Best glide</th>
+							<td colspan="4">8</td>
+						</tr>
+						<tr>
+							<th scope="col">Certified weight range (kg)</th>
+							<td>55-75</td>
+							<td>70-95</td>
+							<td>90-110</td>
+							<td>105-130</td>
+						</tr>
+						<tr>
+							<th scope="row">Certification (EN/LTF)</th>
+							<td colspan="4">A</td>
+						</tr>
+					</tbody>
+				</table>
+				</div>
+
+                    </div>
+                    
+                    <div class="col-lg-5 offset-lg-1">
+                    	 <div id="informations_right">
+                         	<div class="informations_text">
+                            	<h2>Info</h2>
+                             	<p>The ADAM is our EN/LTF-A certified wing, designed for beginners or leisure pilots. Made from Durable Dominico D30 tissue, 34 enhanced clean cells make for a safe, 4.8kg paraglider. Smooth panels and uncorrupted ribs bring stability to my paragliders so I designed the ADAM with Chord Cut Billow (CCB). By adding CCB to the leading edge’s top panel the 3D bulge wraps around the rib without deforming it.<br/><br/>This is the first glider of this level to which I have added mini-ribs on the trailing edge. Normally, large-celled paragliders without mini-ribs have a lot of billow near the trailing edge and around the brake fold. When this billow is folded down with a brake input everything gets pulled out of shape. Mini-ribs reduced the billow around the brake fold creating more responsive brake input and a cleaner brake fold. <br/><br/>The ADAM is very colourful. We think that being seen in the air and on the ground is a safety bonus for instructors and new pilots. </p>
+                            </div>
+							 							<div class="informations_picture">
+								<img width="745" height="600" src="https://cdn.flybgd.com/files/photo/thumbail/1556115962-6294.png?v=1556115968" loading="lazy" decoding="async" /><noscript><img src="https://cdn.flybgd.com/files/photo/thumbail/1556115962-6294.png?v=1556115968" width="745" height="600" /></noscript>
+							</div>
+                         </div>
+                    </div>
+                </div>   
+          	</div>
+		</section>  
+        
+        
+                <div class="spt-trackThis"></div></div>
+<div class="bgd-embed-section" data-bgd-section="features"><div class="features_layer lazy" data-bg="url(https://cdn.flybgd.com/files/photo/svg/1554991938-2109.svg?v=1556016066)"></div>
+            <div class="container">
+            	<div class="row">
+                	
+                    <div class="col-lg-6 col-xl-6">
+                    	<div class="features-picture">
+                    					<div class="feature_img">
+					<img width="720" height="720" src="https://cdn.flybgd.com/files/photo/carre/1554992016-6532.png?v=1556016085" loading="lazy" decoding="async" /><noscript><img src="https://cdn.flybgd.com/files/photo/carre/1554992016-6532.png?v=1556016085" width="720" height="720" /></noscript>
+				</div>
+				<a href="#" id="btn-features-860" class="btn-features active " style="top: 27%; left:15%;" data-feature-id="860" data-title="BGD Feedback">+</a>
+				<a href="#" id="btn-features-888" class="btn-features  " style="top: 80%; left:70%;" data-feature-id="888" data-title="Impeccable Spiral Behaviour">+</a>
+				<a href="#" id="btn-features-865" class="btn-features  " style="top: 76%; left:42%;" data-feature-id="865" data-title="Snap Locks">+</a>
+				<a href="#" id="btn-features-859" class="btn-features  " style="top: 10%; left:55%;" data-feature-id="859" data-title="Weight-optimised ribs">+</a>
+                    	</div>
+                    </div>
+                    
+                    <div class="col-lg-5 offset-lg-1"><!-- col-xl-6  offset-xl-0 -->
+                    	<h2>Tech</h2>
+                        
+                        				<div class="feature active" data-feature-id="860">
+				<div class="feature-image">
+					<img src="https://cdn.flybgd.com/files/photo/thumbail/1558108590-3448.jpg?v=1558108590" width="800" height="400" />
+				</div>
+				<h3 class="feature-title">BGD Feedback</h3>
+				<div class="">
+					Gliders that talk are safer. Safer gliders make pilots perform better. Better performing pilots fly further. Further flying pilots are happier pilots. BGD Feedback produces happier pilots!
+				</div>
+				</div>
+				<div class="feature " data-feature-id="888">
+				<div class="feature-image">
+					<img src="https://cdn.flybgd.com/files/photo/thumbail/1558533143-2160.jpg?v=1558533144" width="800" height="400" />
+				</div>
+				<h3 class="feature-title">Impeccable Spiral Behaviour</h3>
+				<div class="">
+					The spiral behaviour is astounding – spiral stability can be a problem with low aspect-ratio beginner wings, but we have tested the paraglider extensively, with different inclinations and sink rates, and never, ever has it stayed in a spiral, once! This is very unusual for a school glider and is a big safety bonus. 
+				</div>
+				</div>
+				<div class="feature " data-feature-id="865">
+				<div class="feature-image">
+					<div class="embed-file on"><div class="embed-content"><div class="embed-container " data-bg="url(https://cdn.flybgd.com/files/photo/thumbail/1649948549-4642.jpg?v=1649948549)">
+	<iframe id="7df84b94bb2829da84dbd190f2d7e4a5" class="" src="https://player.vimeo.com/video/364298489?title=0&amp;byline=0&amp;portrait=0&amp;color=bb202f&autoplay=1&autopause=0&loop=1&muted=1&background=1" allowfullscreen allow="autoplay" muted="muted"></iframe></div></div></div>
+				</div>
+				<h3 class="feature-title">Snap Locks</h3>
+				<div class="">
+					BGD developed the first snaplocks for paragliding with Fidlock a decade ago. They have been refined and improved over the years and have now been widely adopted in the industry. A small focused magnet inside the catch with an internal locking system holds the handles in place. They release only when the handles are pulled down towards the pilot, so they don’t fall off while kiting, packing, or performing manoeuvres.  
+				</div>
+				</div>
+				<div class="feature " data-feature-id="859">
+				<div class="feature-image">
+					<img src="https://cdn.flybgd.com/files/photo/thumbail/1560500015-1721.jpg?v=1560500015" width="800" height="400" />
+				</div>
+				<h3 class="feature-title">Weight-optimised ribs</h3>
+				<div class="">
+					We have maintained the strength and rigidity of the ribs while removing unnecessary material. This means less weight for no increase in cost or reduction in strength of the wing. The hole positioning and size depends on the loads taken locally by the sail, and it is thanks to recent developments in our software that it is now possible to accurately calculate this.
+				</div>
+				</div>
+                         
+                        
+                    </div>
+                </div>   
+          	</div>
+		</section> 
+        
+        
+        <div class="spt-trackThis"></div></div>
+<div class="bgd-embed-section" data-bgd-section="target"><div class="container">
+            	<div class="row">
+                	<div class="col-lg-6">
+                    	 <h2>Target</h2>
+                         <p>Every parent knows that deep nervous feeling in their stomach as his or her kids first leave the nest. Tyr, my son, is doing his first flights now. Gunnar, and Freyja are almost old enough. I have to believe I did the best possible job equipping them with them the necessary tools for society and flying. I imagine instructors have the same feelings about their students.<br/><br/>I don't want my kids, instructors, or anyone to worry about how their paraglider will react so I designed the ADAM EN-A. It is light enough for little Freyja to carry up the mountain and durable enough for the boys.</p>
+                         
+                         <br />
+                         <h2>Designer's notes</h2>
+                         <p>I have been designing paragliders since 1990 and this is by far the best EN-A glider I have ever made. Back in those days, the Black Magic DHV-1 was designed from a basic parachute with unsupported cells and square box cell design. It worked but needed improvement. <br/><br/>Over the years we have come a long way. CCB and mini-ribs create fitted 3D cells, unsupported cells are supported with diagonal ribs, and span-wise bands clean up the bottom surface. All this new technology has greatly improved the safety and performance of beginner wings. For the ADAM I believe I have found the best combination of simplicity and technology. <br/><br/>It launches really easily, flies responsively and has the highest safety rating available. I even let my kids fly it!</p>
+
+                    </div>
+                    
+                	<div class="col-lg-5 offset-lg-1">
+                    	<div class="target-flyingstyle">
+                            <h3>Flying <strong>Level / Style</strong></h3>
+                            
+                            					<input id="flying_level" type="text" data-provide="slider"	data-slider-ticks="[0, 5, 10]" data-slider-ticks-labels='["Beginner", "Intermediate", "Advanced"]' data-slider-min="0" data-slider-max="10" data-slider-step="1" data-slider-value="[0, 3]" data-slider-tooltip="hide" data-slider-enabled="false" data-slider-id="flying_level_slider" />
+					<br><br><br><br>
+							
+							
+                            
+                            			<h3 class="mb" style="margin-top:40px">Package includes</h3>
+Paraglider / Compression strap / Riser bag / Inner bag / Rucksack / Repair cloth / BGD stickers / BGD gift / Manual card
+                    	</div>
+                    </div>
+                    
+                    
+                </div>   
+          	</div>
+		</section></div>16:["$","div",null,{"className":"bg-warm-white min-h-screen","children":["$","div",null,{"className":"layout-container max-w-6xl pt-20 lg:pt-24 pb-10 lg:pb-16","children":[["$","nav",null,{"aria-label":"Breadcrumb","className":"text-sm text-slate mb-6","style":{"fontFamily":"var(--font-inter)"},"children":["$","ol",null,{"className":"flex flex-wrap gap-x-1.5 gap-y-1","children":[["$","li","Home",{"className":"flex items-center gap-1.5","children":[null,["$","$L5",null,{"href":"/","className":"text-horizon hover:text-sky-deep transition-colors","children":"Home"}]]}],["$","li","Paragliding shop",{"className":"flex items-center gap-1.5","children":[["$","span",null,{"className":"text-cloud","children":"/"}],["$","$L5",null,{"href":"/paragliding-shop","className":"text-horizon hover:text-sky-deep transition-colors","children":"Paragliding shop"}]]}],["$","li","Paragliders",{"className":"flex items-center gap-1.5","children":[["$","span",null,{"className":"text-cloud","children":"/"}],["$","$L5",null,{"href":"/paragliding-shop/paragliders","className":"text-horizon hover:text-sky-deep transition-colors","children":"Paragliders"}]]}],["$","li","ADAM",{"className":"flex items-center gap-1.5","children":[["$","span",null,{"className":"text-cloud","children":"/"}],["$","span",null,{"className":"text-soft-black font-medium","children":"ADAM"}]]}]]}]}],["$","header",null,{"className":"mb-10 max-w-prose","children":[["$","h1",null,{"className":"text-3xl sm:text-4xl font-bold text-teal-600 mb-2","style":{"fontFamily":"var(--font-inter)"},"children":"ADAM"}],["$","p",null,{"className":"text-slate text-lg leading-relaxed mb-4","style":{"fontFamily":"var(--font-inter)"},"children":"The ADAM is our EN/LTF-A certified wing, designed for beginners or leisure pilots. Made from Durable Dominico D30 tissue, 34 enhanced clean cells make for a safe, 4.8kg paraglider. Smooth panels and uncorrupted..."}],["$","$L5",null,{"href":"/contact","className":"inline-flex items-center justify-center px-5 py-3 text-teal-700 font-semibold underline","style":{"fontFamily":"var(--font-inter)"},"children":"Contact us"}]]}],["$","article",null,{"className":"bgd-product-html text-slate","style":{"fontFamily":"var(--font-inter)"},"dangerouslySetInnerHTML":{"__html":"$1f"}}],"$L20"]}]}]
+20:["$","p",null,{"className":"text-xs text-slate/80 mt-10 pt-6 border-t border-cloud","style":{"fontFamily":"var(--font-inter)"},"children":"Product text and media mirror the public English materials from the manufacturer. In-page links to the manufacturer are disabled; use Contact us to reach our school. Always verify class ratings, weight ranges, and line plans for your size before you fly."}]
+1c:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+21:I[27201,["/paragliding-school-copy/_next/static/chunks/0z~j7c7sl~_.k.js","/paragliding-school-copy/_next/static/chunks/08fct066p2nk~.js","/paragliding-school-copy/_next/static/chunks/0d3shmwh5_nmn.js"],"IconMark"]
+19:null
+1e:[["$","title","0",{"children":"Adam | Paragliding School"}],["$","meta","1",{"name":"description","content":"The ADAM is our EN/LTF-A certified wing, designed for beginners or leisure pilots. Made from Durable Dominico D30 tissue, 34 enhanced clean cells make for a safe, 4.8kg paraglider. Smooth panels and uncorrupted..."}],["$","meta","2",{"name":"robots","content":"index, follow"}],["$","link","3",{"rel":"canonical","href":"https://lisaskyhigh.github.io/paragliding-school-copy/paragliding-shop/paragliders/adam/"}],["$","meta","4",{"property":"og:title","content":"Adam"}],["$","meta","5",{"property":"og:description","content":"The ADAM is our EN/LTF-A certified wing, designed for beginners or leisure pilots. Made from Durable Dominico D30 tissue, 34 enhanced clean cells make for a safe, 4.8kg paraglider. Smooth panels and uncorrupted..."}],["$","meta","6",{"property":"og:url","content":"https://lisaskyhigh.github.io/paragliding-school-copy/paragliding-shop/paragliders/adam/"}],["$","meta","7",{"property":"og:site_name","content":"Paragliding School"}],["$","meta","8",{"property":"og:locale","content":"en_US"}],["$","meta","9",{"property":"og:image","content":"https://lisaskyhigh.github.io/paragliding-school-copy/og-default.jpg"}],["$","meta","10",{"property":"og:image:width","content":"1200"}],["$","meta","11",{"property":"og:image:height","content":"630"}],["$","meta","12",{"property":"og:image:alt","content":"Adam"}],["$","meta","13",{"property":"og:type","content":"website"}],["$","meta","14",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","15",{"name":"twitter:title","content":"Adam"}],["$","meta","16",{"name":"twitter:description","content":"The ADAM is our EN/LTF-A certified wing, designed for beginners or leisure pilots. Made from Durable Dominico D30 tissue, 34 enhanced clean cells make for a safe, 4.8kg paraglider. Smooth panels and uncorrupted..."}],["$","meta","17",{"name":"twitter:image","content":"https://lisaskyhigh.github.io/paragliding-school-copy/og-default.jpg"}],["$","link","18",{"rel":"icon","href":"/paragliding-school-copy/favicon.ico?favicon.0x3dzn~oxb6tn.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L21","19",{}]]

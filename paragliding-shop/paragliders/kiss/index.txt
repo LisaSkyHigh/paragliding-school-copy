@@ -1,0 +1,441 @@
+1:"$Sreact.fragment"
+2:I[93983,["/paragliding-school-copy/_next/static/chunks/0z~j7c7sl~_.k.js","/paragliding-school-copy/_next/static/chunks/08fct066p2nk~.js","/paragliding-school-copy/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+3:I[39756,["/paragliding-school-copy/_next/static/chunks/0z~j7c7sl~_.k.js","/paragliding-school-copy/_next/static/chunks/08fct066p2nk~.js","/paragliding-school-copy/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+4:I[37457,["/paragliding-school-copy/_next/static/chunks/0z~j7c7sl~_.k.js","/paragliding-school-copy/_next/static/chunks/08fct066p2nk~.js","/paragliding-school-copy/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+5:I[22016,["/paragliding-school-copy/_next/static/chunks/0z~j7c7sl~_.k.js","/paragliding-school-copy/_next/static/chunks/08fct066p2nk~.js","/paragliding-school-copy/_next/static/chunks/0d3shmwh5_nmn.js","/paragliding-school-copy/_next/static/chunks/06e6k8wjhv093.js"],""]
+14:I[68027,["/paragliding-school-copy/_next/static/chunks/0z~j7c7sl~_.k.js","/paragliding-school-copy/_next/static/chunks/08fct066p2nk~.js","/paragliding-school-copy/_next/static/chunks/0d3shmwh5_nmn.js"],"default",1]
+:HL["/paragliding-school-copy/_next/static/chunks/0_e76tynrgfo4.css","style"]
+:HL["/paragliding-school-copy/_next/static/media/03bda585a99c6450-s.p.0zzh68k1~whtc.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/paragliding-school-copy/_next/static/media/0c89a48fa5027cee-s.p.0rd3rjvnnhw7n.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/paragliding-school-copy/_next/static/media/0c8f209abc35ee02-s.p.03rqv30url-~q.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/paragliding-school-copy/_next/static/media/83afe278b6a6bb3c-s.p.0q-301v4kxxnr.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/paragliding-school-copy/_next/static/media/caa3a2e1cccd8315-s.p.16t1db8_9y2o~.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"c":["","paragliding-shop","paragliders","kiss",""],"q":"","i":false,"f":[[["",{"children":["paragliding-shop",{"children":["paragliders",{"children":[["slug","kiss","d",null],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/paragliding-school-copy/_next/static/chunks/0_e76tynrgfo4.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/paragliding-school-copy/_next/static/chunks/0z~j7c7sl~_.k.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/paragliding-school-copy/_next/static/chunks/08fct066p2nk~.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/paragliding-school-copy/_next/static/chunks/0d3shmwh5_nmn.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"fraunces_6f47438b-module__eNxoNq__variable dm_serif_display_4153a466-module__vOKyKq__variable inter_3b580775-module__zj7OgG__variable space_grotesk_e4bc979e-module__PHIvCW__variable font-sans geist_da832ead-module__aN_Ytq__variable","children":["$","body",null,{"className":"bg-warm-white text-soft-black antialiased","children":[["$","$L2",null,{}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"bg-sky-deep text-warm-white","children":[["$","div",null,{"className":"layout-container py-16 lg:py-20","children":["$","div",null,{"className":"grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-10 lg:gap-12","children":[["$","div",null,{"className":"flex flex-col gap-4","children":[["$","$L5",null,{"href":"/","className":"font-bold text-xl text-warm-white tracking-tight hover:opacity-80 transition-opacity","style":{"fontFamily":"var(--font-fraunces)"},"children":"Paragliding School"}],["$","p",null,{"className":"text-sm text-cloud/70 leading-relaxed","style":{"fontFamily":"var(--font-inter)"},"children":"The paragliding school for people who mean it. International expeditions from P1 to Acrobatics."}],["$","div",null,{"className":"mt-2 inline-flex items-center gap-2 px-3 py-1.5 bg-white/10 border border-white/20 text-xs text-cloud/80 w-fit","style":{"fontFamily":"var(--font-inter)"},"children":[["$","svg",null,{"className":"w-4 h-4 text-amber","fill":"currentColor","viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"d":"M12 2L2 7v10c0 5.55 3.84 10.74 9 12 5.16-1.26 9-6.45 9-12V7L12 2z"}]}],"APPI Certified School"]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-xs font-medium uppercase tracking-widest text-cloud/50 mb-4","style":{"fontFamily":"var(--font-inter)"},"children":"Train"}],["$","ul",null,{"className":"flex flex-col gap-2.5","children":[["$","li","Your Path",{"children":["$","$L5",null,{"href":"/become-a-pilot/your-path","className":"text-sm text-cloud/75 hover:text-warm-white transition-colors","style":{"fontFamily":"var(--font-inter)"},"children":"Your Path"}]}],["$","li","Foundation P1/P2",{"children":["$","$L5",null,{"href":"/become-a-pilot/foundation","className":"text-sm text-cloud/75 hover:text-warm-white transition-colors","style":{"fontFamily":"var(--font-inter)"},"children":"Foundation P1/P2"}]}],"$L6","$L7","$L8","$L9","$La"]}]]}],"$Lb","$Lc"]}]}],"$Ld"]}]]}]}]]}],{"children":["$Le",{"children":["$Lf",{"children":["$L10",{"children":["$L11",{},null,false,null]},null,false,"$@12"]},null,false,"$@12"]},null,false,"$@12"]},null,false,null],"$L13",false]],"m":"$undefined","G":["$14",["$L15"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"25hMhhWhkoJTha_Og-J0m"}
+17:I[97367,["/paragliding-school-copy/_next/static/chunks/0z~j7c7sl~_.k.js","/paragliding-school-copy/_next/static/chunks/08fct066p2nk~.js","/paragliding-school-copy/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+18:"$Sreact.suspense"
+1b:I[97367,["/paragliding-school-copy/_next/static/chunks/0z~j7c7sl~_.k.js","/paragliding-school-copy/_next/static/chunks/08fct066p2nk~.js","/paragliding-school-copy/_next/static/chunks/0d3shmwh5_nmn.js"],"ViewportBoundary"]
+1d:I[97367,["/paragliding-school-copy/_next/static/chunks/0z~j7c7sl~_.k.js","/paragliding-school-copy/_next/static/chunks/08fct066p2nk~.js","/paragliding-school-copy/_next/static/chunks/0d3shmwh5_nmn.js"],"MetadataBoundary"]
+6:["$","li","Build Your Hours",{"children":["$","$L5",null,{"href":"/become-a-pilot/build-hours","className":"text-sm text-cloud/75 hover:text-warm-white transition-colors","style":{"fontFamily":"var(--font-inter)"},"children":"Build Your Hours"}]}]
+7:["$","li","SIV Course",{"children":["$","$L5",null,{"href":"/become-a-pilot/siv-safety","className":"text-sm text-cloud/75 hover:text-warm-white transition-colors","style":{"fontFamily":"var(--font-inter)"},"children":"SIV Course"}]}]
+8:["$","li","XC Flying",{"children":["$","$L5",null,{"href":"/become-a-pilot/xc-flying","className":"text-sm text-cloud/75 hover:text-warm-white transition-colors","style":{"fontFamily":"var(--font-inter)"},"children":"XC Flying"}]}]
+9:["$","li","Acrobatics",{"children":["$","$L5",null,{"href":"/become-a-pilot/acrobatics","className":"text-sm text-cloud/75 hover:text-warm-white transition-colors","style":{"fontFamily":"var(--font-inter)"},"children":"Acrobatics"}]}]
+a:["$","li","Certification",{"children":["$","$L5",null,{"href":"/become-a-pilot/certification","className":"text-sm text-cloud/75 hover:text-warm-white transition-colors","style":{"fontFamily":"var(--font-inter)"},"children":"Certification"}]}]
+b:["$","div",null,{"children":[["$","h3",null,{"className":"text-xs font-medium uppercase tracking-widest text-cloud/50 mb-4","style":{"fontFamily":"var(--font-inter)"},"children":"Fly"}],["$","ul",null,{"className":"flex flex-col gap-2.5","children":[["$","li","All Expeditions",{"children":["$","$L5",null,{"href":"/expeditions/calendar","className":"text-sm text-cloud/75 hover:text-warm-white transition-colors","style":{"fontFamily":"var(--font-inter)"},"children":"All Expeditions"}]}],["$","li","🇨🇴 Colombia",{"children":["$","$L5",null,{"href":"/expeditions/colombia","className":"text-sm text-cloud/75 hover:text-warm-white transition-colors","style":{"fontFamily":"var(--font-inter)"},"children":"🇨🇴 Colombia"}]}],["$","li","🇲🇦 Morocco",{"children":["$","$L5",null,{"href":"/expeditions/morocco","className":"text-sm text-cloud/75 hover:text-warm-white transition-colors","style":{"fontFamily":"var(--font-inter)"},"children":"🇲🇦 Morocco"}]}],["$","li","🇹🇷 Turkey SIV",{"children":["$","$L5",null,{"href":"/expeditions/turkey-siv","className":"text-sm text-cloud/75 hover:text-warm-white transition-colors","style":{"fontFamily":"var(--font-inter)"},"children":"🇹🇷 Turkey SIV"}]}],["$","li","🇲🇰 Macedonia",{"children":["$","$L5",null,{"href":"/expeditions/macedonia","className":"text-sm text-cloud/75 hover:text-warm-white transition-colors","style":{"fontFamily":"var(--font-inter)"},"children":"🇲🇰 Macedonia"}]}],["$","li","🇮🇳 Himalayas",{"children":["$","$L5",null,{"href":"/expeditions/himalayas","className":"text-sm text-cloud/75 hover:text-warm-white transition-colors","style":{"fontFamily":"var(--font-inter)"},"children":"🇮🇳 Himalayas"}]}],["$","li","🇹🇷 Turkey Acro",{"children":["$","$L5",null,{"href":"/expeditions/turkey-acrobatics","className":"text-sm text-cloud/75 hover:text-warm-white transition-colors","style":{"fontFamily":"var(--font-inter)"},"children":"🇹🇷 Turkey Acro"}]}]]}]]}]
+c:["$","div",null,{"children":[["$","h3",null,{"className":"text-xs font-medium uppercase tracking-widest text-cloud/50 mb-4","style":{"fontFamily":"var(--font-inter)"},"children":"Company"}],["$","ul",null,{"className":"flex flex-col gap-2.5","children":[["$","li","Our Mission",{"children":["$","$L5",null,{"href":"/about/our-mission","className":"text-sm text-cloud/75 hover:text-warm-white transition-colors","style":{"fontFamily":"var(--font-inter)"},"children":"Our Mission"}]}],["$","li","Stories",{"children":["$","$L5",null,{"href":"/stories","className":"text-sm text-cloud/75 hover:text-warm-white transition-colors","style":{"fontFamily":"var(--font-inter)"},"children":"Stories"}]}],["$","li","Field Notes",{"children":["$","$L5",null,{"href":"/stories/field-notes","className":"text-sm text-cloud/75 hover:text-warm-white transition-colors","style":{"fontFamily":"var(--font-inter)"},"children":"Field Notes"}]}],["$","li","Gear",{"children":["$","$L5",null,{"href":"/gear","className":"text-sm text-cloud/75 hover:text-warm-white transition-colors","style":{"fontFamily":"var(--font-inter)"},"children":"Gear"}]}],["$","li","Contact",{"children":["$","$L5",null,{"href":"/contact","className":"text-sm text-cloud/75 hover:text-warm-white transition-colors","style":{"fontFamily":"var(--font-inter)"},"children":"Contact"}]}],["$","li","Apply",{"children":["$","$L5",null,{"href":"/apply","className":"text-sm text-cloud/75 hover:text-warm-white transition-colors","style":{"fontFamily":"var(--font-inter)"},"children":"Apply"}]}]]}]]}]
+d:["$","div",null,{"className":"border-t border-white/10","children":["$","div",null,{"className":"layout-container py-6 flex flex-col sm:flex-row items-center justify-between gap-4 flex-wrap","children":[["$","p",null,{"className":"text-xs text-cloud/50 order-2 sm:order-1","style":{"fontFamily":"var(--font-inter)"},"children":["© ",2026," Paragliding School. All rights reserved."]}],["$","div",null,{"className":"flex items-center gap-4 text-xs text-cloud/50 order-3 sm:order-2 flex-wrap","style":{"fontFamily":"var(--font-inter)"},"children":[["$","$L5",null,{"href":"/terms","className":"hover:text-warm-white transition-colors","children":"Terms"}],["$","$L5",null,{"href":"/privacy","className":"hover:text-warm-white transition-colors","children":"Privacy"}],["$","$L5",null,{"href":"/refund-policy","className":"hover:text-warm-white transition-colors","children":"Refund Policy"}],["$","$L5",null,{"href":"/waiver","className":"hover:text-warm-white transition-colors","children":"Waiver"}]]}],["$","div",null,{"className":"flex items-center gap-3 order-1 sm:order-3","children":[["$","$L5","Instagram",{"href":"#","className":"text-cloud/50 hover:text-warm-white transition-colors","aria-label":"Instagram","children":["$","svg",null,{"className":"w-5 h-5","fill":"currentColor","viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"d":"M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zM12 0C8.741 0 8.333.014 7.053.072 2.695.272.273 2.69.073 7.052.014 8.333 0 8.741 0 12c0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98C8.333 23.986 8.741 24 12 24c3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98C15.668.014 15.259 0 12 0zm0 5.838a6.162 6.162 0 100 12.324 6.162 6.162 0 000-12.324zM12 16a4 4 0 110-8 4 4 0 010 8zm6.406-11.845a1.44 1.44 0 100 2.881 1.44 1.44 0 000-2.881z"}]}]}],["$","$L5","YouTube",{"href":"#","className":"text-cloud/50 hover:text-warm-white transition-colors","aria-label":"YouTube","children":["$","svg",null,{"className":"w-5 h-5","fill":"currentColor","viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"d":"M23.498 6.186a3.016 3.016 0 00-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 00.502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 002.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 002.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"}]}]}]]}]]}]}]
+e:["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+f:["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+10:["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+11:["$","$1","c",{"children":["$L16",[["$","script","script-0",{"src":"/paragliding-school-copy/_next/static/chunks/06e6k8wjhv093.js","async":true,"nonce":"$undefined"}]],["$","$L17",null,{"children":["$","$18",null,{"name":"Next.MetadataOutlet","children":"$@19"}]}]]}]
+1a:[]
+12:"$W1a"
+13:["$","$1","h",{"children":[null,["$","$L1b",null,{"children":"$L1c"}],["$","div",null,{"hidden":true,"children":["$","$L1d",null,{"children":["$","$18",null,{"name":"Next.Metadata","children":"$L1e"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+15:["$","link","0",{"rel":"stylesheet","href":"/paragliding-school-copy/_next/static/chunks/0_e76tynrgfo4.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+1f:T5cea,<div class="bgd-embed-section" data-bgd-section="introduction"><div class="container">
+            	<div class="row">
+                	<div class="col-lg-12">
+                    	<div class="tagline">- Keep it Simple -</div>
+                    </div>
+                </div>
+                
+                <div class="row reverse_position_lg">
+                	<div class="col-lg-6">
+                    	<div class="row">
+                        	<div class="col-md-12">
+                                <div class="anim3d">
+                                							<div class="main_picture_sel active" id="main_picture_sel_1146">
+								<img src="https://cdn.flybgd.com/files/photo/carre/1594041221-9601.png?v=1594041225" width="720" height="720" alt="MINT" title="MINT" />
+							</div>
+							<div class="main_picture_sel" id="main_picture_sel_1147">
+								<img src="https://cdn.flybgd.com/files/photo/carre/1594041276-7905.png?v=1594041281" width="720" height="720" alt="PEACH" title="PEACH" />
+							</div>
+  
+                                </div>
+							</div>
+                        </div>
+                        
+                        <div class="row">
+                        	<div class="col-md-12">
+                                <div class="couleurs">
+                                							<div class='panel_3d_options'>
+								<div class='panel_3d_options_selector' onmouseup='switch_product_color(1146)' onmouseover='switch_product_color(1146)'><img src="https://cdn.flybgd.com/files/photo/mini/1594041221-9601.png?v=1594041225" width="250" height="250" alt="MINT" title="MINT" /><span>MINT</span></div>
+								<div class='panel_3d_options_selector' onmouseup='switch_product_color(1147)' onmouseover='switch_product_color(1147)'><img src="https://cdn.flybgd.com/files/photo/mini/1594041276-7905.png?v=1594041281" width="250" height="250" alt="PEACH" title="PEACH" /><span>PEACH</span></div>
+							</div>
+  
+                                </div>
+							</div>
+                        </div>
+                    </div>
+                     
+                    <div class="col-lg-5 offset-lg-1">
+                    	<div class="row">
+                            <div class="col-12">
+                                <h1>Kiss</h1>
+                                <h2>Load</h2>
+                            </div>
+                            <div class="col-12">
+                                <p>For rise-and-shiners, hike-and-flyers and mountain lovers, greet the day with a Kiss, a simple, fun and versatile mountain wing.</p>
+                            </div>
+                        </div>
+                        <div class="row">
+                        	<div class="col-12">
+													<ul class="features_summary">
+							<li><a href="#features" class="btn-features-top scroll_to" data-feature-id="1481" data-title="Twin B-Tabs">Twin B-Tabs</a></li>
+							<li><a href="#features" class="btn-features-top scroll_to" data-feature-id="863" data-title="Triple finger diagonals">Triple finger diagonals</a></li>
+							<li><a href="#features" class="btn-features-top scroll_to" data-feature-id="1482" data-title="Variable Cell Widths">Variable Cell Widths</a></li>
+							<li><a href="#features" class="btn-features-top scroll_to" data-feature-id="859" data-title="Weight-optimised ribs">Weight-optimised ribs</a></li>
+					</ul>
+                                
+                                <a href="#informations" class="btn btn-secondary btn-lg scroll_to">Read more</a>
+                                <a href="#" data-bgd-stay="1" class="btn btn-primary btn-lg scroll_to">Free demo</a>
+                                
+                                
+                        	</div>
+                        </div>
+                        
+                        							
+                         <div class="echelle_size">
+                             <div class="row">
+                                <div class="col-sm-3 col-lg-4">   
+                                     <h2>Size</h2>
+                                     <p class="metres">m²</p>
+                                </div>
+                                <div class="col-sm-9 col-lg-8">   
+                                    
+                                    			<div class="table-responsive">
+				<table class="table table-sm table-option-no-border-top">
+					<tbody>
+						<tr>
+							<td style="width: 50%"><strong>16</strong></td>
+							<td style="width: 50%"><strong>18</strong></td>
+						</tr>
+						<tr>
+							<td>16</td>
+							<td>18</td>
+						</tr>
+					</tbody>
+				</table>
+				</div>
+                                </div>
+                    		</div>
+                        </div>
+                                                </div>
+                    
+                </div>
+            </div>
+		</section>
+        
+        
+                <div class="spt-trackThis"></div>
+        <section id="range">
+            <div class="container">
+            	<div class="row">
+                	<div class="col-md-12 text-center">
+                    	<img src="https://cdn.flybgd.com/assets/pict/img/paragliders/paraglider-kiss-range.svg?v=1634909029" width="2000" height="628" alt="Kiss" class="img-fluid" title="Kiss" />                    </div>
+                </div>   
+          	</div>
+		</section>  
+        
+          
+        
+        
+        
+                <div class="spt-trackThis"></div></div>
+<div class="bgd-embed-section" data-bgd-section="video"><div class="container">
+            	<div class="row">
+                	<div class="col-md-12">
+                    	<div class="embed-file on"><div class="embed-content"><div class="embed-container lazy " >
+	<iframe id="84e13470b487879bdf6a11649e8d5809" class="lazy "  src="https://player.vimeo.com/video/436926526?title=0&amp;byline=0&amp;portrait=0&amp;color=bb202f" allowfullscreen loading="lazy" title="Video"></iframe></div></div></div>                    </div>
+                </div>   
+          	</div>
+		</section>  
+        
+         
+        
+        
+        
+        
+        <div class="spt-trackThis"></div></div>
+<div class="bgd-embed-section" data-bgd-section="informations"><div class="container">
+            	<div class="row">
+                	<div class="col-lg-6">
+						
+                        
+                        			<h2>Specs</h2>
+			<div class="table-responsive">
+				<table class="table table-sm table-option-border-bottom col_size_3" cols="3">
+					<thead>
+						<tr>
+							<th scope="col" class="libelle">&nbsp;</th>
+							<th scope="col">16</th>
+							<th scope="col">18</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<th scope="row">Linear scaling factor</th>
+							<td>0.94</td>
+							<td>1</td>
+						</tr>
+						<tr>
+							<th scope="row">Projected area (m²)</th>
+							<td>13.5</td>
+							<td>15.23</td>
+						</tr>
+						<tr>
+							<th scope="row">Flat area (m²)</th>
+							<td>16</td>
+							<td>18</td>
+						</tr>
+						<tr>
+							<th scope="row">Glider weight (kg)</th>
+							<td>2.3</td>
+							<td>2.6</td>
+						</tr>
+						<tr>
+							<th scope="row">Total line length (m)</th>
+							<td>184</td>
+							<td>207</td>
+						</tr>
+						<tr>
+							<th scope="row">Height (m)</th>
+							<td>5</td>
+							<td>5.8</td>
+						</tr>
+						<tr>
+							<th scope="row">Number of main lines (A/B/C)</th>
+							<td colspan="2">3/4/3/3</td>
+						</tr>
+						<tr>
+							<th scope="row">Cells</th>
+							<td colspan="2">36</td>
+						</tr>
+						<tr>
+							<th scope="row">Flat aspect ratio</th>
+							<td colspan="2">4.9</td>
+						</tr>
+						<tr>
+							<th scope="row">Projected aspect ratio</th>
+							<td colspan="2">3.5</td>
+						</tr>
+						<tr>
+							<th scope="row">Root chord (m)</th>
+							<td>2.3</td>
+							<td>2.4</td>
+						</tr>
+						<tr>
+							<th scope="row">Flat span (m)</th>
+							<td>8.8</td>
+							<td>9.3</td>
+						</tr>
+						<tr>
+							<th scope="row">Projected span (m)</th>
+							<td>6.9</td>
+							<td>7.3</td>
+						</tr>
+						<tr>
+							<th scope="row">Min sink (m/s)</th>
+							<td colspan="2">1</td>
+						</tr>
+						<tr>
+							<th scope="row">Best glide</th>
+							<td colspan="2">8</td>
+						</tr>
+						<tr>
+							<th scope="col">Certified weight range (kg)</th>
+							<td>50-90</td>
+							<td>50-110</td>
+						</tr>
+						<tr>
+							<th scope="row">Certification (EN/LTF)</th>
+							<td colspan="2">Load</td>
+						</tr>
+					</tbody>
+				</table>
+				</div>
+
+                    </div>
+                    
+                    <div class="col-lg-5 offset-lg-1">
+                    	 <div id="informations_right">
+                         	<div class="informations_text">
+                            	<h2>Info</h2>
+                             	<p>The Kiss is an ultralight, small-packing wing for mountain adventures. Simple, safe and fun, its roots are in hike-and-fly but it’s an excellent soaring and thermalling wing for lighter pilots, or loaded up in the hands of more experienced pilots, it’s an agile, big-grin machine, perfect for strong-wind soaring.   <br/><br/>PACK SIZE<br/>The Kiss can be comfortably packed to the following dimensions: <br/><br/>16m: 30cm x 30cm x 13cm<br/>18m: 35cm x 35cm x 15cm</p>
+                            </div>
+							 							<div class="informations_picture">
+								<img width="745" height="600" src="https://cdn.flybgd.com/files/photo/thumbail/1594210618-7169.png?v=1594210625" loading="lazy" decoding="async" /><noscript><img src="https://cdn.flybgd.com/files/photo/thumbail/1594210618-7169.png?v=1594210625" width="745" height="600" /></noscript>
+							</div>
+                         </div>
+                    </div>
+                </div>   
+          	</div>
+		</section>  
+        
+        
+                <div class="spt-trackThis"></div></div>
+<div class="bgd-embed-section" data-bgd-section="features"><div class="features_layer lazy" data-bg="url(https://cdn.flybgd.com/files/photo/svg/1593783153-8606.svg?v=1593783153)"></div>
+            <div class="container">
+            	<div class="row">
+                	
+                    <div class="col-lg-6 col-xl-6">
+                    	<div class="features-picture">
+                    					<div class="feature_img">
+					<img width="720" height="720" src="https://cdn.flybgd.com/files/photo/carre/1593783292-3595.png?v=1593783296" loading="lazy" decoding="async" /><noscript><img src="https://cdn.flybgd.com/files/photo/carre/1593783292-3595.png?v=1593783296" width="720" height="720" /></noscript>
+				</div>
+				<a href="#" id="btn-features-1481" class="btn-features active " style="top: 14%; left:60%;" data-feature-id="1481" data-title="Twin B-Tabs">+</a>
+				<a href="#" id="btn-features-862" class="btn-features  " style="top: 70%; left:55%;" data-feature-id="862" data-title="Baby A-riser">+</a>
+				<a href="#" id="btn-features-43" class="btn-features  " style="top: 14%; left:23%;" data-feature-id="43" data-title="Chord Cut Billow (CCB)">+</a>
+				<a href="#" id="btn-features-916" class="btn-features  " style="top: 14%; left:70%;" data-feature-id="916" data-title="Elliptical Cell Openings">+</a>
+				<a href="#" id="btn-features-860" class="btn-features  " style="top: 24%; left:12%;" data-feature-id="860" data-title="BGD Feedback">+</a>
+				<a href="#" id="btn-features-1492" class="btn-features  " style="top: 78%; left:50%;" data-feature-id="1492" data-title="Light, simple, strong risers">+</a>
+				<a href="#" id="btn-features-865" class="btn-features  " style="top: 72%; left:44%;" data-feature-id="865" data-title="Snap Locks">+</a>
+				<a href="#" id="btn-features-863" class="btn-features  " style="top: 10%; left:40%;" data-feature-id="863" data-title="Triple finger diagonals">+</a>
+				<a href="#" id="btn-features-1482" class="btn-features  " style="top: 25%; left:70%;" data-feature-id="1482" data-title="Variable Cell Widths">+</a>
+				<a href="#" id="btn-features-859" class="btn-features  " style="top: 15%; left:50%;" data-feature-id="859" data-title="Weight-optimised ribs">+</a>
+                    	</div>
+                    </div>
+                    
+                    <div class="col-lg-5 offset-lg-1"><!-- col-xl-6  offset-xl-0 -->
+                    	<h2>Tech</h2>
+                        
+                        				<div class="feature active" data-feature-id="1481">
+				<div class="feature-image">
+					<img src="https://cdn.flybgd.com/files/photo/thumbail/1594203927-5031.jpg?v=1594203927" width="800" height="400" />
+				</div>
+				<h3 class="feature-title">Twin B-Tabs</h3>
+				<div class="">
+					Following our structural analysis and many simulations, we found that by increasing the number of B tabs, but using fewer tabs (and lines) overall, we could improve the structural stability of the sail while reducing drag and improving performance. 
+				</div>
+				</div>
+				<div class="feature " data-feature-id="862">
+				<div class="feature-image">
+					<img src="https://cdn.flybgd.com/files/photo/thumbail/1557844895-1389.jpg?v=1557844895" width="800" height="400" />
+				</div>
+				<h3 class="feature-title">Baby A-riser</h3>
+				<div class="">
+					We have added a 'big ears' A riser which is also on a ½ ratio with the rest of the A lines. This facilitates easy use of big ears while helping speed and stability while on bar. The speed system is light and simple without reflex really helping glide at speed.
+				</div>
+				</div>
+				<div class="feature " data-feature-id="43">
+				<div class="feature-image">
+					<div class="embed-file on"><div class="embed-content"><div class="embed-container " data-bg="url(https://cdn.flybgd.com/files/photo/thumbail/1551023903-1019.jpg?v=1553794187)">
+	<iframe id="478bc40f1184a4b49fe96e04f753269d" class="" src="https://player.vimeo.com/video/364287205?title=0&amp;byline=0&amp;portrait=0&amp;color=bb202f&autoplay=1&autopause=0&loop=1&muted=1&background=1" allowfullscreen allow="autoplay" muted="muted"></iframe></div></div></div>
+				</div>
+				<h3 class="feature-title">Chord Cut Billow (CCB)</h3>
+				<div class="">
+					Chord Cut Billow technology has been developed to improve the form friction, glider stability and overall performance of our paragliders. Two seams run chord-wise across the top panels of the leading edge. They accommodate the panel ballooning that happens when the wing is inflated. Without CCB, up to five centimetres of excess material is created on the sides of an inflated flat panel when it bends over a wing profile. This results in wrinkles. Chord Cut Billow technology removes this excess material and the 3D panel has fewer ripples and improved rib profile shape and stability.
+
+				</div>
+				</div>
+				<div class="feature " data-feature-id="916">
+				<div class="feature-image">
+					<img src="https://cdn.flybgd.com/files/photo/thumbail/1557844917-4740.jpg?v=1557844917" width="800" height="400" />
+				</div>
+				<h3 class="feature-title">Elliptical Cell Openings</h3>
+				<div class="">
+					We have found that elliptical cell openings give better lower surface tension making for smoother inflation, and re-inflation after collapses.
+				</div>
+				</div>
+				<div class="feature " data-feature-id="860">
+				<div class="feature-image">
+					<img src="https://cdn.flybgd.com/files/photo/thumbail/1558108590-3448.jpg?v=1558108590" width="800" height="400" />
+				</div>
+				<h3 class="feature-title">BGD Feedback</h3>
+				<div class="">
+					Gliders that talk are safer. Safer gliders make pilots perform better. Better performing pilots fly further. Further flying pilots are happier pilots. BGD Feedback produces happier pilots!
+				</div>
+				</div>
+				<div class="feature " data-feature-id="1492">
+				<div class="feature-image">
+					<img src="https://cdn.flybgd.com/files/photo/thumbail/1594205207-6380.jpg?v=1594205208" width="800" height="400" />
+				</div>
+				<h3 class="feature-title">Light, simple, strong risers</h3>
+				<div class="">
+					We know a riser that is light, simple, and feels strong is important. The Kiss features narrow webbing risers with a speed system and weight-saving low-friction speed rings.  As standard the Kiss will be delivered with steel maillons, but pilots can shave a further 80g by replacing these with softlinks (which can be ordered separately). 
+
+				</div>
+				</div>
+				<div class="feature " data-feature-id="865">
+				<div class="feature-image">
+					<div class="embed-file on"><div class="embed-content"><div class="embed-container " data-bg="url(https://cdn.flybgd.com/files/photo/thumbail/1649948549-4642.jpg?v=1649948549)">
+	<iframe id="7df84b94bb2829da84dbd190f2d7e4a5" class="" src="https://player.vimeo.com/video/364298489?title=0&amp;byline=0&amp;portrait=0&amp;color=bb202f&autoplay=1&autopause=0&loop=1&muted=1&background=1" allowfullscreen allow="autoplay" muted="muted"></iframe></div></div></div>
+				</div>
+				<h3 class="feature-title">Snap Locks</h3>
+				<div class="">
+					BGD developed the first snaplocks for paragliding with Fidlock a decade ago. They have been refined and improved over the years and have now been widely adopted in the industry. A small focused magnet inside the catch with an internal locking system holds the handles in place. They release only when the handles are pulled down towards the pilot, so they don’t fall off while kiting, packing, or performing manoeuvres.  
+				</div>
+				</div>
+				<div class="feature " data-feature-id="863">
+				<div class="feature-image">
+					<img src="https://cdn.flybgd.com/files/photo/thumbail/1568729219-4176.jpg?v=1568729219" width="800" height="400" />
+				</div>
+				<h3 class="feature-title">Triple finger diagonals</h3>
+				<div class="">
+					Triple Finger Diagonals create a more solid and durable wing. Across the whole chord of the profile, three-piece diagonal supports pass through holes in the ribs. They ensure structural integrity by avoiding the cloth being loaded in the bias direction. This is particularly important near the trailing edge where the profile is thin and shallower diagonal ribs supporting high loads. 
+				</div>
+				</div>
+				<div class="feature " data-feature-id="1482">
+				<div class="feature-image">
+					<img src="https://cdn.flybgd.com/files/photo/thumbail/1594204168-9993.jpg?v=1594204168" width="800" height="400" />
+				</div>
+				<h3 class="feature-title">Variable Cell Widths</h3>
+				<div class="">
+					By using cell openings of different widths, we have been able to precisely balance the forces on the glider while keeping weight to a minimum
+				</div>
+				</div>
+				<div class="feature " data-feature-id="859">
+				<div class="feature-image">
+					<img src="https://cdn.flybgd.com/files/photo/thumbail/1560500015-1721.jpg?v=1560500015" width="800" height="400" />
+				</div>
+				<h3 class="feature-title">Weight-optimised ribs</h3>
+				<div class="">
+					We have maintained the strength and rigidity of the ribs while removing unnecessary material. This means less weight for no increase in cost or reduction in strength of the wing. The hole positioning and size depends on the loads taken locally by the sail, and it is thanks to recent developments in our software that it is now possible to accurately calculate this.
+				</div>
+				</div>
+                         
+                        
+                    </div>
+                </div>   
+          	</div>
+		</section> 
+        
+        
+        <div class="spt-trackThis"></div></div>
+<div class="bgd-embed-section" data-bgd-section="target"><div class="container">
+            	<div class="row">
+                	<div class="col-lg-6">
+                    	 <h2>Target</h2>
+                         <p>It’s 5:30am. The birds are singing and your sleeping bag is damp, speckled with droplets. The sun is just kissing the top of the cliffs above you; they are rimmed with gold. A few more minutes of snooze and it will start to warm your bivvy spot and dry the wet grass. Time for coffee. It’s a new day, the adventure continues! <br/><br/>The Kiss was made for pilots who love to wake up in the mountains with their paraglider; to hike hills or climb snowy peaks. <br/><br/>It’s mountain-hardy, made from light but durable materials with very wide weight ranges for maximum versatility. The smallest, 16m size can be flown by 50kg pilots with excellent passive safety; but it can also be flown at 90kg, where it will be fast and dynamic, the realm of experienced pilots. </p>
+                         
+                         <br />
+                         <h2>Designer's notes</h2>
+                         <p>The Kiss was initially conceived for a group of BGD Team pilots who needed a light but rugged mountain wing for a project in the Alps this summer. They needed something easy to carry and simple to use in wide-ranging conditions, that could handle tough mountain terrain and tricky launches.  <br/><br/>The Kiss is a unique design, not based on any other BGD glider. We wanted a simple and elegant structure, to give it the uncomplicated launch and outstanding ease of use. For the project, 16m and 18m sizes were ideal – small to carry, light and versatile to cope with different wind strengths. The sub-70kg pilots in the team will fly the 16; 70kg+ will take the 18. <br/><br/>We opted for Porcher 27 cloth for the sail and ribs, with 32 for extra durability on the upper leading-edge, and designed the leading edge with minimal use of plastic reinforcements to achieve easy launch characteristics without compromising its packability. <br/><br/>The structure was optimised to save weight, with new Twin B-tabs, developed with help of our CFD (Computational Fluid Dynamics) analysis software. Narrow webbing risers with a speed system and weight-saving low-friction rings, and unsheathed Kevlar top and middle lines complete the spec. <br/><br/>Note: As standard the Kiss will be delivered with steel maillons, but pilots can shave a further 80g by replacing these with softlinks (which can be ordered separately). <br/></p>
+
+                    </div>
+                    
+                	<div class="col-lg-5 offset-lg-1">
+                    	<div class="target-flyingstyle">
+                            <h3>Flying <strong>Level / Style</strong></h3>
+                            
+                            					<input id="flying_level" type="text" data-provide="slider"	data-slider-ticks="[0, 5, 10]" data-slider-ticks-labels='["Beginner", "Intermediate", "Advanced"]' data-slider-min="0" data-slider-max="10" data-slider-step="1" data-slider-value="[1, 10]" data-slider-tooltip="hide" data-slider-enabled="false" data-slider-id="flying_level_slider" />
+					<br><br><br><br>
+							
+												<div class="video_secondaire">
+<div class="embed-file on"><div class="embed-content"><div class="embed-container lazy " >
+	<iframe id="ad5e5acd7e526c16064d67e7afe58788" class="lazy "  src="https://player.vimeo.com/video/782625749?title=0&amp;byline=0&amp;portrait=0&amp;color=bb202f" allowfullscreen loading="lazy" title="Video"></iframe></div></div></div>					</div>
+
+                            
+                            			<h3 class="mb" style="margin-top:40px">Package includes</h3>
+Paraglider / Riser bag / Compression bag / Repair cloth / BGD gift
+                    	</div>
+                    </div>
+                    
+                    
+                </div>   
+          	</div>
+		</section></div>16:["$","div",null,{"className":"bg-warm-white min-h-screen","children":["$","div",null,{"className":"layout-container max-w-6xl pt-20 lg:pt-24 pb-10 lg:pb-16","children":[["$","nav",null,{"aria-label":"Breadcrumb","className":"text-sm text-slate mb-6","style":{"fontFamily":"var(--font-inter)"},"children":["$","ol",null,{"className":"flex flex-wrap gap-x-1.5 gap-y-1","children":[["$","li","Home",{"className":"flex items-center gap-1.5","children":[null,["$","$L5",null,{"href":"/","className":"text-horizon hover:text-sky-deep transition-colors","children":"Home"}]]}],["$","li","Paragliding shop",{"className":"flex items-center gap-1.5","children":[["$","span",null,{"className":"text-cloud","children":"/"}],["$","$L5",null,{"href":"/paragliding-shop","className":"text-horizon hover:text-sky-deep transition-colors","children":"Paragliding shop"}]]}],["$","li","Paragliders",{"className":"flex items-center gap-1.5","children":[["$","span",null,{"className":"text-cloud","children":"/"}],["$","$L5",null,{"href":"/paragliding-shop/paragliders","className":"text-horizon hover:text-sky-deep transition-colors","children":"Paragliders"}]]}],["$","li","KISS",{"className":"flex items-center gap-1.5","children":[["$","span",null,{"className":"text-cloud","children":"/"}],["$","span",null,{"className":"text-soft-black font-medium","children":"KISS"}]]}]]}]}],["$","header",null,{"className":"mb-10 max-w-prose","children":[["$","h1",null,{"className":"text-3xl sm:text-4xl font-bold text-teal-600 mb-2","style":{"fontFamily":"var(--font-inter)"},"children":"KISS"}],["$","p",null,{"className":"text-slate text-lg leading-relaxed mb-4","style":{"fontFamily":"var(--font-inter)"},"children":"The Kiss is an ultralight, small-packing wing for mountain adventures. Simple, safe and fun, its roots are in hike-and-fly but it’s an excellent soaring and thermalling wing for lighter pilots, or loaded..."}],["$","$L5",null,{"href":"/contact","className":"inline-flex items-center justify-center px-5 py-3 text-teal-700 font-semibold underline","style":{"fontFamily":"var(--font-inter)"},"children":"Contact us"}]]}],["$","article",null,{"className":"bgd-product-html text-slate","style":{"fontFamily":"var(--font-inter)"},"dangerouslySetInnerHTML":{"__html":"$1f"}}],"$L20"]}]}]
+20:["$","p",null,{"className":"text-xs text-slate/80 mt-10 pt-6 border-t border-cloud","style":{"fontFamily":"var(--font-inter)"},"children":"Product text and media mirror the public English materials from the manufacturer. In-page links to the manufacturer are disabled; use Contact us to reach our school. Always verify class ratings, weight ranges, and line plans for your size before you fly."}]
+1c:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+21:I[27201,["/paragliding-school-copy/_next/static/chunks/0z~j7c7sl~_.k.js","/paragliding-school-copy/_next/static/chunks/08fct066p2nk~.js","/paragliding-school-copy/_next/static/chunks/0d3shmwh5_nmn.js"],"IconMark"]
+19:null
+1e:[["$","title","0",{"children":"Kiss | Paragliding School"}],["$","meta","1",{"name":"description","content":"The Kiss is an ultralight, small-packing wing for mountain adventures. Simple, safe and fun, its roots are in hike-and-fly but it’s an excellent soaring and thermalling wing for lighter pilots, or loaded..."}],["$","meta","2",{"name":"robots","content":"index, follow"}],["$","link","3",{"rel":"canonical","href":"https://lisaskyhigh.github.io/paragliding-school-copy/paragliding-shop/paragliders/kiss/"}],["$","meta","4",{"property":"og:title","content":"Kiss"}],["$","meta","5",{"property":"og:description","content":"The Kiss is an ultralight, small-packing wing for mountain adventures. Simple, safe and fun, its roots are in hike-and-fly but it’s an excellent soaring and thermalling wing for lighter pilots, or loaded..."}],["$","meta","6",{"property":"og:url","content":"https://lisaskyhigh.github.io/paragliding-school-copy/paragliding-shop/paragliders/kiss/"}],["$","meta","7",{"property":"og:site_name","content":"Paragliding School"}],["$","meta","8",{"property":"og:locale","content":"en_US"}],["$","meta","9",{"property":"og:image","content":"https://lisaskyhigh.github.io/paragliding-school-copy/og-default.jpg"}],["$","meta","10",{"property":"og:image:width","content":"1200"}],["$","meta","11",{"property":"og:image:height","content":"630"}],["$","meta","12",{"property":"og:image:alt","content":"Kiss"}],["$","meta","13",{"property":"og:type","content":"website"}],["$","meta","14",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","15",{"name":"twitter:title","content":"Kiss"}],["$","meta","16",{"name":"twitter:description","content":"The Kiss is an ultralight, small-packing wing for mountain adventures. Simple, safe and fun, its roots are in hike-and-fly but it’s an excellent soaring and thermalling wing for lighter pilots, or loaded..."}],["$","meta","17",{"name":"twitter:image","content":"https://lisaskyhigh.github.io/paragliding-school-copy/og-default.jpg"}],["$","link","18",{"rel":"icon","href":"/paragliding-school-copy/favicon.ico?favicon.0x3dzn~oxb6tn.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L21","19",{}]]

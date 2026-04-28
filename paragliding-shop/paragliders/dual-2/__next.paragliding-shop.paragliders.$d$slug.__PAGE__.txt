@@ -1,0 +1,419 @@
+1:"$Sreact.fragment"
+2:I[22016,["/paragliding-school-copy/_next/static/chunks/0z~j7c7sl~_.k.js","/paragliding-school-copy/_next/static/chunks/08fct066p2nk~.js","/paragliding-school-copy/_next/static/chunks/0d3shmwh5_nmn.js","/paragliding-school-copy/_next/static/chunks/06e6k8wjhv093.js"],""]
+7:I[97367,["/paragliding-school-copy/_next/static/chunks/0z~j7c7sl~_.k.js","/paragliding-school-copy/_next/static/chunks/08fct066p2nk~.js","/paragliding-school-copy/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+3:T54ca,<div class="bgd-embed-section" data-bgd-section="introduction"><div class="container">
+            	<div class="row">
+                	<div class="col-lg-12">
+                    	<div class="tagline">- Two Steps and Away -</div>
+                    </div>
+                </div>
+                
+                <div class="row reverse_position_lg">
+                	<div class="col-lg-6">
+                    	<div class="row">
+                        	<div class="col-md-12">
+                                <div class="anim3d">
+                                							<div class="main_picture_sel active" id="main_picture_sel_1403">
+								<img src="https://cdn.flybgd.com/files/photo/carre/1728402212-4023.png?v=1728402218" width="720" height="720" alt="IVY" title="IVY" />
+							</div>
+							<div class="main_picture_sel" id="main_picture_sel_266">
+								<img src="https://cdn.flybgd.com/files/photo/carre/1728402259-9793.png?v=1728402268" width="720" height="720" alt="Poppy" title="Poppy" />
+							</div>
+							<div class="main_picture_sel" id="main_picture_sel_193">
+								<img src="https://cdn.flybgd.com/files/photo/carre/1728402314-5314.png?v=1728402325" width="720" height="720" alt="Orchid" title="Orchid" />
+							</div>
+  
+                                </div>
+							</div>
+                        </div>
+                        
+                        <div class="row">
+                        	<div class="col-md-12">
+                                <div class="couleurs">
+                                							<div class='panel_3d_options'>
+								<div class='panel_3d_options_selector' onmouseup='switch_product_color(1403)' onmouseover='switch_product_color(1403)'><img src="https://cdn.flybgd.com/files/photo/mini/1728402212-4023.png?v=1728402217" width="250" height="250" alt="IVY" title="IVY" /><span>IVY</span></div>
+								<div class='panel_3d_options_selector' onmouseup='switch_product_color(266)' onmouseover='switch_product_color(266)'><img src="https://cdn.flybgd.com/files/photo/mini/1728402259-9793.png?v=1728402267" width="250" height="250" alt="Poppy" title="Poppy" /><span>Poppy</span></div>
+								<div class='panel_3d_options_selector' onmouseup='switch_product_color(193)' onmouseover='switch_product_color(193)'><img src="https://cdn.flybgd.com/files/photo/mini/1728402314-5314.png?v=1728402324" width="250" height="250" alt="Orchid" title="Orchid" /><span>Orchid</span></div>
+							</div>
+  
+                                </div>
+							</div>
+                        </div>
+                    </div>
+                     
+                    <div class="col-lg-5 offset-lg-1">
+                    	<div class="row">
+                            <div class="col-12">
+                                <h1>Dual 2</h1>
+                                <h2>TANDEM</h2>
+                            </div>
+                            <div class="col-12">
+                                <p>With effortless launching and a smooth, relaxed feel, the DUAL 2 performs in harmony with pilot and passenger</p>
+                            </div>
+                        </div>
+                        <div class="row">
+                        	<div class="col-12">
+													<ul class="features_summary">
+							<li><a href="#features" class="btn-features-top scroll_to" data-feature-id="778" data-title="Three sizes 38m², 40m² and 42m² ">Three sizes 38m², 40m² and 42m² </a></li>
+							<li><a href="#features" class="btn-features-top scroll_to" data-feature-id="771" data-title="Effortless Two-Step Launch">Effortless Two-Step Launch</a></li>
+							<li><a href="#features" class="btn-features-top scroll_to" data-feature-id="780" data-title="Essential big ears blocker">Essential big ears blocker</a></li>
+							<li><a href="#features" class="btn-features-top scroll_to" data-feature-id="782" data-title="Replaceable trimmers">Replaceable trimmers</a></li>
+							<li><a href="#features" class="btn-features-top scroll_to" data-feature-id="776" data-title="Smooth relaxed feel">Smooth relaxed feel</a></li>
+					</ul>
+                                
+                                <a href="#informations" class="btn btn-secondary btn-lg scroll_to">Read more</a>
+                                <a href="#" data-bgd-stay="1" class="btn btn-primary btn-lg scroll_to">Free demo</a>
+                                
+                                
+                        	</div>
+                        </div>
+                        
+                        							
+                         <div class="echelle_size">
+                             <div class="row">
+                                <div class="col-sm-3 col-lg-4">   
+                                     <h2>Size</h2>
+                                     <p class="metres">m²</p>
+                                </div>
+                                <div class="col-sm-9 col-lg-8">   
+                                    
+                                    			<div class="table-responsive">
+				<table class="table table-sm table-option-no-border-top">
+					<tbody>
+						<tr>
+							<td style="width: 33.333333333333%"><strong>38 / S</strong></td>
+							<td style="width: 33.333333333333%"><strong>40 / M</strong></td>
+							<td style="width: 33.333333333333%"><strong>42 / L</strong></td>
+						</tr>
+						<tr>
+							<td>38</td>
+							<td>40</td>
+							<td>42</td>
+						</tr>
+					</tbody>
+				</table>
+				</div>
+                                </div>
+                    		</div>
+                        </div>
+                                                </div>
+                    
+                </div>
+            </div>
+		</section>
+        
+        
+          
+        
+        
+        
+                <div class="spt-trackThis"></div></div>
+<div class="bgd-embed-section" data-bgd-section="video"><div class="container">
+            	<div class="row">
+                	<div class="col-md-12">
+                    	<div class="embed-file on"><div class="embed-content"><div class="embed-container lazy " >
+	<iframe id="caf90b11249ae901810acffd7d3767df" class="lazy "  src="https://player.vimeo.com/video/322693264?title=0&amp;byline=0&amp;portrait=0&amp;color=bb202f" allowfullscreen loading="lazy" title="Video"></iframe></div></div></div>                    </div>
+                </div>   
+          	</div>
+		</section>  
+        
+         
+        
+        
+        
+        
+        <div class="spt-trackThis"></div></div>
+<div class="bgd-embed-section" data-bgd-section="informations"><div class="container">
+            	<div class="row">
+                	<div class="col-lg-6">
+						
+                        
+                        			<h2>Specs</h2>
+			<div class="table-responsive">
+				<table class="table table-sm table-option-border-bottom col_size_4" cols="4">
+					<thead>
+						<tr>
+							<th scope="col" class="libelle">&nbsp;</th>
+							<th scope="col">38 / S</th>
+							<th scope="col">40 / M</th>
+							<th scope="col">42 / L</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<th scope="row">Linear scaling factor</th>
+							<td>0.95</td>
+							<td>0.98</td>
+							<td>1</td>
+						</tr>
+						<tr>
+							<th scope="row">Projected area (m²)</th>
+							<td>32.3</td>
+							<td>34</td>
+							<td>35.7</td>
+						</tr>
+						<tr>
+							<th scope="row">Flat area (m²)</th>
+							<td>37.8</td>
+							<td>39.8</td>
+							<td>41.8</td>
+						</tr>
+						<tr>
+							<th scope="row">Glider weight (kg)</th>
+							<td>7.4</td>
+							<td>7.5</td>
+							<td>7.9</td>
+						</tr>
+						<tr>
+							<th scope="row">Total line length (m)</th>
+							<td>416</td>
+							<td>426</td>
+							<td>436</td>
+						</tr>
+						<tr>
+							<th scope="row">Height (m)</th>
+							<td>9.3</td>
+							<td>9.6</td>
+							<td>9.8</td>
+						</tr>
+						<tr>
+							<th scope="row">Number of main lines (A/B/C)</th>
+							<td colspan="3">3/4/3/3</td>
+						</tr>
+						<tr>
+							<th scope="row">Cells</th>
+							<td colspan="3">52</td>
+						</tr>
+						<tr>
+							<th scope="row">Flat aspect ratio</th>
+							<td colspan="3">5.5</td>
+						</tr>
+						<tr>
+							<th scope="row">Projected aspect ratio</th>
+							<td colspan="3">4.1</td>
+						</tr>
+						<tr>
+							<th scope="row">Root chord (m)</th>
+							<td>3.3</td>
+							<td>3.4</td>
+							<td>3.5</td>
+						</tr>
+						<tr>
+							<th scope="row">Flat span (m)</th>
+							<td>14.5</td>
+							<td>14.8</td>
+							<td>15.2</td>
+						</tr>
+						<tr>
+							<th scope="row">Projected span (m)</th>
+							<td>11.5</td>
+							<td>11.8</td>
+							<td>12.1</td>
+						</tr>
+						<tr>
+							<th scope="row">Trim speed (km/h)</th>
+							<td colspan="3">40</td>
+						</tr>
+						<tr>
+							<th scope="row">Top speed (km/h)</th>
+							<td colspan="3">52</td>
+						</tr>
+						<tr>
+							<th scope="row">Min sink (m/s)</th>
+							<td colspan="3">1</td>
+						</tr>
+						<tr>
+							<th scope="row">Best glide</th>
+							<td colspan="3">9</td>
+						</tr>
+						<tr>
+							<th scope="col">Ideal weight range (kg)</th>
+							<td>130-180</td>
+							<td>140-190</td>
+							<td>150-200</td>
+						</tr>
+						<tr>
+							<th scope="col">Certified weight range (kg)</th>
+							<td>100-200</td>
+							<td>110-210</td>
+							<td>120-220</td>
+						</tr>
+						<tr>
+							<th scope="row">Certification (EN/LTF)</th>
+							<td colspan="3">TANDEM</td>
+						</tr>
+					</tbody>
+				</table>
+				</div>
+
+                    </div>
+                    
+                    <div class="col-lg-5 offset-lg-1">
+                    	 <div id="informations_right">
+                         	<div class="informations_text">
+                            	<h2>Info</h2>
+                             	<p>The DUAL 2 is an entirely new design. It took us years of development and many prototypes to perfect, but we believe it is a significant leap forward from the original Dual, which itself was a benchmark EN-B tandem. It’s a pleasure to launch and to fly, with light, intuitive BGD handling and an outstanding sink rate, making it a 'top of the stack' performer. Big ears are effective and easy to use, and we’ve added a new big-ears locking system. <br/><br/>We know commercial pilots need tandems that last well so we’ve made the DUAL 2 robust and strong, with durable cloth throughout and all-sheathed Kevlar lines. The trimmers have easy-grab plastic balls and easy to replace webbing.<br/><br/>We recommend the 38m² - medium size to pilots who weigh less than 75kg, naked.</p>
+                            </div>
+							 							<div class="informations_picture">
+								<img width="745" height="600" src="https://cdn.flybgd.com/files/photo/thumbail/1553695226-6922.png?v=1556015880" loading="lazy" decoding="async" /><noscript><img src="https://cdn.flybgd.com/files/photo/thumbail/1553695226-6922.png?v=1556015880" width="745" height="600" /></noscript>
+							</div>
+                         </div>
+                    </div>
+                </div>   
+          	</div>
+		</section>  
+        
+        
+                <div class="spt-trackThis"></div></div>
+<div class="bgd-embed-section" data-bgd-section="features"><div class="features_layer lazy" data-bg="url(https://cdn.flybgd.com/files/photo/svg/1551084168-1928.svg?v=1556015873)"></div>
+            <div class="container">
+            	<div class="row">
+                	
+                    <div class="col-lg-6 col-xl-6">
+                    	<div class="features-picture">
+                    					<div class="feature_img">
+					<img width="720" height="720" src="https://cdn.flybgd.com/files/photo/carre/1551087567-1939.png?v=1556015908" loading="lazy" decoding="async" /><noscript><img src="https://cdn.flybgd.com/files/photo/carre/1551087567-1939.png?v=1556015908" width="720" height="720" /></noscript>
+				</div>
+				<a href="#" id="btn-features-778" class="btn-features active " style="top: 100%; left:1%;" data-feature-id="778" data-title="Three sizes 38m², 40m² and 42m² ">+</a>
+				<a href="#" id="btn-features-43" class="btn-features  " style="top: 25%; left:23%;" data-feature-id="43" data-title="Chord Cut Billow (CCB)">+</a>
+				<a href="#" id="btn-features-771" class="btn-features  " style="top: 99%; left:54%;" data-feature-id="771" data-title="Effortless Two-Step Launch">+</a>
+				<a href="#" id="btn-features-780" class="btn-features  " style="top: 80%; left:60%;" data-feature-id="780" data-title="Essential big ears blocker">+</a>
+				<a href="#" id="btn-features-860" class="btn-features  full_right" style="top: 1%; left:100%;" data-feature-id="860" data-title="BGD Feedback">+</a>
+				<a href="#" id="btn-features-774" class="btn-features  " style="top: 45%; left:10%;" data-feature-id="774" data-title="Progressive Stability">+</a>
+				<a href="#" id="btn-features-782" class="btn-features  " style="top: 80%; left:46%;" data-feature-id="782" data-title="Replaceable trimmers">+</a>
+				<a href="#" id="btn-features-784" class="btn-features  " style="top: 3%; left:71%;" data-feature-id="784" data-title="Single plastic shark nose">+</a>
+				<a href="#" id="btn-features-776" class="btn-features  " style="top: 30%; left:4%;" data-feature-id="776" data-title="Smooth relaxed feel">+</a>
+                    	</div>
+                    </div>
+                    
+                    <div class="col-lg-5 offset-lg-1"><!-- col-xl-6  offset-xl-0 -->
+                    	<h2>Tech</h2>
+                        
+                        				<div class="feature active" data-feature-id="778">
+				<div class="feature-image">
+					<img src="https://cdn.flybgd.com/files/photo/thumbail/1582709199-4175.jpg?v=1582709199" width="800" height="400" />
+				</div>
+				<h3 class="feature-title">Three sizes 38m², 40m² and 42m² </h3>
+				<div class="">
+					For versatility the Dual 2 is available in three sizes, 38, 40 and 42, with a total weight range of 100 to 220 kilos.
+				</div>
+				</div>
+				<div class="feature " data-feature-id="43">
+				<div class="feature-image">
+					<div class="embed-file on"><div class="embed-content"><div class="embed-container " data-bg="url(https://cdn.flybgd.com/files/photo/thumbail/1551023903-1019.jpg?v=1553794187)">
+	<iframe id="478bc40f1184a4b49fe96e04f753269d" class="" src="https://player.vimeo.com/video/364287205?title=0&amp;byline=0&amp;portrait=0&amp;color=bb202f&autoplay=1&autopause=0&loop=1&muted=1&background=1" allowfullscreen allow="autoplay" muted="muted"></iframe></div></div></div>
+				</div>
+				<h3 class="feature-title">Chord Cut Billow (CCB)</h3>
+				<div class="">
+					Chord Cut Billow technology has been developed to improve the form friction, glider stability and overall performance of our paragliders. Two seams run chord-wise across the top panels of the leading edge. They accommodate the panel ballooning that happens when the wing is inflated. Without CCB, up to five centimetres of excess material is created on the sides of an inflated flat panel when it bends over a wing profile. This results in wrinkles. Chord Cut Billow technology removes this excess material and the 3D panel has fewer ripples and improved rib profile shape and stability.
+
+				</div>
+				</div>
+				<div class="feature " data-feature-id="771">
+				<div class="feature-image">
+					<img src="https://cdn.flybgd.com/files/photo/thumbail/1551023868-6107.jpg?v=1553794188" width="800" height="400" />
+				</div>
+				<h3 class="feature-title">Effortless Two-Step Launch</h3>
+				<div class="">
+					Professional pilots need a glider that is easy to launch. This tandem features a superior high lift profile designed to give the wing a smooth inflation with an eager lift at take off. 
+				</div>
+				</div>
+				<div class="feature " data-feature-id="780">
+				<div class="feature-image">
+					<img src="https://cdn.flybgd.com/files/photo/thumbail/1551024764-3716.jpg?v=1553794191" width="800" height="400" />
+				</div>
+				<h3 class="feature-title">Essential big ears blocker</h3>
+				<div class="">
+					Big ears are now more effective and easier than ever. Pilots can enjoy hands-free big ears thanks to our new locking cleat on the back of the risers giving pilots more control while descending. 
+				</div>
+				</div>
+				<div class="feature " data-feature-id="860">
+				<div class="feature-image">
+					<img src="https://cdn.flybgd.com/files/photo/thumbail/1558108590-3448.jpg?v=1558108590" width="800" height="400" />
+				</div>
+				<h3 class="feature-title">BGD Feedback</h3>
+				<div class="">
+					Gliders that talk are safer. Safer gliders make pilots perform better. Better performing pilots fly further. Further flying pilots are happier pilots. BGD Feedback produces happier pilots!
+				</div>
+				</div>
+				<div class="feature " data-feature-id="774">
+				<div class="feature-image">
+					<img src="https://cdn.flybgd.com/files/photo/thumbail/1649940470-4868.jpg?v=1649940470" width="800" height="400" />
+				</div>
+				<h3 class="feature-title">Progressive Stability</h3>
+				<div class="">
+					Using our Parasim simulation program, BGD gliders are designed to have a stable and solid centre with progressively softer tips. This teaches pilots to predict and avoid deflations and stay aware of the air.
+
+				</div>
+				</div>
+				<div class="feature " data-feature-id="782">
+				<div class="feature-image">
+					<img src="https://cdn.flybgd.com/files/photo/thumbail/1551026900-1617.jpg?v=1553794192" width="800" height="400" />
+				</div>
+				<h3 class="feature-title">Replaceable trimmers</h3>
+				<div class="">
+					Committed to building products that last, we only use durable high-tech fabrics and sheathed aramid lines. In addition, we’ve created a replaceable trimmer system to maximise longevity. 
+				</div>
+				</div>
+				<div class="feature " data-feature-id="784">
+				<div class="feature-image">
+					<img src="https://cdn.flybgd.com/files/photo/thumbail/1553680450-0511.jpg?v=1553794193" width="800" height="400" />
+				</div>
+				<h3 class="feature-title">Single plastic shark nose</h3>
+				<div class="">
+					A continuous single plastic shark nose forces the leading edge open, giving clear improvements in stability and inflation.
+				</div>
+				</div>
+				<div class="feature " data-feature-id="776">
+				<div class="feature-image">
+					<img src="https://cdn.flybgd.com/files/photo/thumbail/1551022080-8253.jpg?v=1553794190" width="800" height="400" />
+				</div>
+				<h3 class="feature-title">Smooth relaxed feel</h3>
+				<div class="">
+					It's all about giving the best flying experience to your passenger! 
+				</div>
+				</div>
+                         
+                        
+                    </div>
+                </div>   
+          	</div>
+		</section> 
+        
+        
+        <div class="spt-trackThis"></div></div>
+<div class="bgd-embed-section" data-bgd-section="target"><div class="container">
+            	<div class="row">
+                	<div class="col-lg-6">
+                    	 <h2>Target</h2>
+                         <p>Remember that feeling, the first time your feet leave the ground and you are soaring, feet in the clouds, viewing the world from a different perspective? If you could bottle that feeling and share it around … that’s what the DUAL 2 is for – sharing the joy of flight! <br/><br/>A clean take-off is absolutely critical to a safe and successful tandem flight. The DUAL 2 takes the load quickly and the short run required is a huge step forward for passenger safety. We’ve made the Dual 2 in three sizes: the 42m², 40m² and the 38m² covering all-up weights 100-220kg.</p>
+                         
+                         <br />
+                         <h2>Designer's notes</h2>
+                         <p>With this project I wanted to make a tandem that is ridiculously easy to launch as not all passengers are willing runners, but I didn’t want to sacrifice that light and sensitive handling that was so highly praised in the original DUAL. To achieve this we designed a whole new single plastic shark nose just for this wing. In the air the handling is a delight and thermalling is outstanding. The whole team are very happy with the outcome. It’s a pleasure to fly, and a dream to launch: two steps and away!</p>
+
+                    </div>
+                    
+                	<div class="col-lg-5 offset-lg-1">
+                    	<div class="target-flyingstyle">
+                            <h3>Flying <strong>Level / Style</strong></h3>
+                            
+                            					<input id="flying_level" type="text" data-provide="slider"	data-slider-ticks="[0, 5, 10]" data-slider-ticks-labels='["Beginner", "Intermediate", "Advanced"]' data-slider-min="0" data-slider-max="10" data-slider-step="1" data-slider-value="[4, 9]" data-slider-tooltip="hide" data-slider-enabled="false" data-slider-id="flying_level_slider" />
+					<br><br><br><br>
+							
+							
+                            
+                            			<h3 class="mb" style="margin-top:40px">Package includes</h3>
+Paraglider / Compression strap / Riser bag / Inner bag / Rucksack / Repair cloth / Replacement Trimmers / BGD stickers / BGD gift / Manual card
+                    	</div>
+                    </div>
+                    
+                    
+                </div>   
+          	</div>
+		</section></div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"bg-warm-white min-h-screen","children":["$","div",null,{"className":"layout-container max-w-6xl pt-20 lg:pt-24 pb-10 lg:pb-16","children":[["$","nav",null,{"aria-label":"Breadcrumb","className":"text-sm text-slate mb-6","style":{"fontFamily":"var(--font-inter)"},"children":["$","ol",null,{"className":"flex flex-wrap gap-x-1.5 gap-y-1","children":[["$","li","Home",{"className":"flex items-center gap-1.5","children":[null,["$","$L2",null,{"href":"/","className":"text-horizon hover:text-sky-deep transition-colors","children":"Home"}]]}],["$","li","Paragliding shop",{"className":"flex items-center gap-1.5","children":[["$","span",null,{"className":"text-cloud","children":"/"}],["$","$L2",null,{"href":"/paragliding-shop","className":"text-horizon hover:text-sky-deep transition-colors","children":"Paragliding shop"}]]}],["$","li","Paragliders",{"className":"flex items-center gap-1.5","children":[["$","span",null,{"className":"text-cloud","children":"/"}],["$","$L2",null,{"href":"/paragliding-shop/paragliders","className":"text-horizon hover:text-sky-deep transition-colors","children":"Paragliders"}]]}],["$","li","DUAL 2",{"className":"flex items-center gap-1.5","children":[["$","span",null,{"className":"text-cloud","children":"/"}],["$","span",null,{"className":"text-soft-black font-medium","children":"DUAL 2"}]]}]]}]}],["$","header",null,{"className":"mb-10 max-w-prose","children":[["$","h1",null,{"className":"text-3xl sm:text-4xl font-bold text-teal-600 mb-2","style":{"fontFamily":"var(--font-inter)"},"children":"DUAL 2"}],["$","p",null,{"className":"text-slate text-lg leading-relaxed mb-4","style":{"fontFamily":"var(--font-inter)"},"children":"The DUAL 2 is an entirely new design. It took us years of development and many prototypes to perfect, but we believe it is a significant leap forward from the original Dual, which itself was a benchmark..."}],["$","$L2",null,{"href":"/contact","className":"inline-flex items-center justify-center px-5 py-3 text-teal-700 font-semibold underline","style":{"fontFamily":"var(--font-inter)"},"children":"Contact us"}]]}],["$","article",null,{"className":"bgd-product-html text-slate","style":{"fontFamily":"var(--font-inter)"},"dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}]}],["$L5"],"$L6"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"25hMhhWhkoJTha_Og-J0m"}
+4:["$","p",null,{"className":"text-xs text-slate/80 mt-10 pt-6 border-t border-cloud","style":{"fontFamily":"var(--font-inter)"},"children":"Product text and media mirror the public English materials from the manufacturer. In-page links to the manufacturer are disabled; use Contact us to reach our school. Always verify class ratings, weight ranges, and line plans for your size before you fly."}]
+5:["$","script","script-0",{"src":"/paragliding-school-copy/_next/static/chunks/06e6k8wjhv093.js","async":true}]
+6:["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]
+9:null

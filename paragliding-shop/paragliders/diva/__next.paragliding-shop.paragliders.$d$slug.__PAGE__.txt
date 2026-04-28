@@ -1,0 +1,438 @@
+1:"$Sreact.fragment"
+2:I[22016,["/paragliding-school-copy/_next/static/chunks/0z~j7c7sl~_.k.js","/paragliding-school-copy/_next/static/chunks/08fct066p2nk~.js","/paragliding-school-copy/_next/static/chunks/0d3shmwh5_nmn.js","/paragliding-school-copy/_next/static/chunks/06e6k8wjhv093.js"],""]
+7:I[97367,["/paragliding-school-copy/_next/static/chunks/0z~j7c7sl~_.k.js","/paragliding-school-copy/_next/static/chunks/08fct066p2nk~.js","/paragliding-school-copy/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+3:T5afa,<div class="bgd-embed-section" data-bgd-section="introduction"><div class="container">
+            	<div class="row">
+                	<div class="col-lg-12">
+                    	<div class="tagline">- By champions for champions -</div>
+                    </div>
+                </div>
+                
+                <div class="row reverse_position_lg">
+                	<div class="col-lg-6">
+                    	<div class="row">
+                        	<div class="col-md-12">
+                                <div class="anim3d">
+                                							<div class="main_picture_sel active" id="main_picture_sel_352">
+								<img src="https://cdn.flybgd.com/files/photo/carre/1555936779-1544.png?v=1555936784" width="720" height="720" alt="MIDNIGHT" title="MIDNIGHT" />
+							</div>
+							<div class="main_picture_sel" id="main_picture_sel_401">
+								<img src="https://cdn.flybgd.com/files/photo/carre/1557761431-6574.png?v=1557761436" width="720" height="720" alt="EVENING" title="EVENING" />
+							</div>
+							<div class="main_picture_sel" id="main_picture_sel_354">
+								<img src="https://cdn.flybgd.com/files/photo/carre/1555936837-5166.png?v=1555936842" width="720" height="720" alt="DAWN" title="DAWN" />
+							</div>
+  
+                                </div>
+							</div>
+                        </div>
+                        
+                        <div class="row">
+                        	<div class="col-md-12">
+                                <div class="couleurs">
+                                							<div class='panel_3d_options'>
+								<div class='panel_3d_options_selector' onmouseup='switch_product_color(352)' onmouseover='switch_product_color(352)'><img src="https://cdn.flybgd.com/files/photo/mini/1555936779-1544.png?v=1555936784" width="250" height="250" alt="MIDNIGHT" title="MIDNIGHT" /><span>MIDNIGHT</span></div>
+								<div class='panel_3d_options_selector' onmouseup='switch_product_color(401)' onmouseover='switch_product_color(401)'><img src="https://cdn.flybgd.com/files/photo/mini/1557761431-6574.png?v=1557761436" width="250" height="250" alt="EVENING" title="EVENING" /><span>EVENING</span></div>
+								<div class='panel_3d_options_selector' onmouseup='switch_product_color(354)' onmouseover='switch_product_color(354)'><img src="https://cdn.flybgd.com/files/photo/mini/1555936837-5166.png?v=1555936842" width="250" height="250" alt="DAWN" title="DAWN" /><span>DAWN</span></div>
+							</div>
+  
+                                </div>
+							</div>
+                        </div>
+                    </div>
+                     
+                    <div class="col-lg-5 offset-lg-1">
+                    	<div class="row">
+                            <div class="col-12">
+                                <h1>Diva</h1>
+                                <h2>CCC</h2>
+                            </div>
+                            <div class="col-12">
+                                <p>Striving for glory in the most prestigious cross-country competitions? The DIVA will take you to goal.</p>
+                            </div>
+                        </div>
+                        <div class="row">
+                        	<div class="col-12">
+													<ul class="features_summary">
+							<li><a href="#features" class="btn-features-top scroll_to" data-feature-id="44" data-title="Leading edge mini-ribs">Leading edge mini-ribs</a></li>
+							<li><a href="#features" class="btn-features-top scroll_to" data-feature-id="864" data-title="Maximised unsupported cells">Maximised unsupported cells</a></li>
+							<li><a href="#features" class="btn-features-top scroll_to" data-feature-id="861" data-title="Post C-band">Post C-band</a></li>
+							<li><a href="#features" class="btn-features-top scroll_to" data-feature-id="45" data-title="Strong shark nose">Strong shark nose</a></li>
+							<li><a href="#features" class="btn-features-top scroll_to" data-feature-id="863" data-title="Triple finger diagonals">Triple finger diagonals</a></li>
+					</ul>
+                                
+                                <a href="#informations" class="btn btn-secondary btn-lg scroll_to">Read more</a>
+                                <a href="#" data-bgd-stay="1" class="btn btn-primary btn-lg scroll_to">Free demo</a>
+                                
+                                
+                        	</div>
+                        </div>
+                        
+                        							
+                         <div class="echelle_size">
+                             <div class="row">
+                                <div class="col-sm-3 col-lg-4">   
+                                     <h2>Size</h2>
+                                     <p class="metres">m²</p>
+                                </div>
+                                <div class="col-sm-9 col-lg-8">   
+                                    
+                                    			<div class="table-responsive">
+				<table class="table table-sm table-option-no-border-top">
+					<tbody>
+						<tr>
+							<td style="width: 25%"><strong>XS</strong></td>
+							<td style="width: 25%"><strong>S</strong></td>
+							<td style="width: 25%"><strong>M</strong></td>
+							<td style="width: 25%"><strong>L</strong></td>
+						</tr>
+						<tr>
+							<td>21</td>
+							<td>23</td>
+							<td>25</td>
+							<td>26</td>
+						</tr>
+					</tbody>
+				</table>
+				</div>
+                                </div>
+                    		</div>
+                        </div>
+                                                </div>
+                    
+                </div>
+            </div>
+		</section>
+        
+        
+          
+        
+        
+        
+                <div class="spt-trackThis"></div></div>
+<div class="bgd-embed-section" data-bgd-section="video"><div class="container">
+            	<div class="row">
+                	<div class="col-md-12">
+                    	<div class="embed-file on"><div class="embed-content"><div class="embed-container lazy " >
+	<iframe id="6093c9064a6e42d1f160fe60c02ef523" class="lazy "  src="https://player.vimeo.com/video/218783510?title=0&amp;byline=0&amp;portrait=0&amp;color=bb202f" allowfullscreen loading="lazy" title="Video"></iframe></div></div></div>                    </div>
+                </div>   
+          	</div>
+		</section>  
+        
+         
+        
+        
+        
+        
+        <div class="spt-trackThis"></div></div>
+<div class="bgd-embed-section" data-bgd-section="informations"><div class="container">
+            	<div class="row">
+                	<div class="col-lg-6">
+						
+                        
+                        			<h2>Specs</h2>
+			<div class="table-responsive">
+				<table class="table table-sm table-option-border-bottom col_size_5" cols="5">
+					<thead>
+						<tr>
+							<th scope="col" class="libelle">&nbsp;</th>
+							<th scope="col">XS</th>
+							<th scope="col">S</th>
+							<th scope="col">M</th>
+							<th scope="col">L</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<th scope="row">Linear scaling factor</th>
+							<td>1</td>
+							<td>1.04</td>
+							<td>1.08</td>
+							<td>1.12</td>
+						</tr>
+						<tr>
+							<th scope="row">Projected area (m²)</th>
+							<td>17.4</td>
+							<td>18.9</td>
+							<td>20.3</td>
+							<td>21.9</td>
+						</tr>
+						<tr>
+							<th scope="row">Flat area (m²)</th>
+							<td>21</td>
+							<td>22.7</td>
+							<td>24.5</td>
+							<td>26.3</td>
+						</tr>
+						<tr>
+							<th scope="row">Glider weight (kg)</th>
+							<td>5</td>
+							<td>5.4</td>
+							<td>5.8</td>
+							<td>6.2</td>
+						</tr>
+						<tr>
+							<th scope="row">Total line length (m)</th>
+							<td>205</td>
+							<td>212</td>
+							<td>222</td>
+							<td>231</td>
+						</tr>
+						<tr>
+							<th scope="row">Height (m)</th>
+							<td>7.1</td>
+							<td>7.4</td>
+							<td>7.6</td>
+							<td>7.9</td>
+						</tr>
+						<tr>
+							<th scope="row">Number of main lines (A/B/C)</th>
+							<td colspan="4">3/3</td>
+						</tr>
+						<tr>
+							<th scope="row">Cells</th>
+							<td colspan="4">74</td>
+						</tr>
+						<tr>
+							<th scope="row">Flat aspect ratio</th>
+							<td colspan="4">7.5</td>
+						</tr>
+						<tr>
+							<th scope="row">Projected aspect ratio</th>
+							<td colspan="4">5.4</td>
+						</tr>
+						<tr>
+							<th scope="row">Root chord (m)</th>
+							<td>2</td>
+							<td>2.1</td>
+							<td>2.3</td>
+							<td>2.5</td>
+						</tr>
+						<tr>
+							<th scope="row">Flat span (m)</th>
+							<td>12.6</td>
+							<td>13</td>
+							<td>14.1</td>
+							<td>15.8</td>
+						</tr>
+						<tr>
+							<th scope="row">Projected span (m)</th>
+							<td>9.7</td>
+							<td>10.1</td>
+							<td>10.9</td>
+							<td>12.2</td>
+						</tr>
+						<tr>
+							<th scope="row">Trim speed (km/h)</th>
+							<td colspan="4">40</td>
+						</tr>
+						<tr>
+							<th scope="row">Top speed (km/h)</th>
+							<td>75</td>
+							<td>75</td>
+							<td>74</td>
+							<td>74</td>
+						</tr>
+						<tr>
+							<th scope="row">Min sink (m/s)</th>
+							<td colspan="4">1</td>
+						</tr>
+						<tr>
+							<th scope="row">Best glide</th>
+							<td colspan="4">12</td>
+						</tr>
+						<tr>
+							<th scope="col">Certified weight range (kg)</th>
+							<td>70-90</td>
+							<td>80-100</td>
+							<td>90-112</td>
+							<td>100-125</td>
+						</tr>
+						<tr>
+							<th scope="row">Certification (EN/LTF)</th>
+							<td colspan="4">CCC</td>
+						</tr>
+					</tbody>
+				</table>
+				</div>
+
+                    </div>
+                    
+                    <div class="col-lg-5 offset-lg-1">
+                    	 <div id="informations_right">
+                         	<div class="informations_text">
+                            	<h2>Info</h2>
+                             	<p>With 25 years of competition experience behind him, Bruce understands well the requirements of a good competition wing. The DIVA is the fastest and most advanced paraglider he has ever created. CCC certified, it is constructed from a mix of standard D30 and lightweight 27g Porcher cloths. It benefits from a new minimal-drag line layout, CCB, shark nose, progressive stability and a speed-optimising profile. All that makes the DIVA very competitive yet easy to handle in the air and on the ground, with top safety for its class.</p>
+                            </div>
+							 							<div class="informations_picture">
+								<img width="745" height="600" src="https://cdn.flybgd.com/files/photo/thumbail/1555935228-0372.png?v=1556016207" loading="lazy" decoding="async" /><noscript><img src="https://cdn.flybgd.com/files/photo/thumbail/1555935228-0372.png?v=1556016207" width="745" height="600" /></noscript>
+							</div>
+                         </div>
+                    </div>
+                </div>   
+          	</div>
+		</section>  
+        
+        
+                <div class="spt-trackThis"></div></div>
+<div class="bgd-embed-section" data-bgd-section="features"><div class="features_layer lazy" data-bg="url(https://cdn.flybgd.com/files/photo/svg/1555935205-6813.svg?v=1556016202)"></div>
+            <div class="container">
+            	<div class="row">
+                	
+                    <div class="col-lg-6 col-xl-6">
+                    	<div class="features-picture">
+                    					<div class="feature_img">
+					<img width="720" height="720" src="https://cdn.flybgd.com/files/photo/carre/1555935363-4679.png?v=1556016219" loading="lazy" decoding="async" /><noscript><img src="https://cdn.flybgd.com/files/photo/carre/1555935363-4679.png?v=1556016219" width="720" height="720" /></noscript>
+				</div>
+				<a href="#" id="btn-features-860" class="btn-features active full_right" style="top: 1%; left:100%;" data-feature-id="860" data-title="BGD Feedback">+</a>
+				<a href="#" id="btn-features-44" class="btn-features  " style="top: 50%; left:27%;" data-feature-id="44" data-title="Leading edge mini-ribs">+</a>
+				<a href="#" id="btn-features-864" class="btn-features  " style="top: 28%; left:28%;" data-feature-id="864" data-title="Maximised unsupported cells">+</a>
+				<a href="#" id="btn-features-866" class="btn-features  " style="top: 55%; left:43%;" data-feature-id="866" data-title="Integrated Line Layout">+</a>
+				<a href="#" id="btn-features-861" class="btn-features  " style="top: 5%; left:36%;" data-feature-id="861" data-title="Post C-band">+</a>
+				<a href="#" id="btn-features-774" class="btn-features  " style="top: 7%; left:66%;" data-feature-id="774" data-title="Progressive Stability">+</a>
+				<a href="#" id="btn-features-865" class="btn-features  " style="top: 78%; left:49%;" data-feature-id="865" data-title="Snap Locks">+</a>
+				<a href="#" id="btn-features-45" class="btn-features  " style="top: 20%; left:45%;" data-feature-id="45" data-title="Strong shark nose">+</a>
+				<a href="#" id="btn-features-863" class="btn-features  " style="top: 3%; left:48%;" data-feature-id="863" data-title="Triple finger diagonals">+</a>
+				<a href="#" id="btn-features-859" class="btn-features  " style="top: 37%; left:22%;" data-feature-id="859" data-title="Weight-optimised ribs">+</a>
+                    	</div>
+                    </div>
+                    
+                    <div class="col-lg-5 offset-lg-1"><!-- col-xl-6  offset-xl-0 -->
+                    	<h2>Tech</h2>
+                        
+                        				<div class="feature active" data-feature-id="860">
+				<div class="feature-image">
+					<img src="https://cdn.flybgd.com/files/photo/thumbail/1558108590-3448.jpg?v=1558108590" width="800" height="400" />
+				</div>
+				<h3 class="feature-title">BGD Feedback</h3>
+				<div class="">
+					Gliders that talk are safer. Safer gliders make pilots perform better. Better performing pilots fly further. Further flying pilots are happier pilots. BGD Feedback produces happier pilots!
+				</div>
+				</div>
+				<div class="feature " data-feature-id="44">
+				<div class="feature-image">
+					<img src="https://cdn.flybgd.com/files/photo/thumbail/1560893390-7794.jpg?v=1560893390" width="800" height="400" />
+				</div>
+				<h3 class="feature-title">Leading edge mini-ribs</h3>
+				<div class="">
+					Situated along the leading edge are reinforced mini-ribs, designed to help produce a rock-solid profile while on speed bar.
+				</div>
+				</div>
+				<div class="feature " data-feature-id="864">
+				<div class="feature-image">
+					<img src="https://cdn.flybgd.com/files/photo/thumbail/1560500087-3681.jpg?v=1560500087" width="800" height="400" />
+				</div>
+				<h3 class="feature-title">Maximised unsupported cells</h3>
+				<div class="">
+					Optimised unsupported cell groups are designed to match the span-wise load distribution influenced by the line layout. Coupled with a strong internal structure, the line layouts that create more span-wise tension can support more unsupported cells. While maintaining a homogenous wing, this helps to minimise line consumption reducing drag thus improving performance.
+				</div>
+				</div>
+				<div class="feature " data-feature-id="866">
+				<div class="feature-image">
+					<img src="https://cdn.flybgd.com/files/photo/thumbail/1557845000-0936.jpg?v=1557845000" width="800" height="400" />
+				</div>
+				<h3 class="feature-title">Integrated Line Layout</h3>
+				<div class="">
+					The line layout of our gliders is fully integrated into the wing design. Sail and lines are designed together, holistically. The cell widths and the internal straps that transfer the load though the sail are all designed according to the line layout. Even the panel shaping is matched with the line layout through detailed CAD simulation. The result is simple: fewer lines and stronger, faster, safer gliders.
+				</div>
+				</div>
+				<div class="feature " data-feature-id="861">
+				<div class="feature-image">
+					<img src="https://cdn.flybgd.com/files/photo/thumbail/1560500053-0686.jpg?v=1560500054" width="800" height="400" />
+				</div>
+				<h3 class="feature-title">Post C-band</h3>
+				<div class="">
+					We have added a Post-C band running along the top surface which seamlessly moves down to the bottom surface at the tip, connecting directly to the last line cascade. Instead of putting heavy plastic rods above the C lines we use this band to counter the common flip-up ripple caused when applying a little brake. The problem with paragliders is when a little brake is applied the cupping of the trailing edge creates lift which often buckles the profile near the Cs. We have solved this problem with the Post-C Band, an eloquent, lightweight, clean and volume reducing solution.
+				</div>
+				</div>
+				<div class="feature " data-feature-id="774">
+				<div class="feature-image">
+					<img src="https://cdn.flybgd.com/files/photo/thumbail/1649940470-4868.jpg?v=1649940470" width="800" height="400" />
+				</div>
+				<h3 class="feature-title">Progressive Stability</h3>
+				<div class="">
+					Using our Parasim simulation program, BGD gliders are designed to have a stable and solid centre with progressively softer tips. This teaches pilots to predict and avoid deflations and stay aware of the air.
+
+				</div>
+				</div>
+				<div class="feature " data-feature-id="865">
+				<div class="feature-image">
+					<div class="embed-file on"><div class="embed-content"><div class="embed-container " data-bg="url(https://cdn.flybgd.com/files/photo/thumbail/1649948549-4642.jpg?v=1649948549)">
+	<iframe id="7df84b94bb2829da84dbd190f2d7e4a5" class="" src="https://player.vimeo.com/video/364298489?title=0&amp;byline=0&amp;portrait=0&amp;color=bb202f&autoplay=1&autopause=0&loop=1&muted=1&background=1" allowfullscreen allow="autoplay" muted="muted"></iframe></div></div></div>
+				</div>
+				<h3 class="feature-title">Snap Locks</h3>
+				<div class="">
+					BGD developed the first snaplocks for paragliding with Fidlock a decade ago. They have been refined and improved over the years and have now been widely adopted in the industry. A small focused magnet inside the catch with an internal locking system holds the handles in place. They release only when the handles are pulled down towards the pilot, so they don’t fall off while kiting, packing, or performing manoeuvres.  
+				</div>
+				</div>
+				<div class="feature " data-feature-id="45">
+				<div class="feature-image">
+					<img src="https://cdn.flybgd.com/files/photo/thumbail/1557845361-2552.jpg?v=1557845361" width="800" height="400" />
+				</div>
+				<h3 class="feature-title">Strong shark nose</h3>
+				<div class="">
+					An ultra aggressive shark nose optimises stability at all speeds. Not all sharks are created equal and BGD’s shark noses are very aggressive, maximising the effects of the technology.
+				</div>
+				</div>
+				<div class="feature " data-feature-id="863">
+				<div class="feature-image">
+					<img src="https://cdn.flybgd.com/files/photo/thumbail/1568729219-4176.jpg?v=1568729219" width="800" height="400" />
+				</div>
+				<h3 class="feature-title">Triple finger diagonals</h3>
+				<div class="">
+					Triple Finger Diagonals create a more solid and durable wing. Across the whole chord of the profile, three-piece diagonal supports pass through holes in the ribs. They ensure structural integrity by avoiding the cloth being loaded in the bias direction. This is particularly important near the trailing edge where the profile is thin and shallower diagonal ribs supporting high loads. 
+				</div>
+				</div>
+				<div class="feature " data-feature-id="859">
+				<div class="feature-image">
+					<img src="https://cdn.flybgd.com/files/photo/thumbail/1560500015-1721.jpg?v=1560500015" width="800" height="400" />
+				</div>
+				<h3 class="feature-title">Weight-optimised ribs</h3>
+				<div class="">
+					We have maintained the strength and rigidity of the ribs while removing unnecessary material. This means less weight for no increase in cost or reduction in strength of the wing. The hole positioning and size depends on the loads taken locally by the sail, and it is thanks to recent developments in our software that it is now possible to accurately calculate this.
+				</div>
+				</div>
+                         
+                        
+                    </div>
+                </div>   
+          	</div>
+		</section> 
+        
+        
+        <div class="spt-trackThis"></div></div>
+<div class="bgd-embed-section" data-bgd-section="target"><div class="container">
+            	<div class="row">
+                	<div class="col-lg-6">
+                    	 <h2>Target</h2>
+                         <p>Designed by a world champ for the next champ, the DIVA is for pilots who want the feel of 3-liner while benefitting from the performance of a 2-liner. This is a very high performance wing and is only for highly skilled competition-level pilots.</p>
+                         
+                         <br />
+                         <h2>Designer's notes</h2>
+                         <p>Since my son Tyr will be flying in the Worlds, I designed the DIVA to be fast, but with the perfect balance of raw performance and progressive safety. The DIVA is designed to warn experienced pilots of light-to-moderate turbulence rather than completely collapsing. <br/><br/>Bruce’s article in Cross Country magazine, ‘Shifting Our Thinking on Safety’, explains how a wing that is very stable and almost never collapses can lead to more accidents because the pilot has little experience of how to deal with it. Any wing will collapse given enough turbulence. So if a wing is going to collapse, a small collapse in medium turbulence is better than a big collapse in strong turbulence. The nature of the collapse, as well as the amount of turbulence the wing can resist before the collapse, is what make the collapse easier to cope with and the wing safer.</p>
+
+                    </div>
+                    
+                	<div class="col-lg-5 offset-lg-1">
+                    	<div class="target-flyingstyle">
+                            <h3>Flying <strong>Level / Style</strong></h3>
+                            
+                            					<input id="flying_level" type="text" data-provide="slider"	data-slider-ticks="[0, 5, 10]" data-slider-ticks-labels='["Beginner", "Intermediate", "Advanced"]' data-slider-min="0" data-slider-max="10" data-slider-step="1" data-slider-value="[8, 10]" data-slider-tooltip="hide" data-slider-enabled="false" data-slider-id="flying_level_slider" />
+					<br><br><br><br>
+							
+							
+                            
+                            			<h3 class="mb" style="margin-top:40px">Package includes</h3>
+Paraglider / Compression strap / Riser bag / Inner bag / Rucksack / Repair cloth / BGD gift
+                    	</div>
+                    </div>
+                    
+                    
+                </div>   
+          	</div>
+		</section></div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"bg-warm-white min-h-screen","children":["$","div",null,{"className":"layout-container max-w-6xl pt-20 lg:pt-24 pb-10 lg:pb-16","children":[["$","nav",null,{"aria-label":"Breadcrumb","className":"text-sm text-slate mb-6","style":{"fontFamily":"var(--font-inter)"},"children":["$","ol",null,{"className":"flex flex-wrap gap-x-1.5 gap-y-1","children":[["$","li","Home",{"className":"flex items-center gap-1.5","children":[null,["$","$L2",null,{"href":"/","className":"text-horizon hover:text-sky-deep transition-colors","children":"Home"}]]}],["$","li","Paragliding shop",{"className":"flex items-center gap-1.5","children":[["$","span",null,{"className":"text-cloud","children":"/"}],["$","$L2",null,{"href":"/paragliding-shop","className":"text-horizon hover:text-sky-deep transition-colors","children":"Paragliding shop"}]]}],["$","li","Paragliders",{"className":"flex items-center gap-1.5","children":[["$","span",null,{"className":"text-cloud","children":"/"}],["$","$L2",null,{"href":"/paragliding-shop/paragliders","className":"text-horizon hover:text-sky-deep transition-colors","children":"Paragliders"}]]}],["$","li","DIVA",{"className":"flex items-center gap-1.5","children":[["$","span",null,{"className":"text-cloud","children":"/"}],["$","span",null,{"className":"text-soft-black font-medium","children":"DIVA"}]]}]]}]}],["$","header",null,{"className":"mb-10 max-w-prose","children":[["$","h1",null,{"className":"text-3xl sm:text-4xl font-bold text-teal-600 mb-2","style":{"fontFamily":"var(--font-inter)"},"children":"DIVA"}],["$","p",null,{"className":"text-slate text-lg leading-relaxed mb-4","style":{"fontFamily":"var(--font-inter)"},"children":"With 25 years of competition experience behind him, Bruce understands well the requirements of a good competition wing. The DIVA is the fastest and most advanced paraglider he has ever created. CCC certified,..."}],["$","$L2",null,{"href":"/contact","className":"inline-flex items-center justify-center px-5 py-3 text-teal-700 font-semibold underline","style":{"fontFamily":"var(--font-inter)"},"children":"Contact us"}]]}],["$","article",null,{"className":"bgd-product-html text-slate","style":{"fontFamily":"var(--font-inter)"},"dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}]}],["$L5"],"$L6"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"25hMhhWhkoJTha_Og-J0m"}
+4:["$","p",null,{"className":"text-xs text-slate/80 mt-10 pt-6 border-t border-cloud","style":{"fontFamily":"var(--font-inter)"},"children":"Product text and media mirror the public English materials from the manufacturer. In-page links to the manufacturer are disabled; use Contact us to reach our school. Always verify class ratings, weight ranges, and line plans for your size before you fly."}]
+5:["$","script","script-0",{"src":"/paragliding-school-copy/_next/static/chunks/06e6k8wjhv093.js","async":true}]
+6:["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]
+9:null

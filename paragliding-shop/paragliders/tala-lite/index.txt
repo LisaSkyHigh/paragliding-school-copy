@@ -1,0 +1,261 @@
+1:"$Sreact.fragment"
+2:I[93983,["/paragliding-school-copy/_next/static/chunks/0z~j7c7sl~_.k.js","/paragliding-school-copy/_next/static/chunks/08fct066p2nk~.js","/paragliding-school-copy/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+3:I[39756,["/paragliding-school-copy/_next/static/chunks/0z~j7c7sl~_.k.js","/paragliding-school-copy/_next/static/chunks/08fct066p2nk~.js","/paragliding-school-copy/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+4:I[37457,["/paragliding-school-copy/_next/static/chunks/0z~j7c7sl~_.k.js","/paragliding-school-copy/_next/static/chunks/08fct066p2nk~.js","/paragliding-school-copy/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
+5:I[22016,["/paragliding-school-copy/_next/static/chunks/0z~j7c7sl~_.k.js","/paragliding-school-copy/_next/static/chunks/08fct066p2nk~.js","/paragliding-school-copy/_next/static/chunks/0d3shmwh5_nmn.js","/paragliding-school-copy/_next/static/chunks/06e6k8wjhv093.js"],""]
+14:I[68027,["/paragliding-school-copy/_next/static/chunks/0z~j7c7sl~_.k.js","/paragliding-school-copy/_next/static/chunks/08fct066p2nk~.js","/paragliding-school-copy/_next/static/chunks/0d3shmwh5_nmn.js"],"default",1]
+:HL["/paragliding-school-copy/_next/static/chunks/0_e76tynrgfo4.css","style"]
+:HL["/paragliding-school-copy/_next/static/media/03bda585a99c6450-s.p.0zzh68k1~whtc.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/paragliding-school-copy/_next/static/media/0c89a48fa5027cee-s.p.0rd3rjvnnhw7n.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/paragliding-school-copy/_next/static/media/0c8f209abc35ee02-s.p.03rqv30url-~q.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/paragliding-school-copy/_next/static/media/83afe278b6a6bb3c-s.p.0q-301v4kxxnr.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/paragliding-school-copy/_next/static/media/caa3a2e1cccd8315-s.p.16t1db8_9y2o~.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"c":["","paragliding-shop","paragliders","tala-lite",""],"q":"","i":false,"f":[[["",{"children":["paragliding-shop",{"children":["paragliders",{"children":[["slug","tala-lite","d",null],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/paragliding-school-copy/_next/static/chunks/0_e76tynrgfo4.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/paragliding-school-copy/_next/static/chunks/0z~j7c7sl~_.k.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/paragliding-school-copy/_next/static/chunks/08fct066p2nk~.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/paragliding-school-copy/_next/static/chunks/0d3shmwh5_nmn.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"fraunces_6f47438b-module__eNxoNq__variable dm_serif_display_4153a466-module__vOKyKq__variable inter_3b580775-module__zj7OgG__variable space_grotesk_e4bc979e-module__PHIvCW__variable font-sans geist_da832ead-module__aN_Ytq__variable","children":["$","body",null,{"className":"bg-warm-white text-soft-black antialiased","children":[["$","$L2",null,{}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"bg-sky-deep text-warm-white","children":[["$","div",null,{"className":"layout-container py-16 lg:py-20","children":["$","div",null,{"className":"grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-10 lg:gap-12","children":[["$","div",null,{"className":"flex flex-col gap-4","children":[["$","$L5",null,{"href":"/","className":"font-bold text-xl text-warm-white tracking-tight hover:opacity-80 transition-opacity","style":{"fontFamily":"var(--font-fraunces)"},"children":"Paragliding School"}],["$","p",null,{"className":"text-sm text-cloud/70 leading-relaxed","style":{"fontFamily":"var(--font-inter)"},"children":"The paragliding school for people who mean it. International expeditions from P1 to Acrobatics."}],["$","div",null,{"className":"mt-2 inline-flex items-center gap-2 px-3 py-1.5 bg-white/10 border border-white/20 text-xs text-cloud/80 w-fit","style":{"fontFamily":"var(--font-inter)"},"children":[["$","svg",null,{"className":"w-4 h-4 text-amber","fill":"currentColor","viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"d":"M12 2L2 7v10c0 5.55 3.84 10.74 9 12 5.16-1.26 9-6.45 9-12V7L12 2z"}]}],"APPI Certified School"]}]]}],["$","div",null,{"children":[["$","h3",null,{"className":"text-xs font-medium uppercase tracking-widest text-cloud/50 mb-4","style":{"fontFamily":"var(--font-inter)"},"children":"Train"}],["$","ul",null,{"className":"flex flex-col gap-2.5","children":[["$","li","Your Path",{"children":["$","$L5",null,{"href":"/become-a-pilot/your-path","className":"text-sm text-cloud/75 hover:text-warm-white transition-colors","style":{"fontFamily":"var(--font-inter)"},"children":"Your Path"}]}],["$","li","Foundation P1/P2",{"children":["$","$L5",null,{"href":"/become-a-pilot/foundation","className":"text-sm text-cloud/75 hover:text-warm-white transition-colors","style":{"fontFamily":"var(--font-inter)"},"children":"Foundation P1/P2"}]}],"$L6","$L7","$L8","$L9","$La"]}]]}],"$Lb","$Lc"]}]}],"$Ld"]}]]}]}]]}],{"children":["$Le",{"children":["$Lf",{"children":["$L10",{"children":["$L11",{},null,false,null]},null,false,"$@12"]},null,false,"$@12"]},null,false,"$@12"]},null,false,null],"$L13",false]],"m":"$undefined","G":["$14",["$L15"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"25hMhhWhkoJTha_Og-J0m"}
+17:I[97367,["/paragliding-school-copy/_next/static/chunks/0z~j7c7sl~_.k.js","/paragliding-school-copy/_next/static/chunks/08fct066p2nk~.js","/paragliding-school-copy/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+18:"$Sreact.suspense"
+1b:I[97367,["/paragliding-school-copy/_next/static/chunks/0z~j7c7sl~_.k.js","/paragliding-school-copy/_next/static/chunks/08fct066p2nk~.js","/paragliding-school-copy/_next/static/chunks/0d3shmwh5_nmn.js"],"ViewportBoundary"]
+1d:I[97367,["/paragliding-school-copy/_next/static/chunks/0z~j7c7sl~_.k.js","/paragliding-school-copy/_next/static/chunks/08fct066p2nk~.js","/paragliding-school-copy/_next/static/chunks/0d3shmwh5_nmn.js"],"MetadataBoundary"]
+6:["$","li","Build Your Hours",{"children":["$","$L5",null,{"href":"/become-a-pilot/build-hours","className":"text-sm text-cloud/75 hover:text-warm-white transition-colors","style":{"fontFamily":"var(--font-inter)"},"children":"Build Your Hours"}]}]
+7:["$","li","SIV Course",{"children":["$","$L5",null,{"href":"/become-a-pilot/siv-safety","className":"text-sm text-cloud/75 hover:text-warm-white transition-colors","style":{"fontFamily":"var(--font-inter)"},"children":"SIV Course"}]}]
+8:["$","li","XC Flying",{"children":["$","$L5",null,{"href":"/become-a-pilot/xc-flying","className":"text-sm text-cloud/75 hover:text-warm-white transition-colors","style":{"fontFamily":"var(--font-inter)"},"children":"XC Flying"}]}]
+9:["$","li","Acrobatics",{"children":["$","$L5",null,{"href":"/become-a-pilot/acrobatics","className":"text-sm text-cloud/75 hover:text-warm-white transition-colors","style":{"fontFamily":"var(--font-inter)"},"children":"Acrobatics"}]}]
+a:["$","li","Certification",{"children":["$","$L5",null,{"href":"/become-a-pilot/certification","className":"text-sm text-cloud/75 hover:text-warm-white transition-colors","style":{"fontFamily":"var(--font-inter)"},"children":"Certification"}]}]
+b:["$","div",null,{"children":[["$","h3",null,{"className":"text-xs font-medium uppercase tracking-widest text-cloud/50 mb-4","style":{"fontFamily":"var(--font-inter)"},"children":"Fly"}],["$","ul",null,{"className":"flex flex-col gap-2.5","children":[["$","li","All Expeditions",{"children":["$","$L5",null,{"href":"/expeditions/calendar","className":"text-sm text-cloud/75 hover:text-warm-white transition-colors","style":{"fontFamily":"var(--font-inter)"},"children":"All Expeditions"}]}],["$","li","🇨🇴 Colombia",{"children":["$","$L5",null,{"href":"/expeditions/colombia","className":"text-sm text-cloud/75 hover:text-warm-white transition-colors","style":{"fontFamily":"var(--font-inter)"},"children":"🇨🇴 Colombia"}]}],["$","li","🇲🇦 Morocco",{"children":["$","$L5",null,{"href":"/expeditions/morocco","className":"text-sm text-cloud/75 hover:text-warm-white transition-colors","style":{"fontFamily":"var(--font-inter)"},"children":"🇲🇦 Morocco"}]}],["$","li","🇹🇷 Turkey SIV",{"children":["$","$L5",null,{"href":"/expeditions/turkey-siv","className":"text-sm text-cloud/75 hover:text-warm-white transition-colors","style":{"fontFamily":"var(--font-inter)"},"children":"🇹🇷 Turkey SIV"}]}],["$","li","🇲🇰 Macedonia",{"children":["$","$L5",null,{"href":"/expeditions/macedonia","className":"text-sm text-cloud/75 hover:text-warm-white transition-colors","style":{"fontFamily":"var(--font-inter)"},"children":"🇲🇰 Macedonia"}]}],["$","li","🇮🇳 Himalayas",{"children":["$","$L5",null,{"href":"/expeditions/himalayas","className":"text-sm text-cloud/75 hover:text-warm-white transition-colors","style":{"fontFamily":"var(--font-inter)"},"children":"🇮🇳 Himalayas"}]}],["$","li","🇹🇷 Turkey Acro",{"children":["$","$L5",null,{"href":"/expeditions/turkey-acrobatics","className":"text-sm text-cloud/75 hover:text-warm-white transition-colors","style":{"fontFamily":"var(--font-inter)"},"children":"🇹🇷 Turkey Acro"}]}]]}]]}]
+c:["$","div",null,{"children":[["$","h3",null,{"className":"text-xs font-medium uppercase tracking-widest text-cloud/50 mb-4","style":{"fontFamily":"var(--font-inter)"},"children":"Company"}],["$","ul",null,{"className":"flex flex-col gap-2.5","children":[["$","li","Our Mission",{"children":["$","$L5",null,{"href":"/about/our-mission","className":"text-sm text-cloud/75 hover:text-warm-white transition-colors","style":{"fontFamily":"var(--font-inter)"},"children":"Our Mission"}]}],["$","li","Stories",{"children":["$","$L5",null,{"href":"/stories","className":"text-sm text-cloud/75 hover:text-warm-white transition-colors","style":{"fontFamily":"var(--font-inter)"},"children":"Stories"}]}],["$","li","Field Notes",{"children":["$","$L5",null,{"href":"/stories/field-notes","className":"text-sm text-cloud/75 hover:text-warm-white transition-colors","style":{"fontFamily":"var(--font-inter)"},"children":"Field Notes"}]}],["$","li","Gear",{"children":["$","$L5",null,{"href":"/gear","className":"text-sm text-cloud/75 hover:text-warm-white transition-colors","style":{"fontFamily":"var(--font-inter)"},"children":"Gear"}]}],["$","li","Contact",{"children":["$","$L5",null,{"href":"/contact","className":"text-sm text-cloud/75 hover:text-warm-white transition-colors","style":{"fontFamily":"var(--font-inter)"},"children":"Contact"}]}],["$","li","Apply",{"children":["$","$L5",null,{"href":"/apply","className":"text-sm text-cloud/75 hover:text-warm-white transition-colors","style":{"fontFamily":"var(--font-inter)"},"children":"Apply"}]}]]}]]}]
+d:["$","div",null,{"className":"border-t border-white/10","children":["$","div",null,{"className":"layout-container py-6 flex flex-col sm:flex-row items-center justify-between gap-4 flex-wrap","children":[["$","p",null,{"className":"text-xs text-cloud/50 order-2 sm:order-1","style":{"fontFamily":"var(--font-inter)"},"children":["© ",2026," Paragliding School. All rights reserved."]}],["$","div",null,{"className":"flex items-center gap-4 text-xs text-cloud/50 order-3 sm:order-2 flex-wrap","style":{"fontFamily":"var(--font-inter)"},"children":[["$","$L5",null,{"href":"/terms","className":"hover:text-warm-white transition-colors","children":"Terms"}],["$","$L5",null,{"href":"/privacy","className":"hover:text-warm-white transition-colors","children":"Privacy"}],["$","$L5",null,{"href":"/refund-policy","className":"hover:text-warm-white transition-colors","children":"Refund Policy"}],["$","$L5",null,{"href":"/waiver","className":"hover:text-warm-white transition-colors","children":"Waiver"}]]}],["$","div",null,{"className":"flex items-center gap-3 order-1 sm:order-3","children":[["$","$L5","Instagram",{"href":"#","className":"text-cloud/50 hover:text-warm-white transition-colors","aria-label":"Instagram","children":["$","svg",null,{"className":"w-5 h-5","fill":"currentColor","viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"d":"M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zM12 0C8.741 0 8.333.014 7.053.072 2.695.272.273 2.69.073 7.052.014 8.333 0 8.741 0 12c0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98C8.333 23.986 8.741 24 12 24c3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98C15.668.014 15.259 0 12 0zm0 5.838a6.162 6.162 0 100 12.324 6.162 6.162 0 000-12.324zM12 16a4 4 0 110-8 4 4 0 010 8zm6.406-11.845a1.44 1.44 0 100 2.881 1.44 1.44 0 000-2.881z"}]}]}],["$","$L5","YouTube",{"href":"#","className":"text-cloud/50 hover:text-warm-white transition-colors","aria-label":"YouTube","children":["$","svg",null,{"className":"w-5 h-5","fill":"currentColor","viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"d":"M23.498 6.186a3.016 3.016 0 00-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 00.502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 002.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 002.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"}]}]}]]}]]}]}]
+e:["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+f:["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+10:["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+11:["$","$1","c",{"children":["$L16",[["$","script","script-0",{"src":"/paragliding-school-copy/_next/static/chunks/06e6k8wjhv093.js","async":true,"nonce":"$undefined"}]],["$","$L17",null,{"children":["$","$18",null,{"name":"Next.MetadataOutlet","children":"$@19"}]}]]}]
+1a:[]
+12:"$W1a"
+13:["$","$1","h",{"children":[null,["$","$L1b",null,{"children":"$L1c"}],["$","div",null,{"hidden":true,"children":["$","$L1d",null,{"children":["$","$18",null,{"name":"Next.Metadata","children":"$L1e"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+15:["$","link","0",{"rel":"stylesheet","href":"/paragliding-school-copy/_next/static/chunks/0_e76tynrgfo4.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+1f:T2cae,
+
+<div class="bgd-embed-section" data-bgd-section="informations"><div class="container">
+            	<div class="row">
+                	<div class="col-lg-6">
+						
+                        
+                        			<h2>Specs</h2>
+			<div class="table-responsive">
+				<table class="table table-sm table-option-border-bottom col_size_3" cols="3">
+					<thead>
+						<tr>
+							<th scope="col" class="libelle">&nbsp;</th>
+							<th scope="col">S</th>
+							<th scope="col">M</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<th scope="row">Linear scaling factor</th>
+							<td>1</td>
+							<td>1.03</td>
+						</tr>
+						<tr>
+							<th scope="row">Projected area (m²)</th>
+							<td>19.5</td>
+							<td>20.7</td>
+						</tr>
+						<tr>
+							<th scope="row">Flat area (m²)</th>
+							<td>23.3</td>
+							<td>24.8</td>
+						</tr>
+						<tr>
+							<th scope="row">Glider weight (kg)</th>
+							<td>3.8</td>
+							<td>4</td>
+						</tr>
+						<tr>
+							<th scope="row">Total line length (m)</th>
+							<td>224</td>
+							<td>238</td>
+						</tr>
+						<tr>
+							<th scope="row">Height (m)</th>
+							<td>7.1</td>
+							<td>7.44</td>
+						</tr>
+						<tr>
+							<th scope="row">Number of main lines (A/B/C)</th>
+							<td colspan="2">3/4/3</td>
+						</tr>
+						<tr>
+							<th scope="row">Cells</th>
+							<td colspan="2">50</td>
+						</tr>
+						<tr>
+							<th scope="row">Flat aspect ratio</th>
+							<td colspan="2">6.3</td>
+						</tr>
+						<tr>
+							<th scope="row">Projected aspect ratio</th>
+							<td colspan="2">4.7</td>
+						</tr>
+						<tr>
+							<th scope="row">Root chord (m)</th>
+							<td>2.4</td>
+							<td>2.5</td>
+						</tr>
+						<tr>
+							<th scope="row">Flat span (m)</th>
+							<td>12.2</td>
+							<td>12.5</td>
+						</tr>
+						<tr>
+							<th scope="row">Projected span (m)</th>
+							<td colspan="2">9.6</td>
+						</tr>
+						<tr>
+							<th scope="row">Trim speed (km/h)</th>
+							<td colspan="2">39</td>
+						</tr>
+						<tr>
+							<th scope="row">Top speed (km/h)</th>
+							<td colspan="2">57</td>
+						</tr>
+						<tr>
+							<th scope="row">Min sink (m/s)</th>
+							<td colspan="2">1</td>
+						</tr>
+						<tr>
+							<th scope="row">Best glide</th>
+							<td colspan="2">10</td>
+						</tr>
+						<tr>
+							<th scope="col">Certified weight range (kg)</th>
+							<td>65-90</td>
+							<td>80-100</td>
+						</tr>
+						<tr>
+							<th scope="row">Certification (EN/LTF)</th>
+							<td colspan="2">C</td>
+						</tr>
+					</tbody>
+				</table>
+				</div>
+
+                    </div>
+                    
+                    <div class="col-lg-5 offset-lg-1">
+                    	 <div id="informations_right">
+                         	<div class="informations_text">
+                            	<h2>Info</h2>
+                             	<p>Extra water, food or beer could make up for the almost 1.1 kg of weight we have skimmed off the TALA (without losing much durability). With a mix of carefully allocated 27, 34, and 40 gram cloth the EN-C certified TALA LITE feels like its parent – a reassuring three-liner with safe, fun and efficient characteristics.</p>
+                            </div>
+							 							<div class="informations_picture">
+								<img width="283" height="283" src="https://cdn.flybgd.com/files/photo/svg/1561065948-3733.svg?v=1561065948" loading="lazy" decoding="async" /><noscript><img src="https://cdn.flybgd.com/files/photo/svg/1561065948-3733.svg?v=1561065948" width="283" height="283" /></noscript>
+							</div>
+                         </div>
+                    </div>
+                </div>   
+          	</div>
+		</section>  
+        
+        
+                <div class="spt-trackThis"></div></div>
+<div class="bgd-embed-section" data-bgd-section="features"><div class="features_layer lazy" data-bg="url(https://cdn.flybgd.com/files/photo/svg/1561065940-7887.svg?v=1561065940)"></div>
+            <div class="container">
+            	<div class="row">
+                	
+                    <div class="col-lg-6 col-xl-6">
+                    	<div class="features-picture">
+                    					<div class="feature_img">
+					<img width="720" height="720" src="https://cdn.flybgd.com/files/photo/carre/1561067177-1942.png?v=1561067182" loading="lazy" decoding="async" /><noscript><img src="https://cdn.flybgd.com/files/photo/carre/1561067177-1942.png?v=1561067182" width="720" height="720" /></noscript>
+				</div>
+				<a href="#" id="btn-features-43" class="btn-features active " style="top: 3%; left:65%;" data-feature-id="43" data-title="Chord Cut Billow (CCB)">+</a>
+				<a href="#" id="btn-features-860" class="btn-features  full_right" style="top: 1%; left:100%;" data-feature-id="860" data-title="BGD Feedback">+</a>
+				<a href="#" id="btn-features-866" class="btn-features  " style="top: 50%; left:50%;" data-feature-id="866" data-title="Integrated Line Layout">+</a>
+				<a href="#" id="btn-features-774" class="btn-features  " style="top: 45%; left:10%;" data-feature-id="774" data-title="Progressive Stability">+</a>
+                    	</div>
+                    </div>
+                    
+                    <div class="col-lg-5 offset-lg-1"><!-- col-xl-6  offset-xl-0 -->
+                    	<h2>Tech</h2>
+                        
+                        				<div class="feature active" data-feature-id="43">
+				<div class="feature-image">
+					<div class="embed-file on"><div class="embed-content"><div class="embed-container " data-bg="url(https://cdn.flybgd.com/files/photo/thumbail/1551023903-1019.jpg?v=1553794187)">
+	<iframe id="478bc40f1184a4b49fe96e04f753269d" class="" src="https://player.vimeo.com/video/364287205?title=0&amp;byline=0&amp;portrait=0&amp;color=bb202f&autoplay=1&autopause=0&loop=1&muted=1&background=1" allowfullscreen allow="autoplay" muted="muted"></iframe></div></div></div>
+				</div>
+				<h3 class="feature-title">Chord Cut Billow (CCB)</h3>
+				<div class="">
+					Chord Cut Billow technology has been developed to improve the form friction, glider stability and overall performance of our paragliders. Two seams run chord-wise across the top panels of the leading edge. They accommodate the panel ballooning that happens when the wing is inflated. Without CCB, up to five centimetres of excess material is created on the sides of an inflated flat panel when it bends over a wing profile. This results in wrinkles. Chord Cut Billow technology removes this excess material and the 3D panel has fewer ripples and improved rib profile shape and stability.
+
+				</div>
+				</div>
+				<div class="feature " data-feature-id="860">
+				<div class="feature-image">
+					<img src="https://cdn.flybgd.com/files/photo/thumbail/1558108590-3448.jpg?v=1558108590" width="800" height="400" />
+				</div>
+				<h3 class="feature-title">BGD Feedback</h3>
+				<div class="">
+					Gliders that talk are safer. Safer gliders make pilots perform better. Better performing pilots fly further. Further flying pilots are happier pilots. BGD Feedback produces happier pilots!
+				</div>
+				</div>
+				<div class="feature " data-feature-id="866">
+				<div class="feature-image">
+					<img src="https://cdn.flybgd.com/files/photo/thumbail/1557845000-0936.jpg?v=1557845000" width="800" height="400" />
+				</div>
+				<h3 class="feature-title">Integrated Line Layout</h3>
+				<div class="">
+					The line layout of our gliders is fully integrated into the wing design. Sail and lines are designed together, holistically. The cell widths and the internal straps that transfer the load though the sail are all designed according to the line layout. Even the panel shaping is matched with the line layout through detailed CAD simulation. The result is simple: fewer lines and stronger, faster, safer gliders.
+				</div>
+				</div>
+				<div class="feature " data-feature-id="774">
+				<div class="feature-image">
+					<img src="https://cdn.flybgd.com/files/photo/thumbail/1649940470-4868.jpg?v=1649940470" width="800" height="400" />
+				</div>
+				<h3 class="feature-title">Progressive Stability</h3>
+				<div class="">
+					Using our Parasim simulation program, BGD gliders are designed to have a stable and solid centre with progressively softer tips. This teaches pilots to predict and avoid deflations and stay aware of the air.
+
+				</div>
+				</div>
+                         
+                        
+                    </div>
+                </div>   
+          	</div>
+		</section> 
+        
+        
+        <div class="spt-trackThis"></div></div>
+<div class="bgd-embed-section" data-bgd-section="target"><div class="container">
+            	<div class="row">
+                	<div class="col-lg-6">
+                    	 <h2>Target</h2>
+                         <p>If you have a lightweight tent, a -10 degree sleeping bag, a gas burner, a reversible harness, a GPS tracker and a flexible job, the TALA LITE is your paraglider. The TALA LITE is designed specifically for the adventurer in you. Its performance, safety and weight are ideal for those long isolated vol-bivouac flights. High up on an alpine summit, the TALA LITE will be your best companion.</p>
+                         
+                         <br />
+                         <h2>Designer's notes</h2>
+                         <p>In 1985, Brian Milton and I founded the 444 Club. We wanted members to attempt to follow migratory birds for 444 km across the Alps. Nobody accomplished the goal with the early hang gliders but I have always wanted to design a paraglider that could. The TALA LITE is the tool for the modern-day 444 Club member. <br/><br/>Like the TALA, the TALA LITE is a wing that has a low cell count (Simple Cells) and a very clean leading edge (Cord Cut Billow) making the low cell count (50 cells) feasible thus reducing the weight, line consumption and complexity of the paraglider. The TALA LITE is a true three-liner from top to bottom. It has three main lines in the span-wise direction and only two levels of lines on the first and second main lines. The third main lines split twice making big ears easy and effective. The TALA LITE only has 238m of total line, which is close to most two-liners.</p>
+
+                    </div>
+                    
+                	<div class="col-lg-5 offset-lg-1">
+                    	<div class="target-flyingstyle">
+                            <h3>Flying <strong>Level / Style</strong></h3>
+                            
+                            					<input id="flying_level" type="text" data-provide="slider"	data-slider-ticks="[0, 5, 10]" data-slider-ticks-labels='["Beginner", "Intermediate", "Advanced"]' data-slider-min="0" data-slider-max="10" data-slider-step="1" data-slider-value="[6, 9]" data-slider-tooltip="hide" data-slider-enabled="false" data-slider-id="flying_level_slider" />
+					<br><br><br><br>
+							
+							
+                            
+                            			<h3 class="mb" style="margin-top:40px">Package includes</h3>
+Paraglider / Compression strap / Riser bag / Inner bag / Rucksack / Repair cloth / BGD gift
+                    	</div>
+                    </div>
+                    
+                    
+                </div>   
+          	</div>
+		</section></div>16:["$","div",null,{"className":"bg-warm-white min-h-screen","children":["$","div",null,{"className":"layout-container max-w-6xl pt-20 lg:pt-24 pb-10 lg:pb-16","children":[["$","nav",null,{"aria-label":"Breadcrumb","className":"text-sm text-slate mb-6","style":{"fontFamily":"var(--font-inter)"},"children":["$","ol",null,{"className":"flex flex-wrap gap-x-1.5 gap-y-1","children":[["$","li","Home",{"className":"flex items-center gap-1.5","children":[null,["$","$L5",null,{"href":"/","className":"text-horizon hover:text-sky-deep transition-colors","children":"Home"}]]}],["$","li","Paragliding shop",{"className":"flex items-center gap-1.5","children":[["$","span",null,{"className":"text-cloud","children":"/"}],["$","$L5",null,{"href":"/paragliding-shop","className":"text-horizon hover:text-sky-deep transition-colors","children":"Paragliding shop"}]]}],["$","li","Paragliders",{"className":"flex items-center gap-1.5","children":[["$","span",null,{"className":"text-cloud","children":"/"}],["$","$L5",null,{"href":"/paragliding-shop/paragliders","className":"text-horizon hover:text-sky-deep transition-colors","children":"Paragliders"}]]}],["$","li","TALA LITE",{"className":"flex items-center gap-1.5","children":[["$","span",null,{"className":"text-cloud","children":"/"}],["$","span",null,{"className":"text-soft-black font-medium","children":"TALA LITE"}]]}]]}]}],["$","header",null,{"className":"mb-10 max-w-prose","children":[["$","h1",null,{"className":"text-3xl sm:text-4xl font-bold text-teal-600 mb-2","style":{"fontFamily":"var(--font-inter)"},"children":"TALA LITE"}],["$","p",null,{"className":"text-slate text-lg leading-relaxed mb-4","style":{"fontFamily":"var(--font-inter)"},"children":"Extra water, food or beer could make up for the almost 1.1 kg of weight we have skimmed off the TALA (without losing much durability). With a mix of carefully allocated 27, 34, and 40 gram cloth the EN-C..."}],["$","$L5",null,{"href":"/contact","className":"inline-flex items-center justify-center px-5 py-3 text-teal-700 font-semibold underline","style":{"fontFamily":"var(--font-inter)"},"children":"Contact us"}]]}],["$","article",null,{"className":"bgd-product-html text-slate","style":{"fontFamily":"var(--font-inter)"},"dangerouslySetInnerHTML":{"__html":"$1f"}}],"$L20"]}]}]
+20:["$","p",null,{"className":"text-xs text-slate/80 mt-10 pt-6 border-t border-cloud","style":{"fontFamily":"var(--font-inter)"},"children":"Product text and media mirror the public English materials from the manufacturer. In-page links to the manufacturer are disabled; use Contact us to reach our school. Always verify class ratings, weight ranges, and line plans for your size before you fly."}]
+1c:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+21:I[27201,["/paragliding-school-copy/_next/static/chunks/0z~j7c7sl~_.k.js","/paragliding-school-copy/_next/static/chunks/08fct066p2nk~.js","/paragliding-school-copy/_next/static/chunks/0d3shmwh5_nmn.js"],"IconMark"]
+19:null
+1e:[["$","title","0",{"children":"Tala Lite | Paragliding School"}],["$","meta","1",{"name":"description","content":"Extra water, food or beer could make up for the almost 1.1 kg of weight we have skimmed off the TALA (without losing much durability). With a mix of carefully allocated 27, 34, and 40 gram cloth the EN-C..."}],["$","meta","2",{"name":"robots","content":"index, follow"}],["$","link","3",{"rel":"canonical","href":"https://lisaskyhigh.github.io/paragliding-school-copy/paragliding-shop/paragliders/tala-lite/"}],["$","meta","4",{"property":"og:title","content":"Tala Lite"}],["$","meta","5",{"property":"og:description","content":"Extra water, food or beer could make up for the almost 1.1 kg of weight we have skimmed off the TALA (without losing much durability). With a mix of carefully allocated 27, 34, and 40 gram cloth the EN-C..."}],["$","meta","6",{"property":"og:url","content":"https://lisaskyhigh.github.io/paragliding-school-copy/paragliding-shop/paragliders/tala-lite/"}],["$","meta","7",{"property":"og:site_name","content":"Paragliding School"}],["$","meta","8",{"property":"og:locale","content":"en_US"}],["$","meta","9",{"property":"og:image","content":"https://lisaskyhigh.github.io/paragliding-school-copy/og-default.jpg"}],["$","meta","10",{"property":"og:image:width","content":"1200"}],["$","meta","11",{"property":"og:image:height","content":"630"}],["$","meta","12",{"property":"og:image:alt","content":"Tala Lite"}],["$","meta","13",{"property":"og:type","content":"website"}],["$","meta","14",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","15",{"name":"twitter:title","content":"Tala Lite"}],["$","meta","16",{"name":"twitter:description","content":"Extra water, food or beer could make up for the almost 1.1 kg of weight we have skimmed off the TALA (without losing much durability). With a mix of carefully allocated 27, 34, and 40 gram cloth the EN-C..."}],["$","meta","17",{"name":"twitter:image","content":"https://lisaskyhigh.github.io/paragliding-school-copy/og-default.jpg"}],["$","link","18",{"rel":"icon","href":"/paragliding-school-copy/favicon.ico?favicon.0x3dzn~oxb6tn.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L21","19",{}]]

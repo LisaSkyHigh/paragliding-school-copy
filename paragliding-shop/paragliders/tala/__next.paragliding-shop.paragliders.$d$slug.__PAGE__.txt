@@ -1,0 +1,373 @@
+1:"$Sreact.fragment"
+2:I[22016,["/paragliding-school-copy/_next/static/chunks/0z~j7c7sl~_.k.js","/paragliding-school-copy/_next/static/chunks/08fct066p2nk~.js","/paragliding-school-copy/_next/static/chunks/0d3shmwh5_nmn.js","/paragliding-school-copy/_next/static/chunks/06e6k8wjhv093.js"],""]
+7:I[97367,["/paragliding-school-copy/_next/static/chunks/0z~j7c7sl~_.k.js","/paragliding-school-copy/_next/static/chunks/08fct066p2nk~.js","/paragliding-school-copy/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+3:T4929,<div class="bgd-embed-section" data-bgd-section="introduction"><div class="container">
+            	<div class="row">
+                	<div class="col-lg-12">
+                    	<div class="tagline">- Performance meets simplicity -</div>
+                    </div>
+                </div>
+                
+                <div class="row reverse_position_lg">
+                	<div class="col-lg-6">
+                    	<div class="row">
+                        	<div class="col-md-12">
+                                <div class="anim3d">
+                                							<div class="main_picture_sel active" id="main_picture_sel_904">
+								<img src="https://cdn.flybgd.com/files/photo/carre/1561053458-4231.png?v=1561053463" width="720" height="720" alt="Caipirinha" title="Caipirinha" />
+							</div>
+							<div class="main_picture_sel" id="main_picture_sel_905">
+								<img src="https://cdn.flybgd.com/files/photo/carre/1561053522-6244.png?v=1561053527" width="720" height="720" alt="Licorice" title="Licorice" />
+							</div>
+							<div class="main_picture_sel" id="main_picture_sel_908">
+								<img src="https://cdn.flybgd.com/files/photo/carre/1561053936-6098.png?v=1561053941" width="720" height="720" alt="Melon" title="Melon" />
+							</div>
+							<div class="main_picture_sel" id="main_picture_sel_906">
+								<img src="https://cdn.flybgd.com/files/photo/carre/1561053568-1949.png?v=1561053573" width="720" height="720" alt="Ocean" title="Ocean" />
+							</div>
+							<div class="main_picture_sel" id="main_picture_sel_907">
+								<img src="https://cdn.flybgd.com/files/photo/carre/1561053649-9831.png?v=1561053654" width="720" height="720" alt="Sun" title="Sun" />
+							</div>
+  
+                                </div>
+							</div>
+                        </div>
+                        
+                        <div class="row">
+                        	<div class="col-md-12">
+                                <div class="couleurs">
+                                							<div class='panel_3d_options'>
+								<div class='panel_3d_options_selector' onmouseup='switch_product_color(904)' onmouseover='switch_product_color(904)'><img src="https://cdn.flybgd.com/files/photo/mini/1561053458-4231.png?v=1561053462" width="250" height="250" alt="Caipirinha" title="Caipirinha" /><span>Caipirinha</span></div>
+								<div class='panel_3d_options_selector' onmouseup='switch_product_color(905)' onmouseover='switch_product_color(905)'><img src="https://cdn.flybgd.com/files/photo/mini/1561053522-6244.png?v=1561053526" width="250" height="250" alt="Licorice" title="Licorice" /><span>Licorice</span></div>
+								<div class='panel_3d_options_selector' onmouseup='switch_product_color(908)' onmouseover='switch_product_color(908)'><img src="https://cdn.flybgd.com/files/photo/mini/1561053936-6098.png?v=1561053940" width="250" height="250" alt="Melon" title="Melon" /><span>Melon</span></div>
+								<div class='panel_3d_options_selector' onmouseup='switch_product_color(906)' onmouseover='switch_product_color(906)'><img src="https://cdn.flybgd.com/files/photo/mini/1561053568-1949.png?v=1561053572" width="250" height="250" alt="Ocean" title="Ocean" /><span>Ocean</span></div>
+								<div class='panel_3d_options_selector' onmouseup='switch_product_color(907)' onmouseover='switch_product_color(907)'><img src="https://cdn.flybgd.com/files/photo/mini/1561053649-9831.png?v=1561053653" width="250" height="250" alt="Sun" title="Sun" /><span>Sun</span></div>
+							</div>
+  
+                                </div>
+							</div>
+                        </div>
+                    </div>
+                     
+                    <div class="col-lg-5 offset-lg-1">
+                    	<div class="row">
+                            <div class="col-12">
+                                <h1>Tala</h1>
+                                <h2>EN/LTF-C</h2>
+                            </div>
+                            <div class="col-12">
+                                <p>The TALA is a reassuring three-liner for XC pilots who want great performance in a fun glider that is safe, simple, and lightweight.</p>
+                            </div>
+                        </div>
+                        <div class="row">
+                        	<div class="col-12">
+													<ul class="features_summary">
+							<li><a href="#features" class="btn-features-top scroll_to" data-feature-id="43" data-title="Chord Cut Billow (CCB)">Chord Cut Billow (CCB)</a></li>
+							<li><a href="#features" class="btn-features-top scroll_to" data-feature-id="774" data-title="Progressive Stability">Progressive Stability</a></li>
+							<li><a href="#features" class="btn-features-top scroll_to" data-feature-id="865" data-title="Snap Locks">Snap Locks</a></li>
+					</ul>
+                                
+                                <a href="#informations" class="btn btn-secondary btn-lg scroll_to">Read more</a>
+                                <a href="#" data-bgd-stay="1" class="btn btn-primary btn-lg scroll_to">Free demo</a>
+                                
+                                
+                        	</div>
+                        </div>
+                        
+                        							
+                         <div class="echelle_size">
+                             <div class="row">
+                                <div class="col-sm-3 col-lg-4">   
+                                     <h2>Size</h2>
+                                     <p class="metres">m²</p>
+                                </div>
+                                <div class="col-sm-9 col-lg-8">   
+                                    
+                                    			<div class="table-responsive">
+				<table class="table table-sm table-option-no-border-top">
+					<tbody>
+						<tr>
+							<td style="width: 25%"><strong>S</strong></td>
+							<td style="width: 25%"><strong>M</strong></td>
+							<td style="width: 25%"><strong>ML</strong></td>
+							<td style="width: 25%"><strong>L</strong></td>
+						</tr>
+						<tr>
+							<td>23</td>
+							<td>25</td>
+							<td>26</td>
+							<td>27</td>
+						</tr>
+					</tbody>
+				</table>
+				</div>
+                                </div>
+                    		</div>
+                        </div>
+                                                </div>
+                    
+                </div>
+            </div>
+		</section>
+        
+        
+          
+        
+        
+        
+                <div class="spt-trackThis"></div></div>
+<div class="bgd-embed-section" data-bgd-section="video"><div class="container">
+            	<div class="row">
+                	<div class="col-md-12">
+                    	<div class="embed-file on"><div class="embed-content"><div class="embed-container lazy " >
+	<iframe id="0fc9128e21e83934bd140880c77a5153" class="lazy "  src="https://player.vimeo.com/video/343507272?title=0&amp;byline=0&amp;portrait=0&amp;color=bb202f" allowfullscreen loading="lazy" title="Video"></iframe></div></div></div>                    </div>
+                </div>   
+          	</div>
+		</section>  
+        
+         
+        
+        
+        
+        
+        <div class="spt-trackThis"></div></div>
+<div class="bgd-embed-section" data-bgd-section="informations"><div class="container">
+            	<div class="row">
+                	<div class="col-lg-6">
+						
+                        
+                        			<h2>Specs</h2>
+			<div class="table-responsive">
+				<table class="table table-sm table-option-border-bottom col_size_5" cols="5">
+					<thead>
+						<tr>
+							<th scope="col" class="libelle">&nbsp;</th>
+							<th scope="col">S</th>
+							<th scope="col">M</th>
+							<th scope="col">ML</th>
+							<th scope="col">L</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<th scope="row">Linear scaling factor</th>
+							<td>0.97</td>
+							<td>1</td>
+							<td>1.03</td>
+							<td>1.05</td>
+						</tr>
+						<tr>
+							<th scope="row">Projected area (m²)</th>
+							<td>19.5</td>
+							<td>20.7</td>
+							<td>21.8</td>
+							<td>22.9</td>
+						</tr>
+						<tr>
+							<th scope="row">Flat area (m²)</th>
+							<td>23.3</td>
+							<td>24.8</td>
+							<td>26</td>
+							<td>27.3</td>
+						</tr>
+						<tr>
+							<th scope="row">Glider weight (kg)</th>
+							<td>4.6</td>
+							<td>4.9</td>
+							<td>5.1</td>
+							<td>5.4</td>
+						</tr>
+						<tr>
+							<th scope="row">Total line length (m)</th>
+							<td>224</td>
+							<td>238</td>
+							<td>250</td>
+							<td>262</td>
+						</tr>
+						<tr>
+							<th scope="row">Height (m)</th>
+							<td>7.1</td>
+							<td>7.4</td>
+							<td>7.6</td>
+							<td>7.8</td>
+						</tr>
+						<tr>
+							<th scope="row">Number of main lines (A/B/C)</th>
+							<td colspan="4">3/4/3</td>
+						</tr>
+						<tr>
+							<th scope="row">Cells</th>
+							<td colspan="4">50</td>
+						</tr>
+						<tr>
+							<th scope="row">Flat aspect ratio</th>
+							<td colspan="4">6.3</td>
+						</tr>
+						<tr>
+							<th scope="row">Projected aspect ratio</th>
+							<td colspan="4">4.7</td>
+						</tr>
+						<tr>
+							<th scope="row">Root chord (m)</th>
+							<td>2.41</td>
+							<td>2.5</td>
+							<td>2.54</td>
+							<td>2.6</td>
+						</tr>
+						<tr>
+							<th scope="row">Flat span (m)</th>
+							<td>12.2</td>
+							<td>12.6</td>
+							<td>12.9</td>
+							<td>13.2</td>
+						</tr>
+						<tr>
+							<th scope="row">Projected span (m)</th>
+							<td>9.6</td>
+							<td>9.9</td>
+							<td>10.2</td>
+							<td>10.4</td>
+						</tr>
+						<tr>
+							<th scope="row">Trim speed (km/h)</th>
+							<td colspan="4">39</td>
+						</tr>
+						<tr>
+							<th scope="row">Top speed (km/h)</th>
+							<td colspan="4">57</td>
+						</tr>
+						<tr>
+							<th scope="row">Min sink (m/s)</th>
+							<td colspan="4">1</td>
+						</tr>
+						<tr>
+							<th scope="row">Best glide</th>
+							<td colspan="4">10</td>
+						</tr>
+						<tr>
+							<th scope="col">Certified weight range (kg)</th>
+							<td>65-85</td>
+							<td>80-100</td>
+							<td>90-112</td>
+							<td>105-125</td>
+						</tr>
+						<tr>
+							<th scope="row">Certification (EN/LTF)</th>
+							<td colspan="4">C</td>
+						</tr>
+					</tbody>
+				</table>
+				</div>
+
+                    </div>
+                    
+                    <div class="col-lg-5 offset-lg-1">
+                    	 <div id="informations_right">
+                         	<div class="informations_text">
+                            	<h2>Info</h2>
+                             	<p>The TALA is a reassuring three liner for XC pilots who want the great performance in a fun glider that is safe, simple, and lightweight.</p>
+                            </div>
+							 							<div class="informations_picture">
+								<img width="283" height="283" src="https://cdn.flybgd.com/files/photo/svg/1561053989-5706.svg?v=1561053989" loading="lazy" decoding="async" /><noscript><img src="https://cdn.flybgd.com/files/photo/svg/1561053989-5706.svg?v=1561053989" width="283" height="283" /></noscript>
+							</div>
+                         </div>
+                    </div>
+                </div>   
+          	</div>
+		</section>  
+        
+        
+                <div class="spt-trackThis"></div></div>
+<div class="bgd-embed-section" data-bgd-section="features"><div class="features_layer lazy" data-bg="url(https://cdn.flybgd.com/files/photo/svg/1561053981-5954.svg?v=1561053981)"></div>
+            <div class="container">
+            	<div class="row">
+                	
+                    <div class="col-lg-6 col-xl-6">
+                    	<div class="features-picture">
+                    					<div class="feature_img">
+					<img width="720" height="720" src="https://cdn.flybgd.com/files/photo/carre/1561054291-2748.png?v=1561054296" loading="lazy" decoding="async" /><noscript><img src="https://cdn.flybgd.com/files/photo/carre/1561054291-2748.png?v=1561054296" width="720" height="720" /></noscript>
+				</div>
+				<a href="#" id="btn-features-43" class="btn-features active " style="top: 15%; left:27%;" data-feature-id="43" data-title="Chord Cut Billow (CCB)">+</a>
+				<a href="#" id="btn-features-774" class="btn-features  full_right" style="top: 1%; left:100%;" data-feature-id="774" data-title="Progressive Stability">+</a>
+				<a href="#" id="btn-features-865" class="btn-features  " style="top: 83%; left:55%;" data-feature-id="865" data-title="Snap Locks">+</a>
+                    	</div>
+                    </div>
+                    
+                    <div class="col-lg-5 offset-lg-1"><!-- col-xl-6  offset-xl-0 -->
+                    	<h2>Tech</h2>
+                        
+                        				<div class="feature active" data-feature-id="43">
+				<div class="feature-image">
+					<div class="embed-file on"><div class="embed-content"><div class="embed-container " data-bg="url(https://cdn.flybgd.com/files/photo/thumbail/1551023903-1019.jpg?v=1553794187)">
+	<iframe id="478bc40f1184a4b49fe96e04f753269d" class="" src="https://player.vimeo.com/video/364287205?title=0&amp;byline=0&amp;portrait=0&amp;color=bb202f&autoplay=1&autopause=0&loop=1&muted=1&background=1" allowfullscreen allow="autoplay" muted="muted"></iframe></div></div></div>
+				</div>
+				<h3 class="feature-title">Chord Cut Billow (CCB)</h3>
+				<div class="">
+					Chord Cut Billow technology has been developed to improve the form friction, glider stability and overall performance of our paragliders. Two seams run chord-wise across the top panels of the leading edge. They accommodate the panel ballooning that happens when the wing is inflated. Without CCB, up to five centimetres of excess material is created on the sides of an inflated flat panel when it bends over a wing profile. This results in wrinkles. Chord Cut Billow technology removes this excess material and the 3D panel has fewer ripples and improved rib profile shape and stability.
+
+				</div>
+				</div>
+				<div class="feature " data-feature-id="774">
+				<div class="feature-image">
+					<img src="https://cdn.flybgd.com/files/photo/thumbail/1649940470-4868.jpg?v=1649940470" width="800" height="400" />
+				</div>
+				<h3 class="feature-title">Progressive Stability</h3>
+				<div class="">
+					Using our Parasim simulation program, BGD gliders are designed to have a stable and solid centre with progressively softer tips. This teaches pilots to predict and avoid deflations and stay aware of the air.
+
+				</div>
+				</div>
+				<div class="feature " data-feature-id="865">
+				<div class="feature-image">
+					<div class="embed-file on"><div class="embed-content"><div class="embed-container " data-bg="url(https://cdn.flybgd.com/files/photo/thumbail/1649948549-4642.jpg?v=1649948549)">
+	<iframe id="7df84b94bb2829da84dbd190f2d7e4a5" class="" src="https://player.vimeo.com/video/364298489?title=0&amp;byline=0&amp;portrait=0&amp;color=bb202f&autoplay=1&autopause=0&loop=1&muted=1&background=1" allowfullscreen allow="autoplay" muted="muted"></iframe></div></div></div>
+				</div>
+				<h3 class="feature-title">Snap Locks</h3>
+				<div class="">
+					BGD developed the first snaplocks for paragliding with Fidlock a decade ago. They have been refined and improved over the years and have now been widely adopted in the industry. A small focused magnet inside the catch with an internal locking system holds the handles in place. They release only when the handles are pulled down towards the pilot, so they don’t fall off while kiting, packing, or performing manoeuvres.  
+				</div>
+				</div>
+                         
+                        
+                    </div>
+                </div>   
+          	</div>
+		</section> 
+        
+        
+        <div class="spt-trackThis"></div></div>
+<div class="bgd-embed-section" data-bgd-section="target"><div class="container">
+            	<div class="row">
+                	<div class="col-lg-6">
+                    	 <h2>Target</h2>
+                         <p>The TALA is for pilots looking for an accessible, EN-C rated, high-performance wing. It is good all-round wing that performs well in serial competitions and hike-and-fly.</p>
+                         
+                         <br />
+                         <h2>Designer's notes</h2>
+                         <p>In recent years gliders have become very complicated, with more cells, more ribs, and a lot of plastic. The TALA is a wing that has a low cell count (Simple Cells) and a very clean leading edge (Cord Cut Billow).<br/><br/>The Tala is a wing that has a small number of cells (Simple Cells) but whose leading edge is perfectly clean (Cord Cut Billow). By working on the combination of different groups of cells, we were able to make the Tala with only 50 cells, reducing the weight, the total line length and the complexity of the wing. <br/><br/>The Tala is an authentic three-liner, from the bottom to the top of the line. For each half-wing it has 3 lines per row, and only two splits on the two central lines. The third outside line is split in two, making it easy to make effective big ears. <br/><br/>The unsheathed line used is flexible and easy to untangle. The total length of line on the Tala M is only 238 m, which is close to two-riser wings. The weight of the Tala M is just 4.9 kg, achieved without using delicate lightweight materials.</p>
+
+                    </div>
+                    
+                	<div class="col-lg-5 offset-lg-1">
+                    	<div class="target-flyingstyle">
+                            <h3>Flying <strong>Level / Style</strong></h3>
+                            
+                            					<input id="flying_level" type="text" data-provide="slider"	data-slider-ticks="[0, 5, 10]" data-slider-ticks-labels='["Beginner", "Intermediate", "Advanced"]' data-slider-min="0" data-slider-max="10" data-slider-step="1" data-slider-value="[5, 8]" data-slider-tooltip="hide" data-slider-enabled="false" data-slider-id="flying_level_slider" />
+					<br><br><br><br>
+							
+							
+                            
+                            			<h3 class="mb" style="margin-top:40px">Package includes</h3>
+Paraglider / Compression strap / Riser bag / Inner bag / Rucksack / Repair cloth / BGD gift
+                    	</div>
+                    </div>
+                    
+                    
+                </div>   
+          	</div>
+		</section></div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"bg-warm-white min-h-screen","children":["$","div",null,{"className":"layout-container max-w-6xl pt-20 lg:pt-24 pb-10 lg:pb-16","children":[["$","nav",null,{"aria-label":"Breadcrumb","className":"text-sm text-slate mb-6","style":{"fontFamily":"var(--font-inter)"},"children":["$","ol",null,{"className":"flex flex-wrap gap-x-1.5 gap-y-1","children":[["$","li","Home",{"className":"flex items-center gap-1.5","children":[null,["$","$L2",null,{"href":"/","className":"text-horizon hover:text-sky-deep transition-colors","children":"Home"}]]}],["$","li","Paragliding shop",{"className":"flex items-center gap-1.5","children":[["$","span",null,{"className":"text-cloud","children":"/"}],["$","$L2",null,{"href":"/paragliding-shop","className":"text-horizon hover:text-sky-deep transition-colors","children":"Paragliding shop"}]]}],["$","li","Paragliders",{"className":"flex items-center gap-1.5","children":[["$","span",null,{"className":"text-cloud","children":"/"}],["$","$L2",null,{"href":"/paragliding-shop/paragliders","className":"text-horizon hover:text-sky-deep transition-colors","children":"Paragliders"}]]}],["$","li","TALA",{"className":"flex items-center gap-1.5","children":[["$","span",null,{"className":"text-cloud","children":"/"}],["$","span",null,{"className":"text-soft-black font-medium","children":"TALA"}]]}]]}]}],["$","header",null,{"className":"mb-10 max-w-prose","children":[["$","h1",null,{"className":"text-3xl sm:text-4xl font-bold text-teal-600 mb-2","style":{"fontFamily":"var(--font-inter)"},"children":"TALA"}],["$","p",null,{"className":"text-slate text-lg leading-relaxed mb-4","style":{"fontFamily":"var(--font-inter)"},"children":"The TALA is a reassuring three liner for XC pilots who want the great performance in a fun glider that is safe, simple, and lightweight."}],["$","$L2",null,{"href":"/contact","className":"inline-flex items-center justify-center px-5 py-3 text-teal-700 font-semibold underline","style":{"fontFamily":"var(--font-inter)"},"children":"Contact us"}]]}],["$","article",null,{"className":"bgd-product-html text-slate","style":{"fontFamily":"var(--font-inter)"},"dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}]}],["$L5"],"$L6"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"25hMhhWhkoJTha_Og-J0m"}
+4:["$","p",null,{"className":"text-xs text-slate/80 mt-10 pt-6 border-t border-cloud","style":{"fontFamily":"var(--font-inter)"},"children":"Product text and media mirror the public English materials from the manufacturer. In-page links to the manufacturer are disabled; use Contact us to reach our school. Always verify class ratings, weight ranges, and line plans for your size before you fly."}]
+5:["$","script","script-0",{"src":"/paragliding-school-copy/_next/static/chunks/06e6k8wjhv093.js","async":true}]
+6:["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]
+9:null

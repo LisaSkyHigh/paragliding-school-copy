@@ -1,0 +1,346 @@
+1:"$Sreact.fragment"
+2:I[22016,["/paragliding-school-copy/_next/static/chunks/0z~j7c7sl~_.k.js","/paragliding-school-copy/_next/static/chunks/08fct066p2nk~.js","/paragliding-school-copy/_next/static/chunks/0d3shmwh5_nmn.js","/paragliding-school-copy/_next/static/chunks/06e6k8wjhv093.js"],""]
+7:I[97367,["/paragliding-school-copy/_next/static/chunks/0z~j7c7sl~_.k.js","/paragliding-school-copy/_next/static/chunks/08fct066p2nk~.js","/paragliding-school-copy/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+3:T46ab,<div class="bgd-embed-section" data-bgd-section="introduction"><div class="container">
+            	<div class="row">
+                	<div class="col-lg-12">
+                    	<div class="tagline">- Share the Fun -</div>
+                    </div>
+                </div>
+                
+                <div class="row reverse_position_lg">
+                	<div class="col-lg-6">
+                    	<div class="row">
+                        	<div class="col-md-12">
+                                <div class="anim3d">
+                                							<div class="main_picture_sel active" id="main_picture_sel_935">
+								<img src="https://cdn.flybgd.com/files/photo/carre/1571137592-5806.png?v=1571137598" width="720" height="720" alt="Dolphin" title="Dolphin" />
+							</div>
+							<div class="main_picture_sel" id="main_picture_sel_936">
+								<img src="https://cdn.flybgd.com/files/photo/carre/1561062422-7460.png?v=1561062427" width="720" height="720" alt="Reef" title="Reef" />
+							</div>
+							<div class="main_picture_sel" id="main_picture_sel_937">
+								<img src="https://cdn.flybgd.com/files/photo/carre/1571133224-3175.png?v=1571133229" width="720" height="720" alt="Turtle" title="Turtle" />
+							</div>
+  
+                                </div>
+							</div>
+                        </div>
+                        
+                        <div class="row">
+                        	<div class="col-md-12">
+                                <div class="couleurs">
+                                							<div class='panel_3d_options'>
+								<div class='panel_3d_options_selector' onmouseup='switch_product_color(935)' onmouseover='switch_product_color(935)'><img src="https://cdn.flybgd.com/files/photo/mini/1571137592-5806.png?v=1571137597" width="250" height="250" alt="Dolphin" title="Dolphin" /><span>Dolphin</span></div>
+								<div class='panel_3d_options_selector' onmouseup='switch_product_color(936)' onmouseover='switch_product_color(936)'><img src="https://cdn.flybgd.com/files/photo/mini/1561062422-7460.png?v=1561062426" width="250" height="250" alt="Reef" title="Reef" /><span>Reef</span></div>
+								<div class='panel_3d_options_selector' onmouseup='switch_product_color(937)' onmouseover='switch_product_color(937)'><img src="https://cdn.flybgd.com/files/photo/mini/1571133224-3175.png?v=1571133229" width="250" height="250" alt="Turtle" title="Turtle" /><span>Turtle</span></div>
+							</div>
+  
+                                </div>
+							</div>
+                        </div>
+                    </div>
+                     
+                    <div class="col-lg-5 offset-lg-1">
+                    	<div class="row">
+                            <div class="col-12">
+                                <h1>Dual</h1>
+                                <h2>EN/LTF-B</h2>
+                            </div>
+                            <div class="col-12">
+                                <p>The DUAL is an EN-B rated tandem paraglider designed by Bruce specifically to share the fun.</p>
+                            </div>
+                        </div>
+                        <div class="row">
+                        	<div class="col-12">
+													<ul class="features_summary">
+							<li><a href="#features" class="btn-features-top scroll_to" data-feature-id="43" data-title="Chord Cut Billow (CCB)">Chord Cut Billow (CCB)</a></li>
+							<li><a href="#features" class="btn-features-top scroll_to" data-feature-id="860" data-title="BGD Feedback">BGD Feedback</a></li>
+							<li><a href="#features" class="btn-features-top scroll_to" data-feature-id="774" data-title="Progressive Stability">Progressive Stability</a></li>
+							<li><a href="#features" class="btn-features-top scroll_to" data-feature-id="782" data-title="Replaceable trimmers">Replaceable trimmers</a></li>
+					</ul>
+                                
+                                <a href="#informations" class="btn btn-secondary btn-lg scroll_to">Read more</a>
+                                <a href="#" data-bgd-stay="1" class="btn btn-primary btn-lg scroll_to">Free demo</a>
+                                
+                                
+                        	</div>
+                        </div>
+                        
+                        							
+                         <div class="echelle_size">
+                             <div class="row">
+                                <div class="col-sm-3 col-lg-4">   
+                                     <h2>Size</h2>
+                                     <p class="metres">m²</p>
+                                </div>
+                                <div class="col-sm-9 col-lg-8">   
+                                    
+                                    			<div class="table-responsive">
+				<table class="table table-sm table-option-no-border-top">
+					<tbody>
+						<tr>
+							<td style="width: 100%"><strong>40</strong></td>
+						</tr>
+						<tr>
+							<td>40</td>
+						</tr>
+					</tbody>
+				</table>
+				</div>
+                                </div>
+                    		</div>
+                        </div>
+                                                </div>
+                    
+                </div>
+            </div>
+		</section>
+        
+        
+          
+        
+        
+        
+                <div class="spt-trackThis"></div></div>
+<div class="bgd-embed-section" data-bgd-section="video"><div class="container">
+            	<div class="row">
+                	<div class="col-md-12">
+                    	<div class="embed-file on"><div class="embed-content"><div class="embed-container lazy " >
+	<iframe id="27ad50f0359fdfdbd5892c5c76e30f4b" class="lazy "  src="https://player.vimeo.com/video/207606635?title=0&amp;byline=0&amp;portrait=0&amp;color=bb202f" allowfullscreen loading="lazy" title="Video"></iframe></div></div></div>                    </div>
+                </div>   
+          	</div>
+		</section>  
+        
+         
+        
+        
+        
+        
+        <div class="spt-trackThis"></div></div>
+<div class="bgd-embed-section" data-bgd-section="informations"><div class="container">
+            	<div class="row">
+                	<div class="col-lg-6">
+						
+                        
+                        			<h2>Specs</h2>
+			<div class="table-responsive">
+				<table class="table table-sm table-option-border-bottom col_size_2" cols="2">
+					<thead>
+						<tr>
+							<th scope="col" class="libelle">&nbsp;</th>
+							<th scope="col">40</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<th scope="row">Linear scaling factor</th>
+							<td colspan="1">1</td>
+						</tr>
+						<tr>
+							<th scope="row">Projected area (m²)</th>
+							<td colspan="1">34.3</td>
+						</tr>
+						<tr>
+							<th scope="row">Flat area (m²)</th>
+							<td colspan="1">40</td>
+						</tr>
+						<tr>
+							<th scope="row">Glider weight (kg)</th>
+							<td colspan="1">7.5</td>
+						</tr>
+						<tr>
+							<th scope="row">Total line length (m)</th>
+							<td colspan="1">450</td>
+						</tr>
+						<tr>
+							<th scope="row">Height (m)</th>
+							<td colspan="1">9.4</td>
+						</tr>
+						<tr>
+							<th scope="row">Number of main lines (A/B/C)</th>
+							<td colspan="1">3/4/3/2</td>
+						</tr>
+						<tr>
+							<th scope="row">Cells</th>
+							<td colspan="1">53</td>
+						</tr>
+						<tr>
+							<th scope="row">Flat aspect ratio</th>
+							<td colspan="1">5.3</td>
+						</tr>
+						<tr>
+							<th scope="row">Projected aspect ratio</th>
+							<td colspan="1">3.9</td>
+						</tr>
+						<tr>
+							<th scope="row">Root chord (m)</th>
+							<td colspan="1">3.5</td>
+						</tr>
+						<tr>
+							<th scope="row">Flat span (m)</th>
+							<td colspan="1">15.6</td>
+						</tr>
+						<tr>
+							<th scope="row">Projected span (m)</th>
+							<td colspan="1">11.5</td>
+						</tr>
+						<tr>
+							<th scope="row">Trim speed (km/h)</th>
+							<td colspan="1">42</td>
+						</tr>
+						<tr>
+							<th scope="row">Top speed (km/h)</th>
+							<td colspan="1">52</td>
+						</tr>
+						<tr>
+							<th scope="row">Min sink (m/s)</th>
+							<td colspan="1">1</td>
+						</tr>
+						<tr>
+							<th scope="row">Best glide</th>
+							<td colspan="1">9</td>
+						</tr>
+						<tr>
+							<th scope="col">Certified weight range (kg)</th>
+							<td>120-220</td>
+						</tr>
+						<tr>
+							<th scope="row">Certification (EN/LTF)</th>
+							<td>B</td>
+						</tr>
+					</tbody>
+				</table>
+				</div>
+
+                    </div>
+                    
+                    <div class="col-lg-5 offset-lg-1">
+                    	 <div id="informations_right">
+                         	<div class="informations_text">
+                            	<h2>Info</h2>
+                             	<p>The DUAL is an EN-B rated tandem paraglider designed by Bruce specifically to share the fun. With one size at 40m². meters flat and a weight range of 120 - 220 kg we believe it is the perfect size for almost any couple to comfortably fly. We don’t want our pilots to risk flying uninsured by carrying passengers that take them outside their glider's certification. Of course, we have added CCB to the DUAL's leading edge in an effort to improve stability and performance. It worked. <br/><br/>The Dual is equipped with trimmers so pilots can adjust the handling and speed according to their passenger and loading.</p>
+                            </div>
+							 							<div class="informations_picture">
+								<img width="283" height="283" src="https://cdn.flybgd.com/files/photo/svg/1561061821-4929.svg?v=1561061821" loading="lazy" decoding="async" /><noscript><img src="https://cdn.flybgd.com/files/photo/svg/1561061821-4929.svg?v=1561061821" width="283" height="283" /></noscript>
+							</div>
+                         </div>
+                    </div>
+                </div>   
+          	</div>
+		</section>  
+        
+        
+                <div class="spt-trackThis"></div></div>
+<div class="bgd-embed-section" data-bgd-section="features"><div class="features_layer lazy" data-bg="url(https://cdn.flybgd.com/files/photo/svg/1561061811-0598.svg?v=1561061811)"></div>
+            <div class="container">
+            	<div class="row">
+                	
+                    <div class="col-lg-6 col-xl-6">
+                    	<div class="features-picture">
+                    					<div class="feature_img">
+					<img width="720" height="720" src="https://cdn.flybgd.com/files/photo/carre/1561061999-0906.png?v=1561062005" loading="lazy" decoding="async" /><noscript><img src="https://cdn.flybgd.com/files/photo/carre/1561061999-0906.png?v=1561062005" width="720" height="720" /></noscript>
+				</div>
+				<a href="#" id="btn-features-43" class="btn-features active " style="top: 28%; left:30%;" data-feature-id="43" data-title="Chord Cut Billow (CCB)">+</a>
+				<a href="#" id="btn-features-860" class="btn-features  full_right" style="top: 1%; left:100%;" data-feature-id="860" data-title="BGD Feedback">+</a>
+				<a href="#" id="btn-features-866" class="btn-features  " style="top: 60%; left:65%;" data-feature-id="866" data-title="Integrated Line Layout">+</a>
+				<a href="#" id="btn-features-774" class="btn-features  " style="top: 25%; left:80%;" data-feature-id="774" data-title="Progressive Stability">+</a>
+				<a href="#" id="btn-features-782" class="btn-features  " style="top: 73%; left:58%;" data-feature-id="782" data-title="Replaceable trimmers">+</a>
+                    	</div>
+                    </div>
+                    
+                    <div class="col-lg-5 offset-lg-1"><!-- col-xl-6  offset-xl-0 -->
+                    	<h2>Tech</h2>
+                        
+                        				<div class="feature active" data-feature-id="43">
+				<div class="feature-image">
+					<div class="embed-file on"><div class="embed-content"><div class="embed-container " data-bg="url(https://cdn.flybgd.com/files/photo/thumbail/1551023903-1019.jpg?v=1553794187)">
+	<iframe id="478bc40f1184a4b49fe96e04f753269d" class="" src="https://player.vimeo.com/video/364287205?title=0&amp;byline=0&amp;portrait=0&amp;color=bb202f&autoplay=1&autopause=0&loop=1&muted=1&background=1" allowfullscreen allow="autoplay" muted="muted"></iframe></div></div></div>
+				</div>
+				<h3 class="feature-title">Chord Cut Billow (CCB)</h3>
+				<div class="">
+					Chord Cut Billow technology has been developed to improve the form friction, glider stability and overall performance of our paragliders. Two seams run chord-wise across the top panels of the leading edge. They accommodate the panel ballooning that happens when the wing is inflated. Without CCB, up to five centimetres of excess material is created on the sides of an inflated flat panel when it bends over a wing profile. This results in wrinkles. Chord Cut Billow technology removes this excess material and the 3D panel has fewer ripples and improved rib profile shape and stability.
+
+				</div>
+				</div>
+				<div class="feature " data-feature-id="860">
+				<div class="feature-image">
+					<img src="https://cdn.flybgd.com/files/photo/thumbail/1558108590-3448.jpg?v=1558108590" width="800" height="400" />
+				</div>
+				<h3 class="feature-title">BGD Feedback</h3>
+				<div class="">
+					Gliders that talk are safer. Safer gliders make pilots perform better. Better performing pilots fly further. Further flying pilots are happier pilots. BGD Feedback produces happier pilots!
+				</div>
+				</div>
+				<div class="feature " data-feature-id="866">
+				<div class="feature-image">
+					<img src="https://cdn.flybgd.com/files/photo/thumbail/1557845000-0936.jpg?v=1557845000" width="800" height="400" />
+				</div>
+				<h3 class="feature-title">Integrated Line Layout</h3>
+				<div class="">
+					The line layout of our gliders is fully integrated into the wing design. Sail and lines are designed together, holistically. The cell widths and the internal straps that transfer the load though the sail are all designed according to the line layout. Even the panel shaping is matched with the line layout through detailed CAD simulation. The result is simple: fewer lines and stronger, faster, safer gliders.
+				</div>
+				</div>
+				<div class="feature " data-feature-id="774">
+				<div class="feature-image">
+					<img src="https://cdn.flybgd.com/files/photo/thumbail/1649940470-4868.jpg?v=1649940470" width="800" height="400" />
+				</div>
+				<h3 class="feature-title">Progressive Stability</h3>
+				<div class="">
+					Using our Parasim simulation program, BGD gliders are designed to have a stable and solid centre with progressively softer tips. This teaches pilots to predict and avoid deflations and stay aware of the air.
+
+				</div>
+				</div>
+				<div class="feature " data-feature-id="782">
+				<div class="feature-image">
+					<img src="https://cdn.flybgd.com/files/photo/thumbail/1551026900-1617.jpg?v=1553794192" width="800" height="400" />
+				</div>
+				<h3 class="feature-title">Replaceable trimmers</h3>
+				<div class="">
+					Committed to building products that last, we only use durable high-tech fabrics and sheathed aramid lines. In addition, we’ve created a replaceable trimmer system to maximise longevity. 
+				</div>
+				</div>
+                         
+                        
+                    </div>
+                </div>   
+          	</div>
+		</section> 
+        
+        
+        <div class="spt-trackThis"></div></div>
+<div class="bgd-embed-section" data-bgd-section="target"><div class="container">
+            	<div class="row">
+                	<div class="col-lg-6">
+                    	 <h2>Target</h2>
+                         <p>The DUAL is designed for commercial pilots who use the glider as a tool to give the paragliding experience to their passengers, but also for hobby tandem pilots the DUAL fits simply perfect. We think paragliding provides great feelings of flight; this glider is designed to share them with others. The DUAL is for the pilot that wants a wing that will handle like their solo wing and launch and land easily.</p>
+                         
+                         <br />
+                         <h2>Designer's notes</h2>
+                         <p>I have found I don't have enough control over some tandem gliders when I am thermalling. I think this is because a tandem wing is usually faster, holding more energy and inertia than a solo wing. I feel as if  I don't have enough strength in my arms to make the glider do what I want. I don’t really want to start weight training, so I designed the DUAL to have softer and, most importantly, very sensitive brakes. The DUAL gives the pilot more authority for launching, flying, and landing like on a solo wing.</p>
+
+                    </div>
+                    
+                	<div class="col-lg-5 offset-lg-1">
+                    	<div class="target-flyingstyle">
+                            <h3>Flying <strong>Level / Style</strong></h3>
+                            
+                            					<input id="flying_level" type="text" data-provide="slider"	data-slider-ticks="[0, 5, 10]" data-slider-ticks-labels='["Beginner", "Intermediate", "Advanced"]' data-slider-min="0" data-slider-max="10" data-slider-step="1" data-slider-value="[3, 10]" data-slider-tooltip="hide" data-slider-enabled="false" data-slider-id="flying_level_slider" />
+					<br><br><br><br>
+							
+							
+                            
+                            			<h3 class="mb" style="margin-top:40px">Package includes</h3>
+Paraglider / Compression strap / Riser bag / Inner bag / Rucksack / Repair cloth / Replacement Trimmers / BGD gift
+                    	</div>
+                    </div>
+                    
+                    
+                </div>   
+          	</div>
+		</section></div>0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"bg-warm-white min-h-screen","children":["$","div",null,{"className":"layout-container max-w-6xl pt-20 lg:pt-24 pb-10 lg:pb-16","children":[["$","nav",null,{"aria-label":"Breadcrumb","className":"text-sm text-slate mb-6","style":{"fontFamily":"var(--font-inter)"},"children":["$","ol",null,{"className":"flex flex-wrap gap-x-1.5 gap-y-1","children":[["$","li","Home",{"className":"flex items-center gap-1.5","children":[null,["$","$L2",null,{"href":"/","className":"text-horizon hover:text-sky-deep transition-colors","children":"Home"}]]}],["$","li","Paragliding shop",{"className":"flex items-center gap-1.5","children":[["$","span",null,{"className":"text-cloud","children":"/"}],["$","$L2",null,{"href":"/paragliding-shop","className":"text-horizon hover:text-sky-deep transition-colors","children":"Paragliding shop"}]]}],["$","li","Paragliders",{"className":"flex items-center gap-1.5","children":[["$","span",null,{"className":"text-cloud","children":"/"}],["$","$L2",null,{"href":"/paragliding-shop/paragliders","className":"text-horizon hover:text-sky-deep transition-colors","children":"Paragliders"}]]}],["$","li","DUAL",{"className":"flex items-center gap-1.5","children":[["$","span",null,{"className":"text-cloud","children":"/"}],["$","span",null,{"className":"text-soft-black font-medium","children":"DUAL"}]]}]]}]}],["$","header",null,{"className":"mb-10 max-w-prose","children":[["$","h1",null,{"className":"text-3xl sm:text-4xl font-bold text-teal-600 mb-2","style":{"fontFamily":"var(--font-inter)"},"children":"DUAL"}],["$","p",null,{"className":"text-slate text-lg leading-relaxed mb-4","style":{"fontFamily":"var(--font-inter)"},"children":"The DUAL is an EN-B rated tandem paraglider designed by Bruce specifically to share the fun. With one size at 40m². meters flat and a weight range of 120 - 220 kg we believe it is the perfect size for..."}],["$","$L2",null,{"href":"/contact","className":"inline-flex items-center justify-center px-5 py-3 text-teal-700 font-semibold underline","style":{"fontFamily":"var(--font-inter)"},"children":"Contact us"}]]}],["$","article",null,{"className":"bgd-product-html text-slate","style":{"fontFamily":"var(--font-inter)"},"dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4"]}]}],["$L5"],"$L6"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"25hMhhWhkoJTha_Og-J0m"}
+4:["$","p",null,{"className":"text-xs text-slate/80 mt-10 pt-6 border-t border-cloud","style":{"fontFamily":"var(--font-inter)"},"children":"Product text and media mirror the public English materials from the manufacturer. In-page links to the manufacturer are disabled; use Contact us to reach our school. Always verify class ratings, weight ranges, and line plans for your size before you fly."}]
+5:["$","script","script-0",{"src":"/paragliding-school-copy/_next/static/chunks/06e6k8wjhv093.js","async":true}]
+6:["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]
+9:null
