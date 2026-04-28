@@ -42,6 +42,9 @@ jobs:
           NEXT_PUBLIC_SITE_URL: https://lisaskyhigh.github.io/paragliding-school-copy
         run: npm run build
 
+      - name: Disable Jekyll (so _next CSS/JS is served)
+        run: touch out/.nojekyll
+
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
