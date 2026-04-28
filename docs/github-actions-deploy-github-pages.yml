@@ -1,5 +1,4 @@
-# Copy to `.github/workflows/deploy-github-pages.yml` when your Git token has the `workflow` scope.
-# GitHub OAuth apps cannot push workflow files without it; see docs/CHECKPOINT-rollback-and-site-map.md.
+# Kept in sync with `.github/workflows/deploy-github-pages.yml` (deploy from GitHub Actions).
 
 name: Deploy to GitHub Pages
 
@@ -14,7 +13,7 @@ permissions:
   id-token: write
 
 concurrency:
-  group: pages-paragliding-school
+  group: pages-paragliding-school-copy
   cancel-in-progress: true
 
 jobs:
@@ -39,7 +38,8 @@ jobs:
       - name: Build static site
         env:
           STATIC_GH_PAGES: "1"
-          NEXT_PUBLIC_SITE_URL: https://lisaskyhigh.github.io/paragliding-school
+          NEXT_PUBLIC_BASE_PATH: "/paragliding-school-copy"
+          NEXT_PUBLIC_SITE_URL: https://lisaskyhigh.github.io/paragliding-school-copy
         run: npm run build
 
       - name: Upload Pages artifact

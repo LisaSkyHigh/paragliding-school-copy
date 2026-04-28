@@ -37,7 +37,8 @@ const nextConfig: NextConfig = {
   ...(staticGhPages
     ? {
         output: 'export' as const,
-        basePath: '/paragliding-school',
+        // Must match GitHub Pages project path: /<repo>/
+        basePath: '/paragliding-school-copy',
         trailingSlash: true,
         images: { unoptimized: true, remotePatterns: cdnAndSanity },
         skipTrailingSlashRedirect: true,
