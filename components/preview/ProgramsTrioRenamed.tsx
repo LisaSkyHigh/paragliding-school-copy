@@ -1,4 +1,5 @@
 import Image from 'next/image'
+import { publicPath } from '@/lib/public-path'
 import Link from 'next/link'
 
 /**
@@ -33,7 +34,7 @@ export default function ProgramsTrioRenamed() {
           <div className="flex-1 bg-white border border-cloud rounded-xl lg:rounded-r-none overflow-hidden flex flex-col">
             <div className="relative h-52 overflow-hidden">
               <Image
-                src="/photos/photo-try.jpg"
+                src={publicPath('/photos/photo-try.jpg')}
                 alt="Tandem flight — start your path to learning to fly"
                 fill
                 className="object-cover object-center"
@@ -78,7 +79,7 @@ export default function ProgramsTrioRenamed() {
           <div className="flex-1 bg-white border border-cloud lg:border-x-0 overflow-hidden flex flex-col">
             <div className="relative h-52 overflow-hidden">
               <Image
-                src="/photos/photo-learn.jpg"
+                src={publicPath('/photos/photo-learn.jpg')}
                 alt="Ground school and solo flights — building skills"
                 fill
                 className="object-cover object-center"
@@ -123,7 +124,7 @@ export default function ProgramsTrioRenamed() {
           <div className="flex-1 bg-sky-deep border border-sky-deep rounded-xl lg:rounded-l-none overflow-hidden flex flex-col">
             <div className="relative h-52 overflow-hidden">
               <Image
-                src="/photos/bg-hero-main.jpg"
+                src={publicPath('/photos/bg-hero-main.jpg')}
                 alt="Flying over mountains — gear that gets you there"
                 fill
                 className="object-cover object-center"

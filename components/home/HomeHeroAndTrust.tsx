@@ -1,6 +1,7 @@
 import Image from 'next/image'
 import Link from 'next/link'
 import { homepageEn } from '@/lib/copy/homepage-en'
+import { publicPath } from '@/lib/public-path'
 
 const copy = homepageEn
 
@@ -20,7 +21,7 @@ export default function HomeHeroAndTrust({ compactAfterSafety = false }: HomeHer
     <>
       <section className="relative h-screen min-h-[600px] flex items-center justify-center overflow-hidden">
         <Image
-          src="/photos/bg-hero-main.jpg"
+          src={publicPath('/photos/bg-hero-main.jpg')}
           alt="Paraglider soaring over mountains"
           fill
           priority

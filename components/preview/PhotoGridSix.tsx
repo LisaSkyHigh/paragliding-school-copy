@@ -1,5 +1,6 @@
 import Image from 'next/image'
 import Link from 'next/link'
+import { publicPath } from '@/lib/public-path'
 
 type Tile = {
   href: string
@@ -109,7 +110,7 @@ export default function PhotoGridSix({
               }`}
             >
               <Image
-                src={t.image}
+                src={publicPath(t.image)}
                 alt={t.alt}
                 fill
                 className="z-0 object-cover object-center transition-transform duration-500 group-hover:scale-[1.03] motion-reduce:transition-none"
